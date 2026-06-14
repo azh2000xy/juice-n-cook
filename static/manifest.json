@@ -1,0 +1,22 @@
+{
+  "name": "果蔬汁菜谱",
+  "short_name": "菜谱",
+  "description": "输入食材，智能推荐菜谱和果蔬汁",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f6f0",
+  "theme_color": "#e65100",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/static/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

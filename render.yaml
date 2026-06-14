@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: juice-n-cook
+    env: python
+    buildCommand: pip install -r requirements_web.txt
+    startCommand: gunicorn app:app --bind 0.0.0.0:$PORT
+    plan: free
