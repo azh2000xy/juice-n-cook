@@ -72,6 +72,33 @@ def expand_aliases(user_ings: list[str]) -> set:
     return result
 
 
+def get_steps_preview(filepath: str) -> list[str]:
+    """从食谱文件中提取前 3 步操作步骤"""
+    full_path = BASE / filepath
+    if not full_path.exists():
+        return []
+    with open(full_path, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    steps = []
+    in_ops = False
+    for line in content.split('\n'):
+        # Look for ## 操作 or ## 操作步骤
+        if re.match(r'^##\s+操作', line):
+            in_ops = True
+            continue
+        if in_ops:
+            if line.startswith('## '):
+                break
+            # Match numbered step
+            m = re.match(r'^\d+\.\s*(.+)', line)
+            if m:
+                step = m.group(1).strip()
+                if len(step) > 3 and len(steps) < 3:
+                    steps.append(step)
+    return steps
+
+
 def search(user_ings: list[str], recipe_type: str = "both",
            method_filter: str = None) -> list[dict]:
     """搜索匹配食谱"""
@@ -116,6 +143,7 @@ def search(user_ings: list[str], recipe_type: str = "both",
             "matched": matched,
             "missing": missing[:THRESHOLDS.get("max_missing_show", 6)],
             "missing_count": len(missing),
+            "steps": get_steps_preview(r.get("file", "")),
             "file": r.get("file", ""),
             "source": src,
             "score": round(score, 2),

@@ -193,6 +193,26 @@
     color: #e65100;
   }
 
+  .steps-preview {
+    margin-top: 10px;
+    padding: 10px 12px;
+    background: #fafaf8;
+    border-radius: 10px;
+    font-size: 13px;
+    line-height: 1.6;
+  }
+  .steps-preview .step-label {
+    font-weight: 700;
+    color: #e65100;
+    margin-bottom: 4px;
+    font-size: 12px;
+  }
+  .steps-preview li {
+    margin: 2px 0;
+    color: #555;
+    padding-left: 4px;
+  }
+
   /* ── Detail Modal ── */
   .modal-overlay {
     display: none;
@@ -397,6 +417,13 @@ function renderResults(data) {
         ${r.missing.map(m => `<span class="ing-tag missing">📋 ${m}</span>`).join('')}
         ${r.missing_count > r.missing.length ? `<span class="ing-tag missing">+${r.missing_count - r.missing.length}项</span>` : ''}
       </div>
+      ${r.steps && r.steps.length ? `
+      <div class="steps-preview">
+        <div class="step-label">📝 做法预览：</div>
+        <ol style="margin:0;padding-left:16px;">
+          ${r.steps.map(s => `<li>${s}</li>`).join('')}
+        </ol>
+      </div>` : ''}
     </div>`;
   });
   document.getElementById('results').innerHTML = html;
