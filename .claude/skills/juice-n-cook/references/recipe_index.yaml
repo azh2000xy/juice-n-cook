@@ -4472,6 +4472,10 @@ recipes:
   - 青蟹
   - 咖喱块
   - 洋葱
+  steps:
+  - 肉蟹掀盖后对半砍开，蟹钳用刀背轻轻拍裂，切口和蟹钳蘸一下生粉，不要太多。撒 5g 生粉到蟹盖中，盖住蟹黄，备用
+  - 洋葱切成洋葱碎，备用
+  - 大蒜切碎，备用
   file: recipes/cooking/aquatic/咖喱炒蟹.md
   source: howtocook
 - title: 响油鳝丝
@@ -4498,6 +4502,10 @@ recipes:
   - 鳝丝
   - 大蒜
   - 姜末
+  steps:
+  - 将鳝鱼切成三段后切成细丝
+  - 加入 0.5 g 胡椒粉、3 g 料酒搅拌均匀，再加入 5 g 香油腌制
+  - 热油滑锅
   file: recipes/cooking/aquatic/响油鳝丝.md
   source: howtocook
 - title: 小龙虾
@@ -4523,6 +4531,10 @@ recipes:
   - 小龙虾
   - 油
   - 香叶
+  steps:
+  - 小龙虾刷干净去虾线，葱切 2cm 葱段，姜蒜切末。
+  - 烧油，油微热, 下香叶、八角、桂皮、青花椒、花椒、子弹头辣椒。
+  - 香料出香气之后下锅葱姜蒜
   file: recipes/cooking/aquatic/小龙虾/小龙虾.md
   source: howtocook
 - title: 干煎阿根廷红虾
@@ -4544,6 +4556,10 @@ recipes:
   - 阿根廷红虾
   - 海盐
   - 黑胡椒
+  steps:
+  - 阿根廷红虾解冻，最好是提前 1 天从速冻取出放到冷藏里自然解冻，能更好保持风味和口感。可买已经开背去虾线的，节省了不少时间
+  - 解冻好的红虾洗净擦干备用，注意这里一定要沥干水分，赶时间可以用厨房用纸吸干水分
+  - 生姜切片，洋葱切小方块，香菜洗干净后，叶茎分离，把香菜叶切碎，大蒜压碎切成小块碎末
   file: recipes/cooking/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md
   source: howtocook
 - title: 微波葱姜黑鳕鱼
@@ -4564,6 +4580,10 @@ recipes:
   - 黑鳕鱼，带皮
   - 青葱
   - 姜
+  steps:
+  - 鱼片分别放入密封袋，鱼皮向下放在盘子中。
+  - 取葱白切丝 25g，姜去皮后切丝，10g，混合在一起后分成两半，分别放在袋内鱼片上。
+  - 每个袋子倒入 2.5mL 料酒。
   file: recipes/cooking/aquatic/微波葱姜黑鳕鱼.md
   source: howtocook
 - title: 水煮鱼
@@ -4587,6 +4607,10 @@ recipes:
   - 巴沙鱼
   - 蔬菜
   - 红油豆瓣酱
+  steps:
+  - 准备：巴沙鱼若是从冷冻柜里取出，需要放室温自然解冻 5 小时再做切片处理。
+  - 切片：巴沙鱼撇成薄片，约 5cm 长，3cm 宽。
+  - '[腌制](../../tips/learn/学习腌.md)：将切好片的巴沙鱼放入大不锈钢碗中'
   file: recipes/cooking/aquatic/水煮鱼.md
   source: howtocook
 - title: 油焖大虾
@@ -4601,6 +4625,10 @@ recipes:
   - 黑虎虾 or 明虾
   - 葱、姜
   - 料酒、盐、冰糖、植物油
+  steps:
+  - 剪虾枪到根上，虾须虾爪都剪掉，沙包挑掉，开背虾线挑出来，洗净备用
+  - 下油，虾摆放整齐，两面变色后轻轻摁虾头
+  - 大火烧开转小火盖盖子闷（中途不能再加汤水，不要开盖）
   file: recipes/cooking/aquatic/油焖大虾/油焖大虾.md
   source: howtocook
 - title: 烤鱼
@@ -4632,6 +4660,10 @@ recipes:
   - 草鱼
   - 大葱
   - 料酒
+  steps:
+  - 草鱼（一般 3 斤 ）从背部切开，两面沿着鱼的背部往下划几刀，不要划到鱼肚皮，不然不易定型
+  - 把鱼放到容器中，加入料酒，10g 白胡椒粉，5g 食盐抹匀腌制二十分钟入味。
+  - 把半根大葱切成一块一块，大蒜粒中间切开，和八角香叶桂皮放在一个容器中
   file: recipes/cooking/aquatic/混合烤鱼/烤鱼.md
   source: howtocook
 - title: 清蒸生蚝
@@ -4650,6 +4682,10 @@ recipes:
   - 生蚝
   - 葱
   - 蒜
+  steps:
+  - 将生蚝用刷子刷干净（没有刷子用牙刷）。
+  - 蒸锅中放水，将蒸屉放上之后，将 6 个生蚝平铺在蒸屉,使用 50%功率，蒸 3 分钟。
+  - 用右手拿着湿抹布掀开烫锅盖，将每个生蚝的外壳掀开一半去掉，生蚝的凸面向下，平面向上，每个放 1 根姜丝,10g 蒜末放到生蚝上。
   file: recipes/cooking/aquatic/清蒸生蚝.md
   source: howtocook
 - title: 清蒸鲈鱼
@@ -4668,6 +4704,10 @@ recipes:
   - 鲈鱼
   - 香葱
   - 姜
+  steps:
+  - 姜切片切丝、香葱的葱白切段，葱绿切丝，切丝后放入冷水浸泡备用。
+  - 鲈鱼处理好后洗净，用厨房纸擦干，两面分别划几刀，用盐洗掉鱼身的粘液，并用 10g 盐抹遍鱼身的内外，腌制 10 分钟以上。
+  - 补充一个鲈鱼改刀和摆盘的方法，改刀后可以让鲈鱼立起来蒸，均匀受热，同时吃起来更加方便，无需翻面。
   file: recipes/cooking/aquatic/清蒸鲈鱼/清蒸鲈鱼.md
   source: howtocook
 - title: 白灼虾
@@ -4690,6 +4730,10 @@ recipes:
   - 活虾
   - 洋葱
   - 姜
+  steps:
+  - 洋葱切小块，姜切片，平铺平底锅。
+  - 活虾冲洗一下（去除虾线、剪刀减掉虾腿虾须子都是可选操作），控水，铺在平底锅的洋葱、姜片之上。
+  - 锅内倒入料酒，盖上锅盖，中火 1 分钟，小火 5 分钟，关火 5 分钟。
   file: recipes/cooking/aquatic/白灼虾/白灼虾.md
   source: howtocook
 - title: 糖醋鲤鱼
@@ -4712,6 +4756,10 @@ recipes:
   - 鲤鱼
   - 番茄酱
   - 白糖
+  steps:
+  - 将鱼清洗干净，确保无鱼鳞等异物
+  - 将鱼头朝左，鱼肚朝下，右手持刀。刀竖直切下 1cm，按紧鱼身往左片 3-4cm，再将鱼片中间轻轻划一刀
+  - 将鱼放进盆里，然后将大姜切片，大葱切段（随便切切就行了，主要是需要去腥味）
   file: recipes/cooking/aquatic/糖醋鲤鱼/糖醋鲤鱼.md
   source: howtocook
 - title: 红烧鱼
@@ -4732,6 +4780,10 @@ recipes:
   - 姜、蒜瓣、干辣椒
   - 油、盐、料酒、醋、酱油、白砂糖
   - 鱼
+  steps:
+  - 姜蒜准备好，切碎
+  - 干辣椒切碎，和姜蒜一起
+  - 加入 30-50ml 油，等待锅热...
   file: recipes/cooking/aquatic/红烧鱼.md
   source: howtocook
 - title: 红烧鱼头
@@ -4748,6 +4800,10 @@ recipes:
   - 大葱、姜、大蒜、香菜、美人椒
   - 八角、干辣椒
   - 鱼头一个
+  steps:
+  - 葱、姜、蒜、香菜、美人椒分别清洗干净。
+  - 干辣椒与八角稍微冲洗即可。
+  - 大葱切两半。后半段大葱（葱白处）切段，每段长度约 4cm。前半段（葱叶处）先切段，再将每段劈为四瓣。
   file: recipes/cooking/aquatic/红烧鱼头.md
   source: howtocook
 - title: 红烧鲤鱼
@@ -4761,6 +4817,10 @@ recipes:
   - 水产
   - 大葱、姜、大蒜、干辣椒
   - 鲤鱼、五花肉
+  steps:
+  - 葱、姜、蒜、干辣椒分别清洗干净。
+  - 葱白处切段，每段长度约 4cm，再将每段劈为四瓣。
+  - 姜切片，每片厚度约 3mm。
   file: recipes/cooking/aquatic/红烧鲤鱼.md
   source: howtocook
 - title: 肉蟹煲
@@ -4797,6 +4857,10 @@ recipes:
   - 肉蟹
   - 虾
   - 土豆
+  steps:
+  - 土豆切块为各边均为 3 cm 的立方体，青/红椒切成边长 4 cm 的菱形片，洋葱切成 3 cm 宽的月牙瓣，年糕切成 1 cm 厚片
+  - 螃蟹切成 50-80 g 的块，裹薄淀粉，180 °C 油温炸 1 分钟捞出
+  - 锅中放油，蒜姜干辣椒爆香，放所有酱料 + 冰糖小火炒出红油，注意别糊底
   file: recipes/cooking/aquatic/肉蟹煲.md
   source: howtocook
 - title: 芥末黄油罗氏虾
@@ -4818,6 +4882,10 @@ recipes:
   - 罗氏虾
   - 黄油
   - 芥末
+  steps:
+  - 将罗氏虾剪掉头尾尖刺、触须和脚，剪刀把虾身开背，去除虾线。
+  - 提前搅拌好芥末酱汁：酱油、蚝油、芥末、盐、糖，搅拌均匀！
+  - 洗好香菜，切段备用。
   file: recipes/cooking/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md
   source: howtocook
 - title: 葱油桂鱼
@@ -4839,6 +4907,10 @@ recipes:
   - 桂鱼
   - 小葱
   - 小米辣
+  steps:
+  - 去菜市场买已经处理好的鱼（自己处理的话最好不要内脏），将鱼身表面的所有鳞片刮干净
+  - 用厨房用纸将鱼肚子里的贴骨血和黑膜擦干净（帖骨血会影响口感，黑膜是鱼腥味的来源）
+  - 用菜刀在鱼身表面来回刮几次，将鱼身的黏液刮掉，进一步去除腥味，然后用清水将鱼内外冲洗干净
   file: recipes/cooking/aquatic/葱油桂鱼/葱油桂鱼.md
   source: howtocook
 - title: 葱烧海参
@@ -4851,6 +4923,10 @@ recipes:
   tags:
   - 泡发好的海参![海参]
   - 大葱葱白
+  steps:
+  - 葱白切成 1cm 的段，备用。
+  - 海参切成 1cm 的段，备用。
+  - 准备一个空碗，倒入 20g 蚝油， 10g 生抽， 2g 白糖，搅拌均匀。![料汁](./酱汁.jpeg)
   file: recipes/cooking/aquatic/葱烧海参/葱烧海参.md
   source: howtocook
 - title: 蒜蓉虾
@@ -4866,6 +4942,10 @@ recipes:
   - 海虾
   - 蒜蓉酱
   - 食用油
+  steps:
+  - 用刀从从虾头中间切开，切到距离虾尾 1 cm
+  - 将蒜蓉酱铺在虾身中间，放在盘子中
+  - 锅中倒入热水，将盘子放入锅中，大火蒸 3 分钟
   file: recipes/cooking/aquatic/蒜蓉虾/蒜蓉虾.md
   source: howtocook
 - title: 蒜香黄油虾
@@ -4883,6 +4963,10 @@ recipes:
   - 大虾
   - 无盐黄油
   - 大蒜
+  steps:
+  - 大虾去头去壳留尾，用牙签挑去虾线，洗净后用厨房纸吸干水分
+  - 大蒜切成蒜末，备用
+  - 中火加热平底锅，放入 10ml 橄榄油
   file: recipes/cooking/aquatic/蒜香黄油虾/蒜香黄油虾.md
   source: howtocook
 - title: 蛏抱蛋
@@ -4902,6 +4986,10 @@ recipes:
   - 蛏子
   - 鸡蛋
   - 食用油
+  steps:
+  - 烧开水，将蛏子放入水中，水煮 2 分钟后，捞上来去壳，放入大碗
+  - 往大碗中加入洋葱、生抽、料酒、鸡精、生粉后，充分搅拌
+  - 往大碗中打入 2 个 鸡蛋，继续搅拌
   file: recipes/cooking/aquatic/蛏抱蛋/蛏抱蛋.md
   source: howtocook
 - title: 酱炖蟹
@@ -4925,6 +5013,10 @@ recipes:
   - 螃蟹
   - 豆瓣酱
   - 冰糖
+  steps:
+  - 把螃蟹刷洗干净，然后在砧板上对半劈开
+  - 锅里下菜油，放入姜末和豆瓣酱爆香，加入冰糖炒化，直到冒小气泡就盛出
+  - 在盘子里铺上一层酱，然后把切好的螃蟹切开面朝下，整齐排放在酱上
   file: recipes/cooking/aquatic/酱炖蟹.md
   source: howtocook
 - title: 阳朔啤酒鱼
@@ -4951,6 +5043,10 @@ recipes:
   - 剑骨鱼或鲤鱼
   - 漓泉啤酒
   - 番茄
+  steps:
+  - 鱼处理好内脏，保留鱼鳞，清洗干净，从腹部剖开成两半（背部相连），用 15ml 料酒、姜片、食盐 3g 腌制 15 分钟
+  - 番茄切块，青椒红椒切块，大蒜拍碎，生姜切片，葱切段（葱白葱叶分开）
+  - 用姜片擦拭锅底，热锅后倒入 30ml 食用油，油热后放入鱼（鱼皮朝下），煎至两面金黄、鱼鳞酥脆，盛出备用
   file: recipes/cooking/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md
   source: howtocook
 - title: 香煎翘嘴鱼
@@ -4974,6 +5070,10 @@ recipes:
   - 翘嘴鱼
   - 姜
   - 葱
+  steps:
+  - 鱼开背杀好（让卖鱼的杀好，千万不要剖腹杀鱼，切记是开背），清洗干净
+  - 鱼表面用盐涂抹均匀，倒入料酒约 80ml,姜末 20g，放入冰箱保鲜层进行腌制 1-2 天
+  - 取出腌制好的鱼，用绳挂起晾晒至半干（约 1-2 天，具体时间需结合气温与阳光）
   file: recipes/cooking/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md
   source: howtocook
 - title: 鲤鱼炖白菜
@@ -4997,6 +5097,10 @@ recipes:
   - 食用油
   - 姜
   - 蒜
+  steps:
+  - 鲤鱼清洗干净，改刀（在鱼身上多划几个伤口，方便入味）
+  - 娃娃菜清洗干净放入盘中备用
+  - 锅中加油，等油热放入“少盐” “姜” “蒜” “郫县豆瓣酱” “桂皮” “八角” 炒出香味
   file: recipes/cooking/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md
   source: howtocook
 - title: 鳊鱼炖豆腐
@@ -5023,6 +5127,10 @@ recipes:
   - 鳊鱼
   - 老豆腐
   - 姜
+  steps:
+  - 鳊鱼改刀,放上姜片和料酒腌制 5-10 分钟
+  - 老豆腐切块后放入水中备用
+  - 锅中加油，可以放点盐在锅里，防止煎鱼的时候粘锅，把腌制的鱼用厨房纸擦干水分，把鱼放到锅中，两面都煎一下
   file: recipes/cooking/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md
   source: howtocook
 - title: 黄油煎虾
@@ -5041,6 +5149,10 @@ recipes:
   - 鲜虾
   - 黄油
   - 黑胡椒粒
+  steps:
+  - 鲜虾摘除头部，顺带扯出虾线（这步处理不好可在下一步开背时取出虾线），使用剪刀剪开或菜刀片开虾背，沥干水分备用
+  - 调制酱汁：小碗放入上述量的全部生抽、米酒、白糖、盐搅匀备用
+  - 中大火热锅，热锅内放入食用油，等待 10 秒让油温升高
   file: recipes/cooking/aquatic/黄油煎虾/黄油煎虾.md
   source: howtocook
 - title: 吐司果酱
@@ -5056,6 +5168,10 @@ recipes:
   - 新鲜吐司
   - 果酱
   - 面包机
+  steps:
+  - 将吐司放入面包机
+  - 设置好档位,时间到了会自动弹出
+  - 两分钟后吐司加热完成弹出
   file: recipes/cooking/breakfast/吐司果酱.md
   source: howtocook
 - title: 太阳蛋
@@ -5072,6 +5188,10 @@ recipes:
   - 鸡蛋
   - 盐
   - 油
+  steps:
+  - 准备一个小碗，倒入在上一步计算好的油，撒盐，搅拌均匀。倾斜碗使油沾在碗表面。
+  - 取出一个鸡蛋，打入小碗。
+  - 蛋黄表面戳孔。牙签戳 5 个或筷子戳 1 个。
   file: recipes/cooking/breakfast/太阳蛋.md
   source: howtocook
 - title: 完美水煮蛋
@@ -5085,6 +5205,10 @@ recipes:
   - 早餐
   - 新鲜鸡蛋
   - 定时器
+  steps:
+  - 准备两锅水： A 锅维持 100°C 沸水， B 锅维持 30°C 温水
+  - 用漏勺将鸡蛋放入 A 锅，启动定时器
+  - 精准**每 2 分钟**将鸡蛋转移至另一锅水
   file: recipes/cooking/breakfast/完美水煮蛋.md
   source: howtocook
 - title: 微波炉荷包蛋
@@ -5100,6 +5224,10 @@ recipes:
   - 鸡蛋
   - 芝麻油
   - 盐
+  steps:
+  - 将鸡蛋打入小碗中，用筷子在所有鸡蛋黄上扎 2 个洞，避免加热弄脏微波炉
+  - 然后向碗内倒入常温饮用水
+  - 再向碗内倒入食用盐
   file: recipes/cooking/breakfast/微波炉荷包蛋.md
   source: howtocook
 - title: 微波炉蒸蛋
@@ -5117,6 +5245,10 @@ recipes:
   - 鸡蛋
   - 温水或高汤
   - 食盐
+  steps:
+  - 将鸡蛋打散，加入温水/高汤、盐、生抽，轻轻搅匀，尽量不要起泡。
+  - 将蛋液过筛倒入耐热碗中，表面若有气泡可用牙签轻戳。
+  - 覆盖保鲜膜并扎 8-10 个小孔，或使用微波炉专用盖（留缝隙）。
   file: recipes/cooking/breakfast/微波炉蒸蛋.md
   source: howtocook
 - title: 微波炉蛋糕
@@ -5133,6 +5265,10 @@ recipes:
   - 黄油
   - 面粉
   - 泡打粉
+  steps:
+  - 加入以下食材，注意不要超过容器的 3/4
+  - 夸赞一下自己🥰
+  - 微波炉（高火）加热 **1分钟** （至蓬松蛋糕形态）
   file: recipes/cooking/breakfast/微波炉蛋糕.md
   source: howtocook
 - title: 意式香肠北非蛋
@@ -5155,6 +5291,10 @@ recipes:
   - 意式猪肉香肠
   - 百味来
   - 鸡蛋
+  steps:
+  - 将意式猪肉香肠去肠衣备用；洋葱切小丁；甜椒切细丝。
+  - 在宽口平底锅中倒入 10ml - 15ml 橄榄油，中火加热。
+  - 放入处理好的香肠或午餐肉，翻炒至边缘金黄酥脆（如果使用生香肠，翻炒时用勺子将其捣碎变色）。
   file: recipes/cooking/breakfast/意式香肠北非蛋.md
   source: howtocook
 - title: 手抓饼
@@ -5176,6 +5316,10 @@ recipes:
   - 普通面粉
   - 开水
   - 冷水
+  steps:
+  - 面粉放入碗中，加入开水搅拌成絮状，再加入冷水揉成光滑面团，覆盖湿布静置 20 分钟。
+  - 面团分成每份约 100 克，搓圆，擀成薄片。
+  - 表面均匀涂抹食用油，撒上盐，卷成蜗牛状，松弛 10 分钟。
   file: recipes/cooking/breakfast/手抓饼.md
   source: howtocook
 - title: 桂圆红枣粥
@@ -5191,6 +5335,10 @@ recipes:
   - 糯米
   - 红枣
   - 桂圆
+  steps:
+  - 将桂圆肉扒出，用清水洗两次，放入碗中浸泡 10 分钟
+  - 红枣用清水洗两次，放入碗中浸泡 10 分钟
+  - 糯米放入电饭锅中，清水淘米两次后，加入 2000ml 水
   file: recipes/cooking/breakfast/桂圆红枣粥.md
   source: howtocook
 - title: 水煮玉米
@@ -5207,6 +5355,10 @@ recipes:
   - 新鲜玉米
   - 水
   - 盐
+  steps:
+  - 将新鲜玉米剥去外皮，剩部分玉米皮入锅
+  - 加入淹过玉米约半节指头的水，加盐和糖
+  - 水煮开之后转至小火，加盖继续煮 15-20 分钟，玉米煮久点没事。
   file: recipes/cooking/breakfast/水煮玉米.md
   source: howtocook
 - title: 温泉蛋
@@ -5223,6 +5375,10 @@ recipes:
   - 鸡蛋
   - 厨房用温度计
   - 杯子
+  steps:
+  - 在锅中盛装一定量自来水，确保水面没过约鸡蛋 3cm，水中插入温度计
+  - 开火或打开电磁炉，逐渐调整电磁炉功率或火苗大小，使得水温保持在 **70 摄氏度**
+  - 将鸡蛋放入锅中。鸡蛋不可互相堆叠，应皆在底部，并留有空间可以晃动
   file: recipes/cooking/breakfast/温泉蛋/温泉蛋.md
   source: howtocook
 - title: 溏心蛋
@@ -5238,6 +5394,10 @@ recipes:
   - 鸡蛋
   - 水
   - 秒表
+  steps:
+  - 将鸡蛋放入电锅中。鸡蛋不可互相堆叠，应皆在底部，并留有空间可以晃动
+  - 倒入淹过鸡蛋约 2 公分的冷水
+  - 开盖，使用最大功率加热至水滚起（大约 85 - 95 度，稍微滚动，不需完全沸腾）
   file: recipes/cooking/breakfast/溏心蛋.md
   source: howtocook
 - title: 煎饺
@@ -5251,6 +5411,10 @@ recipes:
   - 早餐
   - 饺子
   - 芝麻、葱花
+  steps:
+  - 取出平底锅（不沾平底锅最佳）
+  - 加入 10ml - 15 ml 食用油
+  - 开火，放入饺子（尽量平均铺开，不宜堆叠）
   file: recipes/cooking/breakfast/煎饺.md
   source: howtocook
 - title: 燕麦鸡蛋饼
@@ -5267,6 +5431,10 @@ recipes:
   - 鸡蛋
   - 燕麦
   - 牛奶
+  steps:
+  - 将牛奶与干燕麦混合搅拌均匀至黏稠状。
+  - 将鸡蛋搅拌均匀至颜色单一程度。
+  - 将鸡蛋液倒入燕麦牛奶中继续搅拌至黏稠、均匀。
   file: recipes/cooking/breakfast/燕麦鸡蛋饼.md
   source: howtocook
 - title: 牛奶燕麦
@@ -5282,6 +5450,10 @@ recipes:
   - 牛奶
   - 燕麦
   - 鸡蛋
+  steps:
+  - 将牛奶倒入早餐杯（冷的即可）
+  - 准备好 200ml 水，如果是直饮水直接加入燕麦，否则请烧开后加入燕麦
+  - 水沸后 2 分钟，燕麦煮好
   file: recipes/cooking/breakfast/牛奶燕麦.md
   source: howtocook
 - title: 空气炸锅面包片
@@ -5293,6 +5465,10 @@ recipes:
   tags:
   - 早餐
   - 面包片
+  steps:
+  - 取出两片面包片（建议使用粗粮面包片）
+  - 将面包片**垂直**放入空气炸锅
+  - 200°C 烘烤 5 分钟
   file: recipes/cooking/breakfast/空气炸锅面包片.md
   source: howtocook
 - title: 美式炒蛋
@@ -5309,6 +5485,10 @@ recipes:
   - 鸡蛋
   - 全脂牛奶/奶油
   - 黄油
+  steps:
+  - 鸡蛋打入大碗中，加盐搅打至起泡，静置 15 分钟
+  - 黄油切小块入锅，倒入蛋液，开小火不断搅拌
+  - 黄油一融化，就快速翻动蛋液，将其打碎成细密状，在蛋液大体凝固前关火
   file: recipes/cooking/breakfast/美式炒蛋.md
   source: howtocook
 - title: 苏格兰蛋
@@ -5324,6 +5504,10 @@ recipes:
   - 鸡蛋
   - 手抓饼皮
   - 芝士
+  steps:
+  - 用冷水下锅水开 3 分钟后捞出
+  - 鸡蛋捞出，放入冰水中剥壳更快速也更完整
+  - 用芝士片包裹鸡蛋
   file: recipes/cooking/breakfast/苏格兰蛋/苏格兰蛋.md
   source: howtocook
 - title: 茶叶蛋
@@ -5346,6 +5530,10 @@ recipes:
   - 鸡蛋
   - 八角
   - 香叶
+  steps:
+  - 用冷水将鸡蛋煮熟，大火大约 8 分钟（根据自家厨具决定）
+  - 鸡蛋捞出，过冷水
+  - 将鸡蛋互相碰撞，使每个鸡蛋产生裂缝
   file: recipes/cooking/breakfast/茶叶蛋.md
   source: howtocook
 - title: 蒸水蛋
@@ -5359,6 +5547,10 @@ recipes:
   - 早餐
   - 新鲜鸡蛋
   - 热水
+  steps:
+  - 鸡蛋打入碗中，打散
+  - 取其他容器，倒入 1.5 倍（半个蛋壳为 0.5 倍水）于蛋液的温水（温度 20~30），将盐倒入水中化开
+  - 将盐水倒入鸡蛋液中，顺时针或逆时针单方向搅拌均匀，气泡之类的可以用舀出丢弃，过筛则口感更加。
   file: recipes/cooking/breakfast/蒸水蛋.md
   source: howtocook
 - title: 蒸花卷
@@ -5375,6 +5567,10 @@ recipes:
   - 冷冻花卷
   - 圆碟子
   - 蒸架
+  steps:
+  - 从花卷的包装袋中取出 5 个花卷
+  - 把花卷平铺在碟子上，尽量不用重叠
+  - 往锅里倒入 400ml 水，把蒸架放里面，把装花卷的碟子放在蒸架上，盖上锅盖。
   file: recipes/cooking/breakfast/蒸花卷.md
   source: howtocook
 - title: 蛋煎糍粑
@@ -5390,6 +5586,10 @@ recipes:
   - 鸡蛋
   - 糍粑
   - 白糖或红糖
+  steps:
+  - 把糍粑切成长方形小块，便于后面煎
+  - 碗里打入一个鸡蛋并把鸡蛋搅碎，加入 2g 食用盐
+  - 将切好的小糍粑依此放入搅碎的鸡蛋里面，涂抹完糍粑双面为止
   file: recipes/cooking/breakfast/蛋煎糍粑.md
   source: howtocook
 - title: 金枪鱼酱三明治
@@ -5409,6 +5609,10 @@ recipes:
   - 水浸金枪鱼罐头
   - 方形吐司片
   - 蛋黄酱
+  steps:
+  - 将金枪鱼、蛋黄酱、俄式酸黄瓜汁倒入碗中，用勺子搅拌，保证将金枪鱼块搅碎，酱整体呈糊状，并备用
+  - 将 1 片吐司放在轻食机上
+  - 将做好的金枪鱼酱涂抹到吐司上，建议 10-15ml
   file: recipes/cooking/breakfast/金枪鱼酱三明治.md
   source: howtocook
 - title: 韩国麻药鸡蛋
@@ -5428,6 +5632,10 @@ recipes:
   - 鸡蛋
   - 韩式酱油
   - 日式味淋
+  steps:
+  - 烧一锅开水，水沸腾后放入鸡蛋，**煮 7 分钟**（得到完美的溏心蛋状态）。
+  - 煮鸡蛋的期间调制酱汁：将 4 汤匙酱油、4 汤匙清水、2 汤匙味淋、2 汤匙白糖倒入小锅中。
+  - 加热酱汁至沸腾，煮开以挥发掉味淋中的酒精味，随后关火放凉备用。
   file: recipes/cooking/breakfast/韩国麻药鸡蛋.md
   source: howtocook
 - title: 鸡蛋三明治
@@ -5447,6 +5655,10 @@ recipes:
   - 鸡蛋
   - 吐司
   - 培根
+  steps:
+  - 吐司切去四边，备用
+  - 鸡蛋煮熟，捣碎
+  - 混合鸡蛋、蛋黄酱、盐、黑胡椒
   file: recipes/cooking/breakfast/鸡蛋三明治.md
   source: howtocook
 - title: 油泼辣子
@@ -5474,6 +5686,10 @@ recipes:
   - 蒜头
   - 干辣椒面
   - 盐
+  steps:
+  - 拿出蒜头掰 2 个`小蒜头`去皮
+  - 拿出砧板剁碎`小蒜头`、`小米椒`
+  - 拿出碗倒入`花生油`
   file: recipes/cooking/condiment/油泼辣子/油泼辣子.md
   source: howtocook
 - title: 油酥
@@ -5489,6 +5705,10 @@ recipes:
   - 面粉
   - 油
   - 盐
+  steps:
+  - 面粉盛小碗里，加入盐
+  - 加入 200 度的热油
+  - 用筷子将其搅拌成无固状物体的糊状。
   file: recipes/cooking/condiment/油酥.md
   source: howtocook
 - title: 炸串酱料
@@ -5509,6 +5729,10 @@ recipes:
   - 干辣椒面
   - 孜然粉
   - 胡椒粉
+  steps:
+  - 所有原料在容器内混合，搅拌均匀。
+  - 锅里烧热油，油的用量以在容器内没过所有原材料为佳。
+  - 分三次淋入热油，每次 1/3，同时搅拌。
   file: recipes/cooking/condiment/炸串酱料.md
   source: howtocook
 - title: 简易版炒糖色
@@ -5520,6 +5744,10 @@ recipes:
   tags:
   - 调料
   - 糖
+  steps:
+  - 开火，并向锅中倒入 100ml 开水
+  - 再向锅中倒入 100ml 油，与第一步间隔越短越好，此时锅为大火中火都可以，着急的话可以大火
+  - 放入冰糖（如果冰糖过于耦合，可以提前敲碎，做到耦合度越低越好）
   file: recipes/cooking/condiment/简易版炒糖色.md
   source: howtocook
 - title: 糖醋汁
@@ -5537,6 +5765,10 @@ recipes:
   - 清水
   - 白糖
   - 白醋/米醋
+  steps:
+  - 按照比例将各调料在小碗中搅拌均匀
+  - 按不同菜肴的方式处理完毕后，将配制好的糖醋汁倒入锅中
+  - 根据各菜肴的不同，烹制 5-10 分钟
   file: recipes/cooking/condiment/糖醋汁.md
   source: howtocook
 - title: 草莓酱
@@ -5549,6 +5781,10 @@ recipes:
   tags:
   - 草莓
   - 白砂糖
+  steps:
+  - 草莓洗净去叶
+  - 将草莓切碎放入合适的碗中
+  - 将白糖倒入碗中与草莓搅拌均匀
   file: recipes/cooking/condiment/草莓酱/草莓酱.md
   source: howtocook
 - title: 葱油
@@ -5568,6 +5804,10 @@ recipes:
   - 油
   - 葱
   - 姜
+  steps:
+  - 开洋泡入 50 度温水中，加入 10ml 料酒去腥，泡 10 分钟后取出沥干水分
+  - 葱，香菜洗净，切成 5cm 长的段，擦干表面水份
+  - 洋葱切成丝，在锅里用热水煮 5 分钟，取出沥干水份
   file: recipes/cooking/condiment/葱油.md
   source: howtocook
 - title: 蒜香酱油
@@ -5585,6 +5825,10 @@ recipes:
   - 蒜头
   - 白芝麻
   - 花生油
+  steps:
+  - 拍碎蒜头
+  - 往蘸料碟中加入酱油
+  - 起锅，加入花生油，等到油温滚烫后加入拍好的蒜头，炸半分钟
   file: recipes/cooking/condiment/蒜香酱油.md
   source: howtocook
 - title: 蔗糖糖浆
@@ -5599,6 +5843,9 @@ recipes:
   - 白砂糖
   - 水
   - 可密封容器
+  steps:
+  - 将称好的白砂糖的饮用水于容器混匀
+  - 容器封盖放冰箱冷藏
   file: recipes/cooking/condiment/蔗糖糖浆/蔗糖糖浆.md
   source: howtocook
 - title: 反沙芋头
@@ -5614,6 +5861,10 @@ recipes:
   - 荔浦芋头
   - 白砂糖或冰糖
   - 水
+  steps:
+  - 芋头切长条（稍微大条一点，翻炒过程不容易烂）
+  - 加入可以没过芋头的油，等油温起来（插入筷子冒小泡即可）
+  - 放进芋头到油里，去炸到芋头浮起来，一般是微微泛黄并且可以用筷子很轻松戳洞
   file: recipes/cooking/dessert/反沙芋头/反沙芋头.md
   source: howtocook
 - title: 咖啡椰奶冻
@@ -5624,6 +5875,10 @@ recipes:
   - 过滤网
   tags:
   - 过滤网
+  steps:
+  - 将定量淡奶油，椰树牌椰汁，espresso，椰子水混合备用。
+  - 将以上液体加热 1 分钟，温度达到 50-60 度即可。
+  - （可选）如果格外嗜甜可以加额外的糖。
   file: recipes/cooking/dessert/咖啡椰奶冻/咖啡椰奶冻.md
   source: howtocook
 - title: 奥利奥冰淇淋
@@ -5640,6 +5895,10 @@ recipes:
   - 淡奶油
   - 原味奥利奥
   - 电动打蛋器
+  steps:
+  - 将奥利奥拧开后去除利利（夹心），备用
+  - 用筷子将奥奥剁碎，需要有一半奥奥变成粉状，另一半的奥奥最大长度小于 0.5 厘米，备用（某宝可搜“奥利奥饼干碎”，节省时间精力^-^）
+  - 将奶油全部倒置于深容器中，并加入准备好的糖
   file: recipes/cooking/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md
   source: howtocook
 - title: 戚风蛋糕
@@ -5659,6 +5918,10 @@ recipes:
   - 打蛋器
   - 铝合金阳极模具
   - 鸡蛋
+  steps:
+  - 从冰箱中取出新鲜的鸡蛋
+  - 准备两个容器并擦干，分别盛放蛋清与蛋黄
+  - 对盛放蛋清的容器，可稍有水珠，但**不能有任何油**；盛放蛋黄的容器不能有水珠
   file: recipes/cooking/dessert/戚风蛋糕/戚风蛋糕.md
   source: howtocook
 - title: 提拉米苏
@@ -5679,6 +5942,10 @@ recipes:
   - 马斯卡彭芝士
   - 手指饼干
   - 放凉浓缩咖啡
+  steps:
+  - 分离蛋黄蛋清
+  - 盛有蛋白的碗中加 10g 白砂糖湿性打发
+  - 盛有蛋黄的碗中将 40g 白砂糖分三次加入，搅拌至均匀
   file: recipes/cooking/dessert/提拉米苏/提拉米苏.md
   source: howtocook
 - title: 无厨师机蜂蜜面包
@@ -5700,6 +5967,10 @@ recipes:
   - 高筋面粉
   - 牛奶
   - 酵母
+  steps:
+  - 制作面团：将面粉，牛奶（建议加热到 40°，本人使用微波炉 15 - 20s），酵母，鸡蛋，面粉，糖和盐混合起来。
+  - 搅拌面团，将原料混合均匀成团。
+  - 加入黄油混合。
   file: recipes/cooking/dessert/无厨师机蜂蜜面包/无厨师机蜂蜜面包.md
   source: howtocook
 - title: 炸鲜奶
@@ -5716,6 +5987,10 @@ recipes:
   - 牛奶
   - 玉米淀粉
   - 面包糠
+  steps:
+  - 将牛奶倒入碗中
+  - 加入玉米淀粉和白糖，搅拌均匀
+  - 将模具刷上食用油
   file: recipes/cooking/dessert/炸鲜奶/炸鲜奶.md
   source: howtocook
 - title: 烤箱版巴斯克芝士蛋糕
@@ -5734,6 +6009,10 @@ recipes:
   - 奶油奶酪
   - 白砂糖
   - 鸡蛋
+  steps:
+  - 奶油奶酪软化，微波炉 10s + 10s。
+  - 奶油奶酪加入白砂糖，打蛋器打至顺滑。
+  - 加入 2 个全蛋 + 1 个蛋黄，搅拌均匀。
   file: recipes/cooking/dessert/烤箱版巴斯克芝士蛋糕/烤箱版巴斯克芝士蛋糕.md
   source: howtocook
 - title: 烤蛋挞
@@ -5752,6 +6031,10 @@ recipes:
   - 蛋挞皮 品牌不限
   - 鸡蛋
   - 牛奶
+  steps:
+  - 将碗置于克数称上 称量 450 克 淡奶油（淡奶油密度在此处记为 1 ）
+  - 加入 80 克白砂糖 （甜度中等 可按个人口味增减 建议范围 60-100 克）
+  - 加入 200 克牛奶 （牛奶密度在此处记为 1 ）
   file: recipes/cooking/dessert/烤蛋挞/烤蛋挞.md
   source: howtocook
 - title: 玛格丽特饼干
@@ -5769,6 +6052,10 @@ recipes:
   - 熟蛋黄
   - 黄油
   - 白砂糖
+  steps:
+  - 黄油隔热水融化、将蛋黄磨碎备用。
+  - 在融化的黄油中添加糖、盐、以及碾碎的鸡蛋黄，搅拌均匀
+  - 加入低筋面粉与玉米淀粉，揉成面团
   file: recipes/cooking/dessert/玛格丽特饼干/玛格丽特饼干.md
   source: howtocook
 - title: 红柚蛋糕
@@ -5786,6 +6073,10 @@ recipes:
   - 鸡蛋
   - 红柚果肉
   - 面粉
+  steps:
+  - 锡纸盘里打入鸡蛋 2 个， 加入红柚果肉 20g
+  - 锡纸盘中倒入 15ml 油并摇晃锡纸盘时期均匀覆盖盘底
+  - 锡纸盘中放入 10g 糖， 以及 40g 面粉和 40ml 水
   file: recipes/cooking/dessert/红柚蛋糕/红柚蛋糕.md
   source: howtocook
 - title: 胡萝卜甜糕
@@ -5807,6 +6098,10 @@ recipes:
   - 胡萝卜
   - 全脂牛奶
   - 糖
+  steps:
+  - 将胡萝卜去皮，用刨丝器刨成细丝
+  - 在厚底锅中倒入酥油 20g（一半量），中火加热融化
+  - 放入胡萝卜丝，翻炒 **3-5 分钟**，直至*胡萝卜丝变软且散发香味*
   file: recipes/cooking/dessert/胡萝卜甜糕.md
   source: howtocook
 - title: 芋泥雪媚娘
@@ -5828,6 +6123,10 @@ recipes:
   - 荔浦芋头
   - 紫薯粉
   - 牛奶
+  steps:
+  - 芋头切块，大火煮熟至软（40 分钟即可），全部放入料理机
+  - 向内加入 30g 牛奶，25g 淡奶油，将其打成泥状
+  - 再向内加入 3g 紫薯粉，18g 白砂糖，继续搅拌打成细腻芋泥
   file: recipes/cooking/dessert/芋泥雪媚娘/芋泥雪媚娘.md
   source: howtocook
 - title: 英式司康
@@ -5847,6 +6146,10 @@ recipes:
   - 无盐黄油
   - 低筋面粉
   - 糖
+  steps:
+  - 鸡蛋打散，称量出 30g 蛋液放入干净容器中，放入全量淡奶油和奶油奶酪混合均匀。如果奶酪太硬可以水浴加热至大约 40 度再混合。
+  - 将低筋面粉，盐，糖，泡打粉放入干净容器中混合均匀
+  - 黄油切成小块，放入上一步的混合物中，用手将黄油捏入混合物中，呈粗玉米粉质地
   file: recipes/cooking/dessert/英式司康/英式司康.md
   source: howtocook
 - title: 草莓冰淇淋
@@ -5863,6 +6166,10 @@ recipes:
   - 加糖炼乳
   - 草莓
   - 重奶油
+  steps:
+  - 先做草莓糖浆。把草莓洗干净，去掉顶部叶子。将草莓切成 **5mm** 的小块。保留一半切碎的草莓，稍后折叠成冰淇淋。
+  - 将另一半切碎的草莓和糖一起放入酱汁锅中。用中火搅拌和烹饪，直到草莓释放液体并在锅中形成糖浆。
+  - 让草莓在糖浆中加热，不时搅拌，直到它们分解并变形，糖浆稍微变稠。
   file: recipes/cooking/dessert/草莓冰淇淋/草莓冰淇淋.md
   source: howtocook
 - title: 酸奶意式奶冻
@@ -5879,6 +6186,10 @@ recipes:
   - 淡奶油
   - 糖
   - 原味酸奶
+  steps:
+  - 吉利丁片剪成小片，泡入冷水中
+  - 淡奶油和糖放入锅中，加热至 60 度
+  - 关火，吉利丁从水中取出，控干水份，加入热淡奶油中，搅拌均匀
   file: recipes/cooking/dessert/酸奶意式奶冻/酸奶意式奶冻.md
   source: howtocook
 - title: 雪花酥
@@ -5898,6 +6209,10 @@ recipes:
   - 一次性塑料手套
   - 雪花酥/牛轧糖模具
   - 擀面杖
+  steps:
+  - 饼干超过一元硬币大小先切成小块
+  - 无盐黄油加入锅中，小火加热至无盐黄油完全融化
+  - 棉花糖加入锅中，使用刮刀搅拌，直至棉花糖融化并与无盐黄油均匀融合
   file: recipes/cooking/dessert/雪花酥/雪花酥.md
   source: howtocook
 - title: 魔芋蛋糕
@@ -5919,6 +6234,10 @@ recipes:
   - 电动打蛋器
   - 金属蛋糕模具
   - 烘焙纸
+  steps:
+  - 在准备蛋糕糊之前，可以开始预热烤箱至 350 ℉( 150 ℃)以节省时间
+  - 从冰箱中取出新鲜的鸡蛋
+  - 准备两个容器并擦干，分别盛放蛋清与蛋黄
   file: recipes/cooking/dessert/魔芋蛋糕/魔芋蛋糕.md
   source: howtocook
 - title: 龟苓膏
@@ -5935,6 +6254,10 @@ recipes:
   - 龟苓膏粉
   - 冷水
   - 开水
+  steps:
+  - 在锅中倒入龟苓膏粉 25 克与冷水 120 毫升，充分搅拌至无颗粒感。
+  - 在另一个容器中加入白砂糖 100 克，倒入沸水 500 毫升，搅拌至糖完全溶解。
+  - 将糖水缓慢倒入龟苓膏粉液中，立即搅拌均匀，避免结块。
   file: recipes/cooking/dessert/龟苓膏/龟苓膏.md
   source: howtocook
 - title: B52轰炸机
@@ -5952,6 +6275,10 @@ recipes:
   - 甘露咖啡酒
   - 爱尔兰百利甜酒
   - 蓝天原味伏特加
+  steps:
+  - 在利口酒杯的最底层倒入甘露咖啡酒到 1/3 处。(10ml)
+  - 顺着吧勺缓缓倒入爱尔兰百利甜酒，也是 1/3 处 (10ml)。注意要慢，保证层次分明。（太快甜酒会和咖啡混合）
+  - 最后在上层倒入蓝天原味伏特加 （10ml)
   file: recipes/cooking/drink/B52轰炸机.md
   source: howtocook
 - title: Mojito莫吉托
@@ -5969,6 +6296,10 @@ recipes:
   - 打碎的冰块
   - 冰镇苏打水
   - 压汁器
+  steps:
+  - 将切成半块的青柠之一切成小块，放入海波杯，随后用研杵将其捣出汁；
+  - 用 3-4 珠薄荷叶沿着杯口涂抹，随后将其放入杯中；
+  - 加入 糖浆 20ml；
   file: recipes/cooking/drink/Mojito莫吉托.md
   source: howtocook
 - title: 冬瓜茶
@@ -5984,6 +6315,10 @@ recipes:
   - 冬瓜
   - 冰糖
   - 过滤网
+  steps:
+  - '**准备冬瓜**：将冬瓜去皮，去籽，切成小块（每块不超过 4cm）。'
+  - '**加入冰糖**：冬瓜加入冰糖，搅拌均匀，盖上保鲜膜放冰箱冷藏 2 小时以上。'
+  - '**煮冬瓜**： 此时冬瓜出了很多水, 倒入锅中 大火煮开，然后转中小火慢慢熬制 1~2 个小时，中途多搅拌防止糊锅。'
   file: recipes/cooking/drink/冬瓜茶.md
   source: howtocook
 - title: 冰粉
@@ -6001,6 +6336,10 @@ recipes:
   - 冰粉籽
   - 过滤豆浆渣的纱布一块
   - 凉白开
+  steps:
+  - 将凉白开倒入盆中；
+  - 将冰粉籽全部用纱布包起来，开口处打结
+  - 将包好的冰粉籽放入凉白开中，在凉白开中用力揉搓 6 分钟
   file: recipes/cooking/drink/冰粉/冰粉.md
   source: howtocook
 - title: 印度奶茶
@@ -6021,6 +6360,10 @@ recipes:
   - 红茶
   - 全脂牛奶
   - 生姜
+  steps:
+  - 将生姜拍碎（不用切太碎，拍开即可释放姜汁）
+  - 将小豆蔻用刀背拍开，露出里面的籽
+  - 将黑胡椒粒拍碎
   file: recipes/cooking/drink/印度奶茶.md
   source: howtocook
 - title: 可乐桶
@@ -6038,6 +6381,10 @@ recipes:
   - 波旁威士忌
   - 可口可乐
   - 冰块
+  steps:
+  - 将柠檬对半切（**刀方向垂直于柠檬的头尾连线**），并从其中的一半中切取一片柠檬备用
+  - 再次将柠檬对半切，将得到的 4 角柠檬用压汁器压出柠檬汁置于容器中备用
+  - 将挤压过的柠檬置于容器中备用
   file: recipes/cooking/drink/可乐桶.md
   source: howtocook
 - title: 奇异果菠菜特调
@@ -6050,6 +6397,10 @@ recipes:
   tags:
   - 原料
   - 工具
+  steps:
+  - 将猕猴桃切成两半，每半再分四份小块
+  - 将苹果切丁
+  - 将菠菜叶去梗，只留叶子部分
   file: recipes/cooking/drink/奇异果菠菜特调/奇异果菠菜特调.md
   source: howtocook
 - title: 奶茶
@@ -6063,6 +6414,10 @@ recipes:
   - 饮品
   - 袋泡红茶
   - 全脂奶粉或淡奶
+  steps:
+  - 取袋泡红茶 2 包放入杯中，加入 180-200mL **沸水**。
+  - '**等待 20 - 30 分钟**。'
+  - 称取 11-12g 奶粉和 5-7g 砂糖，分别加入前一步骤得到的液体中。
   file: recipes/cooking/drink/奶茶.md
   source: howtocook
 - title: 杨枝甘露
@@ -6079,6 +6434,10 @@ recipes:
   - 杯子
   - 牛奶
   - 冰块
+  steps:
+  - 奇亚籽泡牛奶 10 分钟。
+  - 泡籽之时，把半粒芒果、葡萄柚去皮切丁，放入杯中。
+  - 半粒芒果切小块放入调理机加冰块、椰奶打成泥。
   file: recipes/cooking/drink/杨枝甘露.md
   source: howtocook
 - title: 柠檬水
@@ -6091,6 +6450,10 @@ recipes:
   tags:
   - 原料
   - 工具
+  steps:
+  - 称 40~45 克柠檬，放入雪克杯中
+  - 雪克杯盖盖子锤大约 10 次
+  - 加入果蜜 40~45 克
   file: recipes/cooking/drink/柠檬水/柠檬水.md
   source: howtocook
 - title: 泰国手标红茶
@@ -6110,6 +6473,10 @@ recipes:
   - 水
   - 茶粉
   - 炼乳
+  steps:
+  - 600cc 水大火烧开
+  - 在过滤袋中装入 20g 茶粉，开水倒入过滤袋中，过滤 20 遍
+  - 使用克称量取 24g 炼乳、24g 白糖和 18ml 牛奶放入 1000ml 以上的水壶中
   file: recipes/cooking/drink/泰国手标红茶/泰国手标红茶.md
   source: howtocook
 - title: 海边落日
@@ -6134,6 +6501,10 @@ recipes:
   - 红石榴糖浆
   - NFC 橙汁
   - 苏打水
+  steps:
+  - 柠檬洗净切出一片
+  - 选择一个杯子，建议使用容量在 350~400 毫升的透明玻璃杯
+  - 放入大冰块，用搅拌棒搅拌冰杯
   file: recipes/cooking/drink/海边落日/海边落日.md
   source: howtocook
 - title: 牛油果拉西
@@ -6153,6 +6524,10 @@ recipes:
   - 原味酸奶
   - 熟透的牛油果
   - 蜂蜜
+  steps:
+  - 将牛油果对半切开，去核，剥去外皮，将果肉切成小块备用。
+  - 在搅拌机中加入 120ml 原味酸奶、切好的牛油果块、1 汤匙蜂蜜以及 60ml 冷牛奶。
+  - （可选）加入一小撮小豆蔻粉以增加独特风味。
   file: recipes/cooking/drink/牛油果拉西.md
   source: howtocook
 - title: 百香果橙子特调
@@ -6165,6 +6540,10 @@ recipes:
   tags:
   - 原料
   - 工具
+  steps:
+  - 百香果腌制（因为量小不好配置，这里是两次的分量）
+  - '茉莉绿茶调配（推荐比例=>茶 : 水 : 冰 = 1~2 : 50 : 30）'
+  - 橙子的处理（可在泡茶期间处理）
   file: recipes/cooking/drink/百香果橙子特调/百香果橙子特调.md
   source: howtocook
 - title: 砂糖椰子冰沙
@@ -6177,6 +6556,10 @@ recipes:
   tags:
   - 瓶装椰汁
   - 咖啡调糖
+  steps:
+  - 500ml 瓶装椰汁倒掉 200ml，立刻拧紧瓶盖。
+  - 将这瓶椰汁放入冰箱冷冻区并冷冻 10 小时以上。
+  - 将这瓶椰汁取出，若确认瓶中椰汁已彻底冻结，则在墙角、椅背、桌角等坚硬表面上用力抽打。（请务必确认表面不会因此受到损伤）
   file: recipes/cooking/drink/砂糖椰子冰沙/砂糖椰子冰沙.md
   source: howtocook
 - title: 耙耙柑茶
@@ -6189,6 +6572,9 @@ recipes:
   tags:
   - 原料
   - 工具
+  steps:
+  - '茉莉绿茶调配（推荐比例=>茶 : 水 : 冰 = 1~2 : 50 : 30）'
+  - 正式调配
   file: recipes/cooking/drink/耙耙柑茶/耙耙柑茶.md
   source: howtocook
 - title: 菠萝咖啡特调
@@ -6209,6 +6595,10 @@ recipes:
   - 咖啡液
   - 菠萝汁
   - 冰块
+  steps:
+  - 杯子里依次加入冰块，咖啡液，菠萝汁和苏打水
+  - 奶油加糖打发至湿性发泡，加入朗姆酒和牛奶均匀只有流动性
+  - 在第一部混合液上方倒入奶油
   file: recipes/cooking/drink/菠萝咖啡特调/菠萝咖啡特调.md
   source: howtocook
 - title: 酒酿醪糟
@@ -6225,6 +6615,10 @@ recipes:
   - 糯米
   - 安琪甜酒曲一包
   - 清水
+  steps:
+  - 将 800g 糯米淘洗干净放入电饭煲，加入 720g 清水选择蒸饭模式
+  - 蒸熟后将米饭倒出摊凉，使用干净的工具将其摊至 30°C （用温度计测量为宜，体感温热但不烫手）
+  - 将 8g 安琪甜酒曲用 20ml 温水（约 30°C）化开，均匀撒在糯米饭中，同时翻拌均匀
   file: recipes/cooking/drink/酒酿醪糟/酒酿醪糟.md
   source: howtocook
 - title: 酸梅汤
@@ -6245,6 +6639,10 @@ recipes:
   - 水
   - 乌枣
   - 乌梅
+  steps:
+  - 冲洗材料（干桂花和冰糖除外）， 1.5 升水常温浸泡两小时以上（干桂花和冰糖除外）
+  - 开中大火煮沸，盖盖，转小火煮 40 分钟，为头煎
+  - 将冰糖放入盆内，再将沥好用材的头汤趁热倒入，搅拌至冰糖融化。
   file: recipes/cooking/drink/酸梅汤/酸梅汤.md
   source: howtocook
 - title: 酸梅汤（半成品加工）
@@ -6258,6 +6656,10 @@ recipes:
   - 饮品
   - 酸梅晶固体饮料
   - 方糖
+  steps:
+  - 取饮用水 1177 克。
+  - 放入酸梅晶固体饮料 60 克，使用汤匙顺时针搅拌 50 圈。
+  - 再放入剩下 60 克酸梅晶固体饮料，再次使用汤匙顺时针搅拌 50 圈。
   file: recipes/cooking/drink/酸梅汤（半成品加工）.md
   source: howtocook
 - title: 金汤力
@@ -6275,6 +6677,10 @@ recipes:
   - 金酒
   - 汤力水气泡水
   - 柠檬
+  steps:
+  - 将柠檬对半切（**刀方向垂直于柠檬的头尾连线**），并从其中的一半中切取一片柠檬备用
+  - 再次将柠檬对半切，将得到的 4 角柠檬用压汁器压出柠檬汁置于容器中备用
+  - 选择一个杯子，建议使用容量在 350~400 毫升的透明玻璃杯
   file: recipes/cooking/drink/金汤力/金汤力.md
   source: howtocook
 - title: 金菲士
@@ -6294,6 +6700,10 @@ recipes:
   - 金酒
   - 苏打气泡水
   - 柠檬
+  steps:
+  - 将柠檬对半切（**刀方向垂直于柠檬的头尾连线**），并从其中的一半中切取一片柠檬备用
+  - 再次将柠檬对半切，将得到的 4 角柠檬用压汁器压出柠檬汁置于容器中备用
+  - 选择一个杯子，建议使用容量在 350~400 毫升的透明玻璃杯
   file: recipes/cooking/drink/金菲士/金菲士.md
   source: howtocook
 - title: 长岛冰茶
@@ -6316,6 +6726,10 @@ recipes:
   - 金酒
   - 龙舌兰酒
   - 伏特加
+  steps:
+  - 柠檬对半切，挤出 30ml 柠檬汁至杯中；
+  - 依次向杯中加入：
+  - 向杯中缓慢倒入 20ml 枫糖浆，边倒边搅拌；
   file: recipes/cooking/drink/长岛冰茶.md
   source: howtocook
 - title: 乡村啤酒鸭
@@ -6342,6 +6756,10 @@ recipes:
   - 鸭肉
   - 啤酒
   - 青椒
+  steps:
+  - 鸭肉清洗一遍放进锅中
+  - 加清水淹没鸭肉
+  - 加 20 ml 料酒
   file: recipes/cooking/meat_dish/乡村啤酒鸭.md
   source: howtocook
 - title: 农家一碗香
@@ -6350,6 +6768,10 @@ recipes:
   difficulty: 3
   ingredients: []
   tags: []
+  steps:
+  - 备菜阶段：将猪肉切片，最好把肥瘦分开放。同时要把青椒和小米辣切成段，蒜片用刀背拍成末，姜切成丝。鸡蛋打到小碗中，用筷子打散。
+  - 备好菜，就可正式煮菜了。先将油倒入锅中，锅中开小火，油热后将蛋液倒入锅中，将鸡蛋炒散，炒至断生即可，放回小碗中备用。
+  - 将锅中继续加一点油，开小火，锅热后将之前切的肥猪肉倒入锅中逼出猪油。
   file: recipes/cooking/meat_dish/农家一碗香/农家一碗香.md
   source: howtocook
 - title: 冬瓜酿肉
@@ -6369,6 +6791,10 @@ recipes:
   - 冬瓜
   - 猪肉末
   - 鸡蛋
+  steps:
+  - 冬瓜去皮，切成 25cm 长 3cm 厚的片
+  - 将切好的冬瓜放入碗中，放入 15g 盐，将冬瓜抹匀，放置 10 分钟
+  - 放置冬瓜的同时，换个碗放入肉末，葱姜末， 5g 盐，淀粉 5g，胡椒粉，生抽，胡椒粉
   file: recipes/cooking/meat_dish/冬瓜酿肉/冬瓜酿肉.md
   source: howtocook
 - title: 冷吃兔
@@ -6398,6 +6824,10 @@ recipes:
   - 兔肉
   - 盐
   - 味精
+  steps:
+  - 蒜、姜扒皮并剁碎备用，八角、桂皮、香叶、山奈、白蔻、小茴香洗净备用。
+  - 干辣椒剪成 2 厘米的小段，洗净备用。
+  - 小葱/大葱/洋葱洗净，洋葱切成小块。
   file: recipes/cooking/meat_dish/冷吃兔.md
   source: howtocook
 - title: 凉拌鸡丝
@@ -6418,6 +6848,10 @@ recipes:
   - 鸡胸肉
   - 麻油
   - 生抽
+  steps:
+  - 姜切片，备用
+  - 锅中倒入 4 升水
+  - 加入鸡胸肉、姜片
   file: recipes/cooking/meat_dish/凉拌鸡丝/凉拌鸡丝.md
   source: howtocook
 - title: 卤菜
@@ -6445,6 +6879,10 @@ recipes:
   - 卤料包
   - 黄豆酱
   - 豆瓣酱
+  steps:
+  - 牛腱子提前浸泡在冷水中 3 小时以上，去除血水
+  - 准备糖色：锅中加入 30g 白糖，小火加热至糖完全融化并呈现棕褐色，加入 150ml 热水，搅拌均匀备用
+  - 将洋葱切块，生姜和大蒜拍碎，干辣椒掰断备用
   file: recipes/cooking/meat_dish/卤菜/卤菜.md
   source: howtocook
 - title: 口水鸡
@@ -6465,6 +6903,10 @@ recipes:
   - 半只鸡
   - 辣椒粉
   - 花椒
+  steps:
+  - 姜切片，1 颗小葱，15 颗花椒备用
+  - 鸡肉洗干净，放入锅中，清水没过鸡肉，放入姜片、小葱和花椒，开大火烧开。
+  - 大火烧开后，转中小火 20 分钟关火
   file: recipes/cooking/meat_dish/口水鸡/口水鸡.md
   source: howtocook
 - title: 可乐鸡翅
@@ -6485,6 +6927,10 @@ recipes:
   - 鸡翅中
   - 可乐
   - 白糖
+  steps:
+  - 鸡翅入锅，倒入冷水淹没。放生姜 1 片和料酒 10 ～ 20 毫升。大火煮开（ 大约 2 分钟 ）后，撇去浮沫，沥出水分
+  - 捞出鸡翅，可用刀将两边各划上两口改刀。生抽约 10 克腌制鸡翅 10 分钟（生抽能完全包裹鸡翅表面入味就行）
+  - 锅重新小火起油，先将剩余姜片爆香，然后下入腌好的鸡翅。将鸡翅煎至金黄翻面（直到两面金黄），用炒菜勺子翻动一下鸡翅，与姜片一起翻炒 4～5 下（目的是防止鸡翅和姜片粘黏）。
   file: recipes/cooking/meat_dish/可乐鸡翅.md
   source: howtocook
 - title: 台式卤肉饭
@@ -6509,6 +6955,10 @@ recipes:
   - 红葱头
   - 带皮五花肉
   - 鸡蛋
+  steps:
+  - 带皮五花肉切成 $0.7cm（长）\times 0.7cm（宽） \times 2.5cm（高）$ 的细长条
+  - 红葱头、大蒜切末备用
+  - 鸡蛋煮熟剥壳，并用刀划破蛋白（便于入味），备用。
   file: recipes/cooking/meat_dish/台式卤肉饭/台式卤肉饭.md
   source: howtocook
 - title: 咕噜肉
@@ -6531,6 +6981,10 @@ recipes:
   - 梅头猪肉
   - 青椒
   - 罐头菠萝片
+  steps:
+  - 将梅头猪肉（100 克）洗净，然后用厨房纸抹干水份，将猪肉切成比想要的成品小一圈的大小。
+  - 用盐（1/2 茶匙）腌制梅头猪肉 20 分钟。
+  - 将青椒（25 克）切碎。
   file: recipes/cooking/meat_dish/咕噜肉.md
   source: howtocook
 - title: 咖喱肥牛
@@ -6549,6 +7003,10 @@ recipes:
   - 香叶
   - 纯牛奶
   - 洋葱
+  steps:
+  - 洋葱切成条状、胡萝卜以及土豆切成块状，备用
+  - 烧一锅开水，水沸时将肥牛卷下锅，捞出血沫后放在一边沥水，备用
+  - 热锅，锅内放入 10ml - 15ml 食用油，**等待 10 秒让油温升高**
   file: recipes/cooking/meat_dish/咖喱肥牛/咖喱肥牛.md
   source: howtocook
 - title: 商芝肉
@@ -6576,6 +7034,11 @@ recipes:
   - 带皮猪五花肉
   - 商芝
   - 葱
+  steps:
+  - 将肉刮洗干净，入煮锅煮至六成熟（变色为白），捞出趁热用蜂蜜、醋涂抹肉皮。
+  - 炒锅内放入熟猪油，用旺火烧至八成熟（约 200 度，油表有大量青烟，油状平静），将肉块皮朝下投入，炸至呈金红色时，捞入凉肉煮锅（之前煮完的煮锅）中泡软，放在案板上，切成三寸(10
+    cm)长、两分(0.6 cm)厚的片，仍然皮朝下，整齐装入蒸碗内。
+  - 将 5 克大葱切成 2.4 cm 长的段，5 克切成 2.4 cm 长的斜形片。姜去皮洗净，1.5 克切成片，5 克切成末，摊的鸡蛋皮切成 2.4 cm 长的等腰三角形片。
   file: recipes/cooking/meat_dish/商芝肉.md
   source: howtocook
 - title: 啤酒鸭
@@ -6602,6 +7065,10 @@ recipes:
   - 鸭肉
   - 啤酒
   - 生抽酱油
+  steps:
+  - 把鸭子切成 3 cm 小块，鸭肉冷水下锅，加姜片、料酒，焯一遍水，盛出沥干水分，备用。
+  - 炒锅烧热，放入约 100ml 食用油，大火待油烧开，鸭肉入锅翻炒至上色。
+  - 待鸭肉完全变色（肉眼可见泛白），将鸭肉拨到锅的一边，倒入豆瓣酱和糖，小火翻炒出香味和糖色。
   file: recipes/cooking/meat_dish/啤酒鸭/啤酒鸭.md
   source: howtocook
 - title: 回锅肉
@@ -6622,6 +7089,10 @@ recipes:
   - 五花肉
   - 小葱
   - 生姜
+  steps:
+  - 锅烧热，用手将五花肉紧紧压在锅上炙皮
+  - 用钢丝球把皮刷干净，至黑色部分碳化部分被完全去除，不刷干净会有苦味
+  - 将五花肉放入锅中，放入能淹没五花肉的冷水，放入生姜片、料酒和小葱（取 2 棵小葱打结）
   file: recipes/cooking/meat_dish/回锅肉/回锅肉.md
   source: howtocook
 - title: 土豆炖排骨
@@ -6649,6 +7120,10 @@ recipes:
   - 肋排
   - 土豆
   - 姜
+  steps:
+  - '**处理土豆：** 将 300g 土豆去皮，切成不规则的滚刀块 。**切好后立刻泡入一盆清水中**，隔绝氧气防止表面氧化发黑，备用。'
+  - '**处理葱姜：** 将 30g 姜全部切成薄片（分成两份 15g）。将 25g 小葱处理好：15g 挽成一个葱结，剩余 10g 切成细小葱花备用。'
+  - '**封装酱汁碗（一键调用）：** 拿一个小碗，依次加入 10ml 生抽、5ml 老抽、5ml 蚝油、5ml 黄豆酱，彻底搅拌均匀，放在灶台触手可及处备用。'
   file: recipes/cooking/meat_dish/土豆炖排骨/土豆炖排骨.md
   source: howtocook
 - title: 奶酪培根通心粉
@@ -6668,6 +7143,10 @@ recipes:
   - 通心粉
   - 奶酪
   - 肉类
+  steps:
+  - 奶酪要磨成碎末
+  - 洋葱切成条状
+  - 通心粉用微咸的水煮 6 分钟
   file: recipes/cooking/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md
   source: howtocook
 - title: 姜炒鸡
@@ -6689,6 +7168,10 @@ recipes:
   - 鸡
   - 生姜
   - 啤酒
+  steps:
+  - 鸡尽量剁成 1cm 的小块，洗净后滤干，再放生抽腌和料酒腌制 30 分钟
+  - 大先热锅到微微冒烟，放入食用油，等 5 秒
+  - 下入姜片后转中火炒 30 秒，
   file: recipes/cooking/meat_dish/姜炒鸡/姜炒鸡.md
   source: howtocook
 - title: 姜葱捞鸡
@@ -6703,6 +7186,10 @@ recipes:
   - 鸡腿肉
   - 盐焗鸡粉
   - 葱，姜
+  steps:
+  - 四个鸡腿清洗干净，放入碗中
+  - 碗中加入盐焗鸡粉和 5ml 油，搅拌均匀
+  - 让鸡腿静置腌制 15 分钟， 同时准备蒸锅并把水煮开
   file: recipes/cooking/meat_dish/姜葱捞鸡/姜葱捞鸡.md
   source: howtocook
 - title: 孜然牛肉
@@ -6725,6 +7212,10 @@ recipes:
   - 牛柳或牛肩肉
   - 青椒
   - 孜然
+  steps:
+  - 首先将小米椒切碎，和孜然粒一起放入捣药罐捣碎成颗粒，这样更入味。如果时间紧张可跳过捣碎步骤
+  - 青椒切头去籽（喜欢辣的可不去），切成丝。葱切段。
+  - 牛肉提前解冻，过一边水洗干净，晾干或用厨用纸吸干，将牛肉顺着纹理切成片
   file: recipes/cooking/meat_dish/孜然牛肉.md
   source: howtocook
 - title: 宫保鸡丁
@@ -6753,6 +7244,10 @@ recipes:
   - 手枪腿
   - 大葱
   - 干辣椒
+  steps:
+  - 手枪腿用剪刀去骨，鸡肉面用刀背拍打一遍，切条后切至 1.5cm 见方肉丁；泡于清水 10 分钟，捞出控干备用（若是鸡胸脯肉，则可以直接进行切丁以及之后的动作）
+  - 取大葱葱绿与姜片 5g 于碗中，倒入 50g 开水备用；葱白切 1.5cm 圆粒备用；取花生放入微波炉高火 5 分钟焙干备用
+  - 鸡丁中加入盐 2g，老抽酱油 5g，料酒 15g，淀粉 15g 搅拌均匀，至微微发干；缓慢加入部分葱姜水，搅拌鸡丁至粘手；保鲜膜密封，放入冰箱腌制 1 小时
   file: recipes/cooking/meat_dish/宫保鸡丁/宫保鸡丁.md
   source: howtocook
 - title: 小炒肉
@@ -6775,6 +7270,10 @@ recipes:
   - 五花肉
   - 朝天椒
   - 小米椒
+  steps:
+  - 五花肉切片
+  - 把肉放入器皿内，加入淀粉、老抽、盐搅拌腌制半小时
+  - 小米椒、朝天椒斜刀切好
   file: recipes/cooking/meat_dish/小炒肉.md
   source: howtocook
 - title: 小炒鸡肝
@@ -6793,6 +7292,10 @@ recipes:
   - 生鸡肝
   - 蒜苗
   - 大葱、姜、料酒
+  steps:
+  - 鸡肝清洗，备用
+  - 蒜苗清洗，切段，备用
+  - 大葱清洗，取 100g 切段，取 50g 切片，备用
   file: recipes/cooking/meat_dish/小炒鸡肝/小炒鸡肝.md
   source: howtocook
 - title: 小炒黄牛肉
@@ -6809,6 +7312,10 @@ recipes:
   - 牛里脊
   - 芹菜
   - 小米椒
+  steps:
+  - 牛里脊切成不超过 3cm 宽，3mm 厚的薄片，倒入 6ml 酱油，用手抓匀备用
+  - 芹菜切成不超过 5cm 的小段，备用
+  - 小米椒切成丝状，备用
   file: recipes/cooking/meat_dish/小炒黄牛肉/小炒黄牛肉.md
   source: howtocook
 - title: 小米辣炒肉
@@ -6832,6 +7339,10 @@ recipes:
   - 小米辣
   - 花生油
   - 五花肉/瘦肉
+  steps:
+  - 将小米辣洗净，斜刀切大一点
+  - 肉的话，想切丝切丝，想切片切片，倒入调料（生抽、蚝油、盐）腌制 5 分钟
+  - 热锅倒油，先把肉炒好盛起
   file: recipes/cooking/meat_dish/小米辣炒肉.md
   source: howtocook
 - title: 小酥肉
@@ -6860,6 +7371,10 @@ recipes:
   - 去皮猪肉
   - 植物油
   - 老姜
+  steps:
+  - 老姜切丝,小葱不用切。
+  - 根据计算公式倒入料酒、清水。
+  - 用手捏揉 5 分钟，使姜葱的味道充分溶解在水中。
   file: recipes/cooking/meat_dish/小酥肉.md
   source: howtocook
 - title: 尖叫牛蛙
@@ -6886,6 +7401,10 @@ recipes:
   - 牛蛙肉
   - 泡姜
   - 泡椒
+  steps:
+  - 牛蛙肉洗净后控干水分，加入 10 克以上的盐巴和 50ml 以上的啤酒，用手抓 5 分钟，去除牛蛙肉的腥味
+  - 然后对着清水冲洗，直至不再流出血水和杂质，控干水分，放到合适的器皿中，准备腌制
+  - 加入 5 克盐，30 克生粉，10ml 料酒，5 克胡椒粉，用手抓均匀，腌制 5-10 分钟
   file: recipes/cooking/meat_dish/尖叫牛蛙/尖叫牛蛙.md
   source: howtocook
 - title: 尖椒炒牛肉
@@ -6904,6 +7423,10 @@ recipes:
   - 牛肉
   - 葱、姜、蒜
   - 尖椒
+  steps:
+  - 蒜剁成蒜泥
+  - 姜切成姜片
+  - 尖椒切成段
   file: recipes/cooking/meat_dish/尖椒炒牛肉.md
   source: howtocook
 - title: 山西过油肉
@@ -6930,6 +7453,11 @@ recipes:
   - 猪里脊
   - 蒜苔
   - 盐
+  steps:
+  - 木耳提前泡发好，如果着急可以用热水泡发。
+  - 猪里脊切片放入碗中，加 20ml 生抽、料酒、花椒粉，打入一个鸡蛋，拿自己的小手搅拌均匀，加入淀粉（建议红薯淀粉）拌匀，倒入 300ml 食用油封浆，腌制
+    15 分钟。
+  - 蒜苔切段大约 3cm，葱头切菱形块备用。
   file: recipes/cooking/meat_dish/山西过油肉.md
   source: howtocook
 - title: 巴基斯坦牛肉咖喱
@@ -6948,6 +7476,10 @@ recipes:
   - Masala 粉
   - 牛肉
   - 番茄
+  steps:
+  - 全部螺丝椒切成段状，备用
+  - 全部番茄打成番茄蓉，备用
+  - 牛肉切成 2cm 的小块，洗净备用
   file: recipes/cooking/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md
   source: howtocook
 - title: 带把肘子
@@ -6974,6 +7506,10 @@ recipes:
   - 带脚、爪猪前肘
   - 红豆腐乳
   - 甜面酱
+  steps:
+  - 将肘子刮洗干净，肘头朝外、肘把（脚爪）朝里、肘皮朝下放在案板上。
+  - 用刀在正中由肘头向肘把沿着腿骨将皮剖开，剔去腿骨两边的肉（三面离肉），底部骨与肉相连，使骨头露出，然后将两节腿骨由中间用刀背（还是用斧头吧）砸断。
+  - 肘子放入煮锅煮至七成熟捞出（外观正常，内部淡红色），用干净抹布擦干水，趁热用红酱油涂抹肉皮。
   file: recipes/cooking/meat_dish/带把肘子.md
   source: howtocook
 - title: 干煸仔鸡
@@ -6998,6 +7534,10 @@ recipes:
   - 鸡腿
   - 土豆
   - 青椒
+  steps:
+  - 鸡腿去骨（如使用鸡腿排可忽略此步骤），鸡腿肉用刀背砸一砸，切成 2cm 的块。
+  - 鸡腿肉中加入盐、鸡精（可选）、胡椒粉、生抽、老抽、料酒，抓拌至粘手时加入淀粉拌匀，加入食用油防止粘连，腌制 30 分钟。
+  - 土豆去皮，切成 2cm 的块，沸水煮 5 分钟后捞出，控干水分，防止油炸时爆锅。
   file: recipes/cooking/meat_dish/干煸仔鸡/干煸仔鸡.md
   source: howtocook
 - title: 广式萝卜牛腩
@@ -7025,6 +7565,10 @@ recipes:
   - 牛腩
   - 白萝卜
   - 姜片
+  steps:
+  - 萝卜滚到切块备用
+  - 牛腩整块焯水，加入 2 片姜和一把葱结，等水开之后煮 5-10 分钟，然后捞出切件
+  - 将牛腩切块，切成自己喜欢的大小（牛腩焯过水，待会儿焖的时候基本不会缩水了，大块的会焖相对就一点的时间）
   file: recipes/cooking/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md
   source: howtocook
 - title: 徽派红烧肉
@@ -7048,6 +7592,10 @@ recipes:
   - 五花肉
   - 白砂糖
   - 食用油
+  steps:
+  - 五花肉切块，每块 2-3 cm 大小
+  - 锅中加入 150 ml 食用油，倒入五花肉，煎炸 2 分钟 后，加入盐，翻炒五花肉，2 分钟 后出锅
+  - 锅中加入 50 ml 食用油，倒入白砂糖，翻炒到咖啡色
   file: recipes/cooking/meat_dish/徽派红烧肉/徽派红烧肉.md
   source: howtocook
 - title: 意式烤鸡
@@ -7067,6 +7615,10 @@ recipes:
   - 鸡腿肉
   - 盐
   - 黑胡椒
+  steps:
+  - 鸡腿肉涂上盐、黑胡椒、橄榄油和蒜末
+  - 放入预热至 180 度的烤箱中，烤 30-40 分钟或至熟
+  - 欧芹切成碎末备用
   file: recipes/cooking/meat_dish/意式烤鸡.md
   source: howtocook
 - title: 新疆大盘鸡
@@ -7079,6 +7631,10 @@ recipes:
   tags:
   - 油，盐，生抽，蚝油，料酒
   - 鸡肉
+  steps:
+  - 肉先剁好，块状，用清水+盐浸泡 5 分钟，去除血水，去腥，然后空干水
+  - 葱蒜辣椒土豆等洗干净，土豆削皮
+  - 葱白切长段，长度 4cm 一段，菜椒和线椒切块状
   file: recipes/cooking/meat_dish/新疆大盘鸡/新疆大盘鸡.md
   source: howtocook
 - title: 无骨鸡爪
@@ -7105,6 +7661,10 @@ recipes:
   - 鸡爪
   - 姜
   - 料酒
+  steps:
+  - 用剪刀 / 刀 把鸡爪上的指甲的部分全部剪掉 **包括指甲下面的肉和骨头，让它一点指甲都不剩**
+  - 用水把他们洗干净，放一边
+  - 把`鸡爪`放入大锅中，准备去腥味
   file: recipes/cooking/meat_dish/无骨鸡爪/无骨鸡爪.md
   source: howtocook
 - title: 杀猪菜
@@ -7128,6 +7688,10 @@ recipes:
   - 血肠
   - 酸菜
   - 排骨
+  steps:
+  - 血肠用牙签多扎一些小孔，然后放水中小火煮十分钟，不要让水烧开，保持 80 度，否则血肠非常容易爆开。
+  - 煮好的血肠切块备用。
+  - 排骨放料酒焯水，控干水分备用。
   file: recipes/cooking/meat_dish/杀猪菜.md
   source: howtocook
 - title: 枝竹羊腩煲
@@ -7157,6 +7721,10 @@ recipes:
   - 羊腩
   - 腐竹
   - 柱侯酱
+  steps:
+  - '准备工作: 香菇提前浸泡 2 - 3 小时至变软。腐竹提前浸泡 30 分钟至变软'
+  - '准备酱汁 1: 南乳、柱侯酱、20g 腐乳、老抽放入同个小碗中搅拌均匀'
+  - '准备酱汁 2: 20g 腐乳、砂糖、辣椒油放入同个小碗搅拌均匀'
   file: recipes/cooking/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md
   source: howtocook
 - title: 柱候牛腩
@@ -7171,6 +7739,10 @@ recipes:
   - 牛腩
   - 柱候酱
   - 花雕酒，白酒
+  steps:
+  - 先把辅料备好：
+  - 牛肉不用切，直接冷水下锅，开大火焯水，水沸腾时将牛肉捞出
+  - 冲洗牛肉表面的杂质后，切成 4cm\*4cm\*4cm 的大块，控干水后放入碗中备用
   file: recipes/cooking/meat_dish/柱候牛腩/柱候牛腩.md
   source: howtocook
 - title: 桂林十八酿
@@ -7187,6 +7759,10 @@ recipes:
   - 原则
   - 猪肉馅
   - 虾滑馅
+  steps:
+  - '**青椒酿**：青椒去籽挖空 → 塞入猪肉馅或虾滑 → 煎至虎皮色 → 酱汁焖煮'
+  - '**田螺酿**：田螺焯水取肉 → 螺肉与猪肉剁碎混合 → 塞回螺壳 → 紫苏薄荷焖煮'
+  - '**猪肉馅**：最基础通用的选择，肥瘦 3:7 口感最佳'
   file: recipes/cooking/meat_dish/桂林十八酿/桂林十八酿.md
   source: howtocook
 - title: 梅菜扣肉
@@ -7209,6 +7785,10 @@ recipes:
   - 五花肉
   - 梅菜
   - 五香粉
+  steps:
+  - 梅菜放到清水中，浸泡 1 小时
+  - 锅中倒入 50 ml 食用油，将整个五花肉猪皮朝下，放到锅中 1 分钟 ，取出挂掉猪皮 【可选】
+  - 锅中加入开水，放入五花肉，大火煮 20 分钟 （筷子可以插进五花肉），取出五花肉
   file: recipes/cooking/meat_dish/梅菜扣肉/梅菜扣肉.md
   source: howtocook
 - title: 椒盐排条
@@ -7231,6 +7811,10 @@ recipes:
   - 大排
   - 鸡蛋
   - 盐
+  steps:
+  - 大排洗干净，剔骨，用刀面拍松，切成厚片，再改成粗条。
+  - 加入椒盐粉，搅匀，待到出胶质了**分次**加入葱姜水，放入冰箱腌制 20 分钟。
+  - 制作炸糊。放入 80 g 面粉，20 g 淀粉（注意是 20 g 淀粉，剩下 60 g 备用），2 - 3 g 吉士粉，盐 1 g。
   file: recipes/cooking/meat_dish/椒盐排条.md
   source: howtocook
 - title: 水煮牛肉
@@ -7254,6 +7838,10 @@ recipes:
   - 牛肉
   - 豆芽
   - 鸡蛋
+  steps:
+  - 牛肉洗干净切片。
+  - 加入 15g 姜丝，1 个鸡蛋，15g 淀粉，8g 蚝油，10ml 料酒搅拌均匀，腌制 15 分钟。
+  - 香菜洗干净切好。
   file: recipes/cooking/meat_dish/水煮牛肉/水煮牛肉.md
   source: howtocook
 - title: 水煮肉片
@@ -7288,6 +7876,10 @@ recipes:
   - 猪里脊肉
   - 食用盐
   - 胡椒粉
+  steps:
+  - 里脊肉改刀成小块，再切成 2 毫米薄片（可根据自己的口感改进），放入碗中，加入清水清洗两遍来去除血水和杂质，捞出挤干水分备用。
+  - 碗中加入食用盐 1.5g，胡椒粉 1g，生抽酱油 5g，料酒 3g，然后朝着一个方向搅拌 2 分钟，使其入味。
+  - 另外准备一个碗，加入一个鸡蛋清，加入 7g 土豆淀粉，一个方向搅拌均匀，倒入肉中
   file: recipes/cooking/meat_dish/水煮肉片.md
   source: howtocook
 - title: 洋葱炒猪肉
@@ -7304,6 +7896,10 @@ recipes:
   - 洋葱
   - 猪肉片
   - 蕃茄酱
+  steps:
+  - 洋葱切片，猪肉，蒜头拍碎，以及混合上述调味料备用
+  - 炒锅内倒入 1 大匙食用油（等待 10 秒让油温升高），倒入猪肉
+  - 炒至变色后下蒜头炒香盛起备用
   file: recipes/cooking/meat_dish/洋葱炒猪肉.md
   source: howtocook
 - title: 淄博烧烤
@@ -7324,6 +7920,10 @@ recipes:
   - 猪五花肉
   - 小薄饼
   - 大葱
+  steps:
+  - 五花肉切成厚度不超过 2cm 长的块，并串成串。（五花肉可以预先腌制一下，味道更佳）
+  - 大葱切成 5cm 长的葱段，备用
+  - 芝麻酱加 10ml 温水调稀，与甜面酱混合均匀，备用（可以换成"芝麻盐"）
   file: recipes/cooking/meat_dish/淄博烧烤/淄博烧烤.md
   source: howtocook
 - title: 清蒸鳜鱼
@@ -7342,6 +7942,9 @@ recipes:
   - 鳜鱼
   - 大葱
   - 小葱
+  steps:
+  - '**食材处理**：'
+  - '**炒制过程**：'
   file: recipes/cooking/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md
   source: howtocook
 - title: 湖南家常红烧肉
@@ -7366,6 +7969,10 @@ recipes:
   - 带皮五花肉
   - 干小米椒🌶
   - 姜
+  steps:
+  - 带皮五花肉洗净冷水下锅，加入姜片 2~3 片去腥味，煮到沸腾捞出冷水冲净白沫
+  - 五花肉切块，尺寸 1.5cm*1.5cm 块状大小
+  - 热锅加入油，加入冰糖小火搅拌至焦糖色即可，加入切好的五花肉，中火翻炒上色
   file: recipes/cooking/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md
   source: howtocook
 - title: 湘祁米夫鸭
@@ -7388,6 +7995,10 @@ recipes:
   - 鸭子
   - 糯米粉
   - 粘米粉
+  steps:
+  - 将糯米粉、粘米粉、蒸肉粉、细辣椒粉、5 克盐、白胡椒粉倒一起搅匀
+  - 鸭子让热心摊主剁成蒸煮块，姜切片，蒜子剥皮，五花肉切片即可
+  - 热锅凉油煸炒五花肉出油，再加食用油烧热，下入鸭子煸炒
   file: recipes/cooking/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md
   source: howtocook
 - title: 澳门湿版免治牛肉饭
@@ -7412,6 +8023,10 @@ recipes:
   - 牛肉末
   - 洋葱
   - 鸡蛋
+  steps:
+  - 将 200g 牛肉末放入碗中，加入 1 汤匙生抽、半汤匙白糖和 2g 黑胡椒，搅拌均匀，**等待腌制 10 分钟**。
+  - 将半个洋葱切成小丁，备用。
+  - 调制料汁：在碗中加入 2 汤匙生抽、2 汤匙番茄酱、1 汤匙料酒、1 汤匙淀粉、半汤匙老抽和 50ml 清水，搅拌均匀备用。
   file: recipes/cooking/meat_dish/澳门湿版免治牛肉饭/澳门湿版免治牛肉饭.md
   source: howtocook
 - title: 烤鸡翅
@@ -7429,6 +8044,10 @@ recipes:
   - 鸡翅中
   - 盐
   - 黑胡椒粉
+  steps:
+  - 鸡翅放入碗中
+  - 加盐、黑胡椒粉、酱油、料酒进行腌制 30-40 分钟
+  - 将烤箱预热至 200℃
   file: recipes/cooking/meat_dish/烤鸡翅.md
   source: howtocook
 - title: 煎烤羊排
@@ -7454,6 +8073,10 @@ recipes:
   - 羊排
   - 桂皮
   - 花椒
+  steps:
+  - 将羊排按照骨头分布，切成块状。
+  - 炒锅中加入冷水，放入全部羊排块，水沸腾后继续焯水 2 - 3 分钟，捞出备用。
+  - 将焯好水的羊排、桂皮、花椒、八角、白芷、香叶、料酒放入锅中（高压锅或普通锅）。
   file: recipes/cooking/meat_dish/煎烤羊排/煎烤羊排.md
   source: howtocook
 - title: 牛排
@@ -7475,6 +8098,10 @@ recipes:
   - 锡箔纸
   - 汤匙
   - 橄榄油
+  steps:
+  - 从冰箱中取出牛排解冻。
+  - 将小番茄，小土豆和口蘑洗净，对半切开备用。
+  - 将大蒜剥皮，留 5-8 个较大的蒜瓣，用刀背**压扁**备用。
   file: recipes/cooking/meat_dish/牛排/牛排.md
   source: howtocook
 - title: 猪皮冻
@@ -7485,6 +8112,10 @@ recipes:
   - 猪皮
   tags:
   - 猪皮
+  steps:
+  - 将猪皮，剁成不超过 10cm 小块，用清水浸泡 12 小时，然后冷水下锅，加入姜 10g、料酒 50ml 后，汆烫 5-10 分钟，捞出放入冷水中
+  - 将焯过水的猪皮，放到案板上，将里面的白肉部分全部剔除，然后再切成成不超过 3mm 的长条，放入盆中
+  - 加入白醋 20g，盐 5g，用力搓洗 3 分钟，再用清水洗净，这时的猪皮已经基本没什么腥味
   file: recipes/cooking/meat_dish/猪皮冻/猪皮冻.md
   source: howtocook
 - title: 猪肉烩酸菜
@@ -7507,6 +8138,10 @@ recipes:
   - 猪五花肉或猪肉排骨
   - 东北酸菜
   - 大葱
+  steps:
+  - 大葱切段；生姜 50 克切段， 50 克切末；大蒜切末，备用。
+  - 全部酸菜切丝，用水冲洗 2 ～ 3 遍备用。
+  - 排骨和五花肉入锅，倒入冷水淹没。放入全部葱段， 50 克生姜段和料酒 20 毫升。大火煮开后，等待 5 分钟。关火，将排骨和五花肉捞出，冷水冲洗掉浮沫，备用
   file: recipes/cooking/meat_dish/猪肉烩酸菜.md
   source: howtocook
 - title: 甜辣烤全翅
@@ -7530,6 +8165,11 @@ recipes:
   - 鸡全翅
   - 生抽
   - 老抽
+  steps:
+  - 将 4 个新鲜鸡全翅取出，在翅中两根骨头之间用刀划开表皮，正反面各一刀
+  - 将 4 个鸡全翅放入碗中，加入生抽 45ml ， 老抽 15ml ， 蒜粉 10g ， 胡椒粉 5g ， 糖 10g ， 甜椒粉 10g ，辣椒粉 5g ，
+    蚝油 15ml ， 水 20ml 以及油 10ml
+  - 用勺子将酱汁均匀的抹在鸡全翅上，尤其是翅中的刀口处，大约花费 3 分钟
   file: recipes/cooking/meat_dish/甜辣烤全翅.md
   source: howtocook
 - title: 田螺酿
@@ -7557,6 +8197,10 @@ recipes:
   - 大田螺
   - 猪肉
   - 新鲜薄荷叶
+  steps:
+  - 上午买回田螺，放入清水盆中，静置一下午吐沙
+  - 可在水中滴几滴香油（或者芥末~）加速吐沙
+  - 用刷子将田螺外壳刷洗干净（这一步可以时间久一些）
   file: recipes/cooking/meat_dish/田螺酿/田螺酿.md
   source: howtocook
 - title: 番茄红酱
@@ -7581,6 +8225,10 @@ recipes:
   - 碎牛肉
   - 蒜瓣
   - 胡萝卜
+  steps:
+  - 将胡萝卜、芹菜、洋葱切碎，蒜瓣切片。
+  - 加入 10ml 橄榄油，热油下锅蔬菜，大火翻炒开始略微变色后盛出。
+  - 锅内加油 10ml，加蒜翻炒 10 秒，加入碎牛肉、糖、盐、胡椒粉和香料将牛肉炒脆（有颗粒感）。
   file: recipes/cooking/meat_dish/番茄红酱.md
   source: howtocook
 - title: 瘦肉土豆片
@@ -7599,6 +8247,10 @@ recipes:
   - 纯瘦肉
   - 土豆
   - 蒜苗
+  steps:
+  - 土豆去皮、对半切开，再切成约 2mm 的薄片，备用
+  - 蒜苗洗净，切成约 1cm 的段，备用
+  - 瘦肉洗净切成约 2mm 的薄片，放入碗中，加入 5g 生粉、5g 生抽、3g 老抽腌制十分钟，备用
   file: recipes/cooking/meat_dish/瘦肉土豆片/瘦肉土豆片.md
   source: howtocook
 - title: 白菜猪肉炖粉条
@@ -7619,6 +8271,10 @@ recipes:
   - 五花肉
   - 白菜
   - 土豆干粉条
+  steps:
+  - 锅内烧水，水开后放入干粉条，煮 5 分钟后同水一起倒出容器中，盖上盖子继续浸泡泡 备用（第一步先做这个，期间可以进行以下步骤）
+  - 五花肉切 3mm 的肉片，备用
+  - 大白菜嫩叶与白菜帮子分开切成 2 份菜片，备用
   file: recipes/cooking/meat_dish/白菜猪肉炖粉条.md
   source: howtocook
 - title: 空气炸锅脆皮现腌炸鸡
@@ -7642,6 +8298,10 @@ recipes:
   - 新鲜鸡翅中
   - 生抽
   - 蒜粉
+  steps:
+  - 鸡翅中清洗后擦干水分，每个鸡翅两面各划 2 刀，方便入味。
+  - 调制腌料：生抽 15ml、蒜粉 8g、红甜椒粉 5g、洋葱粉 3g、黑胡椒粉 3g，牛奶或希腊酸奶 5ml（可选，让鸡肉更滑嫩）搅拌均匀。
+  - 将腌料和鸡翅中一起放到大 zip 保鲜袋里充分搅拌按摩，在冰箱里静置一晚。
   file: recipes/cooking/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md
   source: howtocook
 - title: 粉蒸肉
@@ -7664,6 +8324,10 @@ recipes:
   - 五花肉
   - 蒸肉米粉
   - 生抽
+  steps:
+  - 将五花肉洗净，切成长约 5cm、宽约 3cm、厚度约 0.5cm 的肉片
+  - 将姜、蒜切成颗粒直径不大于 1mm 的细末
+  - 取一大碗，放入切好的五花肉、15ml 生抽、10ml 老抽、15ml 料酒、10g 郫县豆瓣酱、10g 姜末、10g 蒜末、5g 白砂糖
   file: recipes/cooking/meat_dish/粉蒸肉.md
   source: howtocook
 - title: 糖醋排骨
@@ -7687,6 +8351,10 @@ recipes:
   - 排骨
   - 白砂糖
   - 食用油
+  steps:
+  - 排骨与姜片放入冷水中，大火加热至水沸腾、出现大量泡沫后转中火，待水持续沸腾时再转小火焯水 2–3 分钟，捞出备用。
+  - 用开水反复清洗排骨 2–3 遍，确保彻底去除血沫。
+  - 在锅中倒入足够量的食用油进行深炸（油量依据锅具大小而定，建议约 300 ml 供一般家庭使用），待油温升至约 170°C 后，下排骨炸制 3–5 分钟，直至表面略呈金黄色，捞出控油。
   file: recipes/cooking/meat_dish/糖醋排骨/糖醋排骨.md
   source: howtocook
 - title: 糖醋里脊
@@ -7710,6 +8378,10 @@ recipes:
   - 里脊肉
   - 醋
   - 白糖
+  steps:
+  - 腌肉：将猪里脊肉先切厚片，用刀背拍一拍，把肉拍松一点。切成一个手指头粗的条，加料酒，生抽，蚝油，食盐，白胡椒粉，一个鸡蛋，将肉用手抓匀，腌制 20 分钟以上。
+  - 调酱：番茄酱+10g 醋+30g 白糖+150ml 清水，搅拌至糖融化，备用。
+  - 裹粉：先把粉全部裹好再来炸，这样在炸的时候就不会手忙脚乱。准备一个大碗，里面放淀粉，把每一根肉条都满满裹上淀粉。
   file: recipes/cooking/meat_dish/糖醋里脊.md
   source: howtocook
 - title: 红烧猪蹄
@@ -7733,6 +8405,10 @@ recipes:
   - 猪蹄
   - 香叶
   - 姜
+  steps:
+  - 冷水锅中放入热心摊主剁好的猪蹄，加入 20 ml 料酒与葱姜，煮 15 分钟去掉血腥
+  - 热锅冷油，倒入 30ml 食用油，放入 7-8 粒冰糖，开小火，熬成糖色，期间用锅铲把冰糖压碎，大概熬 2 分钟
+  - 熬成糖色后，放入焯过水的猪蹄，继续小火，翻炒猪蹄，直至所有猪蹄两面微黄
   file: recipes/cooking/meat_dish/红烧猪蹄/红烧猪蹄.md
   source: howtocook
 - title: 南派红烧肉
@@ -7745,6 +8421,10 @@ recipes:
   tags:
   - 主料
   - 辅料
+  steps:
+  - '`猪五花肉`先不切小块，切成能放入锅中的大块（约 5–6cm 宽）即可'
+  - '`生姜`切片（每片厚度约 3mm ）'
+  - '`开水`烧开'
   file: recipes/cooking/meat_dish/红烧肉/南派红烧肉.md
   source: howtocook
 - title: 简易红烧肉
@@ -7757,6 +8437,10 @@ recipes:
   tags:
   - 主料
   - 辅料
+  steps:
+  - '`猪五花肉`切大块（约 4.5cm ，冷冻半小时至一小时更好切）'
+  - '`豆皮`切 2cm 的宽度'
+  - '`生姜`切片（每片厚度约 3mm ）'
   file: recipes/cooking/meat_dish/红烧肉/简易红烧肉.md
   source: howtocook
 - title: 红烧鸡翅
@@ -7785,6 +8469,10 @@ recipes:
   - 新鲜鸡翅
   - 姜片
   - 葱段
+  steps:
+  - 将鸡翅洗净。用刀在鸡翅厚处划三刀，背面扎一刀，便于入味。
+  - 如果鸡翅不新鲜，可在打完花刀之后用姜水泡 10-20 分钟。
+  - 将 10g 姜片（3-4 片）、15g 葱段（2-3 段）备好；3-4 瓣大蒜（约 15g）用刀拍散（无需剁碎）；1 片香叶、1 个八角、2 个干辣椒（可选）整理好备用。
   file: recipes/cooking/meat_dish/红烧鸡翅.md
   source: howtocook
 - title: 羊排焖面
@@ -7805,6 +8493,10 @@ recipes:
   - 带皮羊排肉
   - 青椒
   - 甜椒
+  steps:
+  - 羊肉冷水下锅焯水，水开了之后把血沫撇掉，捞出羊肉。
+  - 切好生姜（ 4 片)，放入干辣椒与花椒在碗里备用。
+  - 在炒锅加入油。（多一点也没关系）
   file: recipes/cooking/meat_dish/羊排焖面/羊排焖面.md
   source: howtocook
 - title: 老妈蹄花
@@ -7832,6 +8524,10 @@ recipes:
   - 猪蹄
   - 葱
   - 姜
+  steps:
+  - 200g 白芸豆提前一晚清水浸泡备用
+  - 准备猪前蹄，买菜的时候让师傅从中间劈开，用喷火枪去除毛囊，拿回家清洗
+  - 冷水锅中加入猪蹄、大葱段、姜片、料酒，焯水十分钟，撇去浮沫，捞出洗干净备用
   file: recipes/cooking/meat_dish/老妈蹄花/老妈蹄花.md
   source: howtocook
 - title: 老式锅包肉
@@ -7858,6 +8554,10 @@ recipes:
   - 猪通脊肉
   - 大葱
   - 姜
+  steps:
+  - '**处理猪肉**：'
+  - '**腌制肉片**：'
+  - '**挂浆**：'
   file: recipes/cooking/meat_dish/老式锅包肉/老式锅包肉.md
   source: howtocook
 - title: 肉饼炖蛋
@@ -7876,6 +8576,10 @@ recipes:
   - 猪肉末
   - 鸡蛋
   - 料酒
+  steps:
+  - 在碗中加入猪肉末、料酒、生抽、白胡椒粉、鸡蛋和芝麻香油，搅拌均匀。
+  - 将调好味的猪肉末铺在盘子里，肉末中间用勺子挖一个洞，往洞中打入 1 个鸡蛋。
+  - 锅中加水至 1/4 高度，水烧开后，将盘子放入锅中，盖上锅盖，蒸 15 分钟。
   file: recipes/cooking/meat_dish/肉饼炖蛋.md
   source: howtocook
 - title: 腐乳肉
@@ -7897,6 +8601,10 @@ recipes:
   - 带皮五花肉
   - 红腐乳
   - 冰糖
+  steps:
+  - 五花肉切成长宽 2.5 cm 的小块
+  - 冷水放料酒姜片，五花肉放入开火慢慢加入到水沸腾后捞出
+  - 玫瑰腐乳块和腐乳汁碾成泥，加冰糖、老抽调成酱汁
   file: recipes/cooking/meat_dish/腐乳肉.md
   source: howtocook
 - title: 芥末罗氏虾
@@ -7920,6 +8628,10 @@ recipes:
   - 罗氏虾
   - 蒜
   - 青芥末
+  steps:
+  - '**处理虾**：'
+  - '**蒜蓉及碗汁处理**：'
+  - '**炒制过程**：'
   file: recipes/cooking/meat_dish/芥末罗氏虾/芥末罗氏虾.md
   source: howtocook
 - title: 茭白炒肉
@@ -7940,6 +8652,10 @@ recipes:
   - 茭白
   - 瘦肉
   - 淀粉
+  steps:
+  - 茭白切片，每片厚度 0.5 cm
+  - 瘦肉切条，厚度 0.3-0.5 cm，加入料酒、生粉、盐、水搅拌
+  - 姜切片、蒜头剁碎
   file: recipes/cooking/meat_dish/茭白炒肉/茭白炒肉.md
   source: howtocook
 - title: 荔枝肉
@@ -7963,6 +8679,10 @@ recipes:
   - 瘦肉
   - 凤梨
   - 鸡蛋
+  steps:
+  - 瘦肉切块（每块 2-3 cm ），放入大碗中，加入鸡蛋 1 个 、生粉 50 g 、生抽 3 ml 、鸡精 2 g
+  - 充分搅拌,直至生粉包裹住瘦肉块（太稀则继续加生粉，太干则加水），然后加入 5 ml 油，在充分搅拌后备用
+  - 在准备一个碗，加入番茄酱、鸡精 3 g 、生抽 2 ml 、姜末、白砂糖、生粉 10 g \香醋、凉水 200 ml ,充分搅拌后备用
   file: recipes/cooking/meat_dish/荔枝肉/荔枝肉.md
   source: howtocook
 - title: 荷兰豆炒腊肠
@@ -7978,6 +8698,10 @@ recipes:
   - 荷兰豆
   - 腊肠
   - 生抽
+  steps:
+  - 把荷兰豆去掉蒂，有时间的也可以同时把尾部去掉
+  - 买腊肠之前可以问老板是生的还是熟的，如果是生的，需要提前蒸一下，如果是熟的可以直接使用
+  - 把荷兰豆清洗一下，然后焯一下水，大概 45s，荷兰豆焯至变色即可，捞出过凉水备用
   file: recipes/cooking/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md
   source: howtocook
 - title: 萝卜炖羊排
@@ -8000,6 +8724,10 @@ recipes:
   - 羊排
   - 白萝卜
   - 大葱
+  steps:
+  - 萝卜去皮、滚刀切成 3-5cm 的大块，备用
+  - 羊排在购买时可以让卖家切好，因为家用刀一般难以切动，备用
+  - 羊肉冷水下锅，加入一半的料酒，一半的葱姜，煮 10 分钟去掉血腥，（可选）把焯的过程中出现的血沫子可以用勺子盛出来
   file: recipes/cooking/meat_dish/萝卜炖羊排.md
   source: howtocook
 - title: 蒜苔炒肉末
@@ -8018,6 +8746,10 @@ recipes:
   - 五花肉薄片
   - 蒜苔
   - 食用盐
+  steps:
+  - 蒜苔切成 5cm 小段，备用
+  - 五花肉切成 5mm * 5cm 丝状，备用
+  - 蒜瓣拍碎切成末，备用
   file: recipes/cooking/meat_dish/蒜苔炒肉末.md
   source: howtocook
 - title: 虎皮肘子
@@ -8048,6 +8780,10 @@ recipes:
   - 猪前肘
   - 食用植物油
   - 冰糖
+  steps:
+  - 猪肘解冻后水泡 1 小时去除血水。
+  - 如有火焰喷枪，则使用火焰喷枪灼烧**猪肘皮**表面至**棕黑色**以去除猪毛，破坏汗腺。注意不要长时间炙烤同一个位置以避免烧焦，当猪肘皮几乎完全呈现棕黑色时则停止灼烧。
+  - 如无火焰喷枪，将铁锅烧至 200 以上，将猪肘直接放入锅内，用锅铲或筷子使猪肘皮充分接触铁锅表面，当猪肘皮与铁锅接触位置呈现出棕色时，更换位置继续烫猪肘皮，直到整个猪肘被充分烫过。注意再次过程中注意铁锅温度，不要使铁锅红热。
   file: recipes/cooking/meat_dish/虎皮肘子.md
   source: howtocook
 - title: 蚂蚁上树
@@ -8068,6 +8804,10 @@ recipes:
   - 红薯粉丝
   - 猪肉末
   - 郫县豆瓣酱
+  steps:
+  - 红薯粉丝提前泡软，泡水时间为 20 分钟，备用
+  - 将蒜、姜分别剁碎，备用
+  - 锅烧热，加入 10ml 食用油，加入蒜末、姜末炒香
   file: recipes/cooking/meat_dish/蚂蚁上树.md
   source: howtocook
 - title: 血浆鸭
@@ -8090,6 +8830,10 @@ recipes:
   - 鲜仔鸭肉
   - 鲜鸭血
   - 姜
+  steps:
+  - 鲜仔鸭肉切成约 3cm 小块，加料酒、姜片，去除血水。
+  - 炒锅烧热，放入约 100ml 食用油，大火待油烧开，放入腌制好的鲜鸭肉，不断翻炒。
+  - 待鸭肉完全变色（肉眼可见泛白），放入酒，再加入 200ml 开水，刚好淹没鸭肉即可，盖上锅盖中火煮 15 分钟。
   file: recipes/cooking/meat_dish/血浆鸭/血浆鸭.md
   source: howtocook
 - title: 西红柿土豆炖牛肉
@@ -8116,6 +8860,7 @@ recipes:
   - 牛肉
   - 小料
   - 葱
+  steps: []
   file: recipes/cooking/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md
   source: howtocook
 - title: 西红柿牛腩
@@ -8130,6 +8875,10 @@ recipes:
   - 西红柿
   - 牛腩
   - 燃气灶
+  steps:
+  - 牛腩切条、切块成长宽高均 2cm ，冷水下锅，开锅煮制 2 分钟去除血水，捞出冲洗干净
+  - 另起锅 2L 水烧开，加入 2cm 两段葱段、两片姜片、八角、料/黄酒 5-10ml，放入焯好的牛肉，盖盖炖制（砂锅 1 小时，高压锅炖肉模式 45 分钟），筷子能轻松插透就证明炖好了
+  - 西红柿去皮：西红柿头部滑十字至腰线，筷子/刀叉从果蒂捅入，煤气灶小火，一边转动一边烤，及时拿下来查看，起皮后撕下来，切块。越小越好
   file: recipes/cooking/meat_dish/西红柿牛腩/西红柿牛腩.md
   source: howtocook
 - title: 豆豉鲮鱼油麦菜
@@ -8147,6 +8896,9 @@ recipes:
   - 油麦菜
   - 甘竹牌鲮鱼罐头
   - 蒜
+  steps:
+  - '**食材处理**：'
+  - '**炒制过程**：'
   file: recipes/cooking/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md
   source: howtocook
 - title: 豉汁排骨
@@ -8172,6 +8924,10 @@ recipes:
   - 肋排
   - 阳江豆豉
   - 蒜蓉
+  steps:
+  - 将排骨用冷水浸泡 10 分钟泡去血水，换水重复 2 次，用厨房纸吸干
+  - 将豆豉放入水中浸泡 5 分钟
+  - 将所有食材混合（食用油放 10 ml），腌制 8-30 分钟
   file: recipes/cooking/meat_dish/豉汁排骨.md
   source: howtocook
 - title: 豉汁蒸白鱔
@@ -8194,6 +8950,10 @@ recipes:
   - 白鱔
   - 豆豉
   - 蒜头
+  steps:
+  - '**检查与清洗白鱔**：'
+  - '**准备酱汁**：'
+  - '**摆盘**：'
   file: recipes/cooking/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md
   source: howtocook
 - title: 贵州辣子鸡
@@ -8218,6 +8978,10 @@ recipes:
   - 农村玉米鸡
   - 土豆
   - 大蒜
+  steps:
+  - 在锅中加入和锅一半高度的油，将切成长条的土豆先炸至表面金黄然后捞出备用，等油温上至烤手时候将切好的鸡块放入锅中炸，并放入切好的生姜片和花椒
+  - 刚开始炸鸡的时候，油是浑浊的，因为鸡块里面有水的原因，等到油炸至清澈，鸡块就炸好了，然后捞出备用
+  - 现在锅里面的油可以捞三分之一出来，现在用不到这么多的油
   file: recipes/cooking/meat_dish/贵州辣子鸡/贵州辣子鸡.md
   source: howtocook
 - title: 辣椒炒肉
@@ -8239,6 +9003,10 @@ recipes:
   - 青椒
   - 猪瘦肉
   - 盐
+  steps:
+  - 将`青椒`洗净，去除`青椒把`以及`青椒籽`，再用`滚刀手法`切好备用。
+  - '`大蒜`用刀拍一下，再横切成`蒜瓣`，`生姜`切碎成`姜末`。'
+  - 将`猪瘦肉`切成`肉片`（顺着猪肉的纹理切，即刀和肉的纹理呈水平线，出来的肉片，纹路呈“川”字）。
   file: recipes/cooking/meat_dish/辣椒炒肉.md
   source: howtocook
 - title: 酱排骨
@@ -8261,6 +9029,10 @@ recipes:
   - 排骨
   - 五香粉
   - 料酒
+  steps:
+  - 起锅烧热水，放入排骨、姜片、料酒，煮开后用勺子舀去白色油沫，2-3 分钟后出锅
+  - 冷水清洗排骨，清洗 2-3 遍
+  - 小火起锅，加入食用油，加入白砂糖 ，轻轻搅拌到糖水变成黄色
   file: recipes/cooking/meat_dish/酱排骨/酱排骨.md
   source: howtocook
 - title: 酱牛肉
@@ -8285,6 +9057,10 @@ recipes:
   - 牛腱子肉
   - 香叶
   - 姜
+  steps:
+  - 牛腱子肉清洗干净，用清水浸泡 1 小时，去除血水
+  - 用牙签或者叉子在牛腱子肉表面扎孔，加料酒、花椒、姜片后，用保鲜膜紧密包裹容器，腌制 4-6 小时
+  - 牛腱子肉切成 8cm，不超过 10cm 的肉块
   file: recipes/cooking/meat_dish/酱牛肉/酱牛肉.md
   source: howtocook
 - title: 醉排骨
@@ -8307,6 +9083,10 @@ recipes:
   - 排骨
   - 白砂糖
   - 食用油
+  steps:
+  - 排骨中加入 5 g 地瓜粉和水进行搅拌，清洗 2-3 遍后放入大碗备用
+  - 排骨中加入鱼露、地瓜粉、鸡蛋黄 充分搅拌
+  - 将排骨一个一个放入锅中（切记不可以整碗倒入），保证每个不要粘在一起
   file: recipes/cooking/meat_dish/醉排骨/醉排骨.md
   source: howtocook
 - title: 青椒土豆炒肉
@@ -8327,6 +9107,10 @@ recipes:
   - 青椒
   - 土豆
   - 猪肉
+  steps:
+  - 青椒去除根蒂切小块，土豆去皮切 2mm 薄片，猪肉切 4mm 薄片，葱横纵切 3mm 小段，姜蒜去皮拍散剁碎末；土豆淀粉加入约 15g 水搅拌均匀至水淀粉。
+  - 起锅烧油，加热至 7 成热放入猪肉片，缓缓翻滚炒至去肉红色，加入约 3ml 酱油，翻炒肉片均匀上色，放入约 2g 盐。
+  - 转 5 成油温，加入葱姜蒜炒 5 秒，然后加入土豆片，转 7 成油温均匀翻炒，加入加入约 5ml 酱油和 2g 盐，炒至土豆断生，表面轻微焦黄。
   file: recipes/cooking/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md
   source: howtocook
 - title: 青椒酿
@@ -8353,6 +9137,10 @@ recipes:
   - 青椒
   - 猪肉
   - 葱
+  steps:
+  - 猪肉洗净剁成肉馅（或用绞肉机），姜切末，葱切葱花
+  - 肉馅中加入姜末、葱花、生抽 15ml、老抽 5ml、食盐 3g，搅拌均匀
+  - 可选加入：料酒 10ml、蚝油 10ml、鸡蛋 1 个、淀粉 5g、白胡椒粉 2g、白糖 5g
   file: recipes/cooking/meat_dish/青椒酿/青椒酿.md
   source: howtocook
 - title: 香干肉丝
@@ -8373,6 +9161,10 @@ recipes:
   - 猪里脊
   - 香干
   - 盐
+  steps:
+  - '`肉丝`（没有肉丝，自己切）用生抽(3ml)，生粉混合均匀待用。'
+  - 将`青椒`洗净，再用`滚刀手法`切好备用。
+  - '`大蒜`横切成片，`香干`切丝。'
   file: recipes/cooking/meat_dish/香干肉丝.md
   source: howtocook
 - title: 香干芹菜炒肉
@@ -8395,6 +9187,10 @@ recipes:
   - 豆干
   - 香芹/芹菜
   - 猪肉
+  steps:
+  - 芹菜去叶切段、切成不超过 4cm 的条状，备用
+  - 香干切条，宽约小拇指，备用
+  - 蒜头切片或者剁成蒜泥都行，备用
   file: recipes/cooking/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md
   source: howtocook
 - title: 香煎五花肉
@@ -8407,6 +9203,10 @@ recipes:
   tags:
   - 五花肉条
   - 生菜
+  steps:
+  - 将五花肉条沿长边切片，每片厚 1mm-1.5mm，备用
+  - 将切好的五花肉放置碗中，依次加入 8g 酱油，1g 盐，1g 味精，10g 料酒，两片姜，两朵拍扁的大蒜腌制 10 分钟
+  - 将生菜叶直接用手扒下来，洗干净，备用
   file: recipes/cooking/meat_dish/香煎五花肉/香煎五花肉.md
   source: howtocook
 - title: 香菇滑鸡
@@ -8423,6 +9223,10 @@ recipes:
   - 大鸡腿
   - 干香菇
   - 姜
+  steps:
+  - 温水泡发干香菇
+  - 姜切小块，葱切段，蒜对半切小粒
+  - 鸡腿去骨（不去骨也可，只是略影响程序员吃饭的效率而已），切成小块
   file: recipes/cooking/meat_dish/香菇滑鸡/香菇滑鸡.md
   source: howtocook
 - title: 香辣鸡爪煲
@@ -8449,6 +9253,10 @@ recipes:
   - 鸡爪
   - 葱
   - 姜
+  steps:
+  - 给鸡爪剪去指甲。如果买的鸡爪只有脚掌部分，对半切开即可。 如果是整只鸡爪，需要去骨。清水洗干净。
+  - 鸡爪冷水下锅，葱姜料酒焯水，水开，撇去浮沫。
+  - 加入香叶、八角、生抽、老抽，盖盖小火慢煮三十分钟。
   file: recipes/cooking/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md
   source: howtocook
 - title: 鱼香肉丝
@@ -8476,6 +9284,10 @@ recipes:
   - 里脊肉
   - 胡萝卜
   - 青椒
+  steps:
+  - 制作`腌料`：将下列原料混合：
+  - 制作`香汁`：将下列原料混合：
+  - 用`腌料`腌制里脊肉 15-30 分钟。注意将肉抓匀。
   file: recipes/cooking/meat_dish/鱼香肉丝.md
   source: howtocook
 - title: 鱼香茄子
@@ -8497,6 +9309,10 @@ recipes:
   - 茄子
   - 肉末
   - 盐
+  steps:
+  - 将茄子切成条。
+  - 将肉切成肉沫，葱姜蒜切碎、小米椒切丁。
+  - 调鱼香汁：碗中放入盐、味精、糖、生抽、老抽、醋、水淀粉搅拌均匀。
   file: recipes/cooking/meat_dish/鱼香茄子/鱼香茄子.md
   source: howtocook
 - title: 麻婆豆腐
@@ -8518,6 +9334,10 @@ recipes:
   - 内脂豆腐
   - 咸鸭蛋
   - 五花肉
+  steps:
+  - 大蒜和生姜切碎，备用
+  - 小米辣切成辣椒圈，备用
+  - 五花肉切成肉糜（本来就是买的肉糜的跳过）
   file: recipes/cooking/meat_dish/麻婆豆腐/麻婆豆腐.md
   source: howtocook
 - title: 麻辣香锅
@@ -8535,6 +9355,10 @@ recipes:
   - 青菜
   - 无骨肉
   - 干豆腐
+  steps:
+  - 烧开一锅水（水量能没过第 2-4 步中的食材即可）。
+  - 在开水中放入青菜，焯 5 分钟后盛出备用。
+  - 在开水中放入无骨肉，焯 4 分钟后盛出备用。
   file: recipes/cooking/meat_dish/麻辣香锅.md
   source: howtocook
 - title: 黄油鸡
@@ -8567,6 +9391,10 @@ recipes:
   - 鸡腿肉
   - 酸奶
   - 黄油
+  steps:
+  - 在大碗中混合酸奶、生姜泥、大蒜泥、红辣椒粉、姜黄粉、盐、柠檬汁
+  - 放入鸡肉块，充分裹上腌料
+  - 盖保鲜膜，冷藏腌制**至少 1 小时**
   file: recipes/cooking/meat_dish/黄油鸡.md
   source: howtocook
 - title: 黄焖鸡
@@ -8591,6 +9419,10 @@ recipes:
   - 鸡腿
   - 香菇
   - 青椒
+  steps:
+  - 鸡腿洗净，剁成**4cm**大小的块
+  - 生姜切片、干辣椒切成**小圈**
+  - 香菇切片，青椒切成细长的**马蹄状**，若为干香菇，洗净灰尘后泡一晚上并留香菇水备用
   file: recipes/cooking/meat_dish/黄焖鸡.md
   source: howtocook
 - title: 黄瓜炒肉
@@ -8610,6 +9442,10 @@ recipes:
   - 黄瓜
   - 猪瘦肉
   - 食用油
+  steps:
+  - 将猪瘦肉切片，放入碗中，倒入食用油 10 克，生抽，搅拌均匀，腌制 10 分钟
+  - 将黄瓜切去 5 厘米的头尾，剩余部分斜着切成 0.5 厘米的薄片
+  - 将黄瓜倒入碗中，撒上盐 8 克，搅拌均匀，腌制 5 分钟
   file: recipes/cooking/meat_dish/黄瓜炒肉.md
   source: howtocook
 - title: 黑椒牛柳
@@ -8629,6 +9465,10 @@ recipes:
   - 牛肉
   - 洋葱
   - 菜椒
+  steps:
+  - 将牛肉切条，长度最好控制在 8 厘米以下，厚度约 5-10 毫米，宽度约 1 厘米（要求不严格）
+  - 利用腌料腌制牛肉，混合均匀后静置，用量与时间请参照商品说明，可以延长不能缩短。
+  - 如果使用液态腌料，可以在腌制结束前三分钟撒一层黑胡椒粉，然后再加入淀粉，再次混合均匀后静置 20 分钟。
   file: recipes/cooking/meat_dish/黑椒牛柳/黑椒牛柳.md
   source: howtocook
 - title: 黔式腊肠娃娃菜
@@ -8641,6 +9481,10 @@ recipes:
   tags:
   - 黔式腊肠
   - 娃娃菜
+  steps:
+  - 锅内放入 750ml 水，开火加热至沸腾
+  - 放入腊肠，计时 13 分钟
+  - 放入娃娃菜，计时 2 分钟
   file: recipes/cooking/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md
   source: howtocook
 - title: 凉皮
@@ -8654,6 +9498,10 @@ recipes:
   - 半成品
   - 凉皮、面筋
   - 黄瓜、大蒜、绿豆芽
+  steps:
+  - 锅中加入 500ml 水。煮沸。
+  - 将绿豆芽放入锅中，大火煮 60 秒。豆芽捞出，过凉水，放入盘中备用。
+  - 黄瓜切丝放入盘中备用
   file: recipes/cooking/semi-finished/凉皮.md
   source: howtocook
 - title: 半成品意面
@@ -8663,6 +9511,10 @@ recipes:
   ingredients: []
   tags:
   - 半成品
+  steps:
+  - 将 50 ml 清水倒入平底锅
+  - 将面条放入，炒 1 分钟
+  - 将酱料倒入，翻炒 1 分钟
   file: recipes/cooking/semi-finished/半成品意面.md
   source: howtocook
 - title: 懒人蛋挞
@@ -8675,6 +9527,10 @@ recipes:
   tags:
   - 隔热手套
   - 网购蛋挞液
+  steps:
+  - 烤箱 200 度，预热 10 分钟
+  - 在烤盘上放上蛋挞皮，蛋挞皮中倒入蛋挞液约 10ml，具体分量需要看蛋挞皮大小，通常倒入 4/5 即可
+  - 将烤盘放入烤箱内，上下火 190 度，烤 10 - 20 分。如果想快速烤出蛋挞液上的焦褐斑点，需要上火更高一些，通常是 200 - 210 度
   file: recipes/cooking/semi-finished/懒人蛋挞/懒人蛋挞.md
   source: howtocook
 - title: 炸薯条
@@ -8683,6 +9539,10 @@ recipes:
   difficulty: 2
   ingredients: []
   tags: []
+  steps:
+  - 开封大分量半成品薯条注意开口要小，可以有效减少长久储藏下薯条表面结霜。
+  - 插电，200℃预热 5 分钟。
+  - 预热的目的是为了确保放入食材的时候锅内温度已经处于烹饪所需温度。
   file: recipes/cooking/semi-finished/炸薯条/炸薯条.md
   source: howtocook
 - title: 牛油火锅底料
@@ -8727,6 +9587,10 @@ recipes:
   - 牛油
   - 纯猪油
   - 豆瓣
+  steps:
+  - 锅置旺火（大火）放入牛油烧至 八成热(240±10°C) 时放入 `老姜、大葱、洋葱、大蒜 (各100g)`，炸干（吸尽异味（牛油腥味））后捞出扔掉。
+  - 放入 `(色拉油 || 菜籽油)、纯猪油`，等待锅中油温下降到 五成热(150±10°C) 时放入 `糍粑辣椒` 持续翻炒 5-8 分钟。
+  - 放入 `豆瓣` 炒散，转用 **中小火** 慢炒至料渣略发白翻砂（发出沙沙声）。
   file: recipes/cooking/semi-finished/牛油火锅底料.md
   source: howtocook
 - title: 空气炸锅羊排
@@ -8739,6 +9603,10 @@ recipes:
   tags:
   - 必备
   - 可选
+  steps:
+  - 羊排放入碗中清水洗净血水
+  - 羊排用厨房纸吸干水分，双面抹上黑椒混合调味料、蒜蓉酱，静置腌制 20 分钟
+  - 锡纸碗放上烤架，羊排放在烤架上，撒上罗勒碎，黄油或烧烤料放在羊排上，空气炸锅 180° 10 分钟
   file: recipes/cooking/semi-finished/空气炸锅羊排/空气炸锅羊排.md
   source: howtocook
 - title: 空气炸锅鸡翅中
@@ -8751,6 +9619,10 @@ recipes:
   tags:
   - 必备
   - 可选
+  steps:
+  - 鸡翅从冰箱拿出来，鸡翼面朝下放入锡纸烤盘，撒上罗勒碎，盖上保鲜膜自然解冻 20 分钟
+  - 撒上罗勒碎，空气炸锅 200°C，10 分钟
+  - 翻面，撒上罗勒碎，空气炸锅 200°C，7 分钟
   file: recipes/cooking/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md
   source: howtocook
 - title: 速冻水饺
@@ -8762,6 +9634,10 @@ recipes:
   tags:
   - 半成品
   - 未过期的一袋速冻水饺
+  steps:
+  - 中火，将水倒入锅中，静候水煮沸。
+  - 将饺子倒入锅中。
+  - 倒入锅前可以适当用水过一下。
   file: recipes/cooking/semi-finished/速冻水饺.md
   source: howtocook
 - title: 速冻汤圆
@@ -8772,6 +9648,10 @@ recipes:
   - 速冻汤圆
   tags:
   - 速冻汤圆
+  steps:
+  - 取出速冻汤圆，放入碗中。
+  - 倒入开水，直至浸没汤圆。
+  - 微波炉高火 4 分钟。
   file: recipes/cooking/semi-finished/速冻汤圆/速冻汤圆.md
   source: howtocook
 - title: 速冻馄饨
@@ -8791,6 +9671,10 @@ recipes:
   - 未过期的一袋速冻馄饨
   - 电饭煲
   - 盐
+  steps:
+  - 将水倒入电饭煲中，按炖或煮的模式运行 35 分钟，此时揭开电饭煲应看到水为沸腾状态。
+  - 将速冻馄饨小心放入水中，注意不要烫伤。
+  - 放入电饭煲前可以适当用水过一下。
   file: recipes/cooking/semi-finished/速冻馄饨.md
   source: howtocook
 - title: 勾芡香菇汤
@@ -8808,6 +9692,10 @@ recipes:
   - 香菇
   - 香葱
   - 食用油
+  steps:
+  - 香菇切片（每片厚度 0.5-1 cm,厚点相对薄点更有嚼劲），放入大碗中，倒入 2g 食用盐 浸泡 15 分钟
+  - 生粉倒入小碗中，加入 50ml 水，搅拌生粉直至融化没有颗粒（即水淀粉）
+  - 倒掉碗中的盐水，适当去掉香菇本身的水分（方便下一步煎炸）【可选】
   file: recipes/cooking/soup/勾芡香菇汤/勾芡香菇汤.md
   source: howtocook
 - title: 奶油蘑菇汤
@@ -8829,6 +9717,10 @@ recipes:
   - 白蘑菇
   - 洋葱
   - 黄油
+  steps:
+  - 白蘑菇切片备用，洋葱切末备用。
+  - 平底锅中放入黄油，小火融化后加入洋葱炒至透明。
+  - 加入白蘑菇翻炒至出水变软，撒入面粉搅拌均匀。
   file: recipes/cooking/soup/奶油蘑菇汤.md
   source: howtocook
 - title: 小米粥
@@ -8842,6 +9734,10 @@ recipes:
   - 汤羹
   - 小米
   - 水
+  steps:
+  - 小米 100 克，放入碗中，用水轻淘一遍（用手搅拌一下，将水倒掉，只是去掉外面的浮灰，不可搓洗！！！）
+  - 水烧开，务必烧开！！！
+  - 水烧开沸腾时，将小米倒入锅内。（很容易被忽视的一个很重要的环节）
   file: recipes/cooking/soup/小米粥.md
   source: howtocook
 - title: 排骨山药玉米汤
@@ -8861,6 +9757,10 @@ recipes:
   - 排骨
   - 山药
   - 胡萝卜
+  steps:
+  - '**食材预处理**：'
+  - '**排骨焯水**：'
+  - '**翻炒排骨**：'
   file: recipes/cooking/soup/排骨山药玉米汤/排骨山药玉米汤.md
   source: howtocook
 - title: 排骨苦瓜汤
@@ -8875,6 +9775,10 @@ recipes:
   - 排骨
   - 苦瓜
   - 虾皮
+  steps:
+  - 排骨洗净，切到约 4cm ±2cm * 3 ± 2cm 的小块（如没有剁排骨的工具，可以求助摊主）
+  - 炒锅倒入冷水 700ml 和排骨一起加热至煮沸，关火捞出排骨
+  - 苦瓜中间切为两半，清除干净内部的种子和苦瓜瓤，切为 0.5 ± 0.3 cm 的苦瓜条，洗净
   file: recipes/cooking/soup/排骨苦瓜汤/排骨苦瓜汤.md
   source: howtocook
 - title: 昂刺鱼豆腐汤
@@ -8894,6 +9798,10 @@ recipes:
   - 昂刺鱼或者沙光鱼
   - 豆腐
   - 香葱
+  steps:
+  - 鱼处理好后洗净，（特别注意肚内的血丝、不洗干净会有腥味），放入大碗中，倒入料酒、10g 姜片、5g 盐，腌制 15 分钟
+  - 豆腐切块，放入凉水浸泡 5 分钟，捞出备用
+  - 煎鱼前，先用生姜片擦一下锅防止粘锅，倒入油（油量为 15ml * 鱼的条数 ），烧热后放入鱼煎 2~3 分钟，期间需要晃动一下鱼，防止粘底，且需要翻一次身
   file: recipes/cooking/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md
   source: howtocook
 - title: 朱雀汤
@@ -8909,6 +9817,10 @@ recipes:
   - 鸡蛋
   - 香油
   - 白糖
+  steps:
+  - 鸡蛋在碗中打散，再倒入香油。
+  - 水烧开后，在沸腾状态下快速倒入盛有鸡蛋的碗中。
+  - 放入白糖。
   file: recipes/cooking/soup/朱雀汤/朱雀汤.md
   source: howtocook
 - title: 玉米排骨汤
@@ -8930,6 +9842,10 @@ recipes:
   - 排骨
   - 玉米
   - 胡箩卜
+  steps:
+  - 大葱切成 3-4cm 的大段，用刀背拍一下
+  - 玉米剁成小块
+  - 胡箩卜切成滚刀块
   file: recipes/cooking/soup/玉米排骨汤/玉米排骨汤.md
   source: howtocook
 - title: 生汆丸子汤
@@ -8955,6 +9871,10 @@ recipes:
   - 前腿肉
   - 盐
   - 胡椒粉
+  steps:
+  - 肉改刀切开，肥瘦三七分
+  - 上刀剁一剁，用刀背砸一砸，把肉筋打开打松疏
+  - 剁一剁，砸一砸，剁成肉末，要想好吃得自己剁，机器打的太黏糊了
   file: recipes/cooking/soup/生汆丸子汤.md
   source: howtocook
 - title: 番茄牛肉蛋花汤
@@ -8973,6 +9893,10 @@ recipes:
   - 牛肉
   - 番茄
   - 鸡蛋
+  steps:
+  - 牛肉切成薄片
+  - 番茄切成小块
+  - 葱切成葱花
   file: recipes/cooking/soup/番茄牛肉蛋花汤.md
   source: howtocook
 - title: 皮蛋瘦肉粥
@@ -8998,6 +9922,10 @@ recipes:
   - 饮用水
   - 皮蛋
   - 瘦肉
+  steps:
+  - 大米 - 洗净 - 放入电饭锅内胆 - 加入 1 升 饮用水
+  - 瘦肉 - 洗净 - 简易晾去水分 - 加入 10ml 食用油 - 揉搓均匀 - 放入电饭锅内胆
+  - 皮蛋 - 去壳 - 洗净 - 对半切开 - 分离蛋白蛋黄 - 蛋白简单切碎块 - 蛋黄揉碎 - 放入电饭锅内胆
   file: recipes/cooking/soup/皮蛋瘦肉粥.md
   source: howtocook
 - title: 米粥
@@ -9013,6 +9941,10 @@ recipes:
   - 米
   - 水
   - 植物油
+  steps:
+  - （可选）将 Mo ml 的油与洗净的米混合，*尽量确保完全混合，即每粒米上至少都沾上少量油*
+  - （可选）将 米-油混合物品冷藏保存，冷藏时间 Tc。
+  - 将米和水加入锅中。
   file: recipes/cooking/soup/米粥.md
   source: howtocook
 - title: 紫菜蛋花汤
@@ -9032,6 +9964,10 @@ recipes:
   - 鸡蛋
   - 紫菜
   - 葱花
+  steps:
+  - 干紫菜用清水泡 15 分钟，捞起沥干水份备用。
+  - 热锅，倒入 1.5 升清水、5ml 油、2g 盐。待水开后放入紫菜。
+  - 紫菜烧开后 3 分钟，将打好的蛋液徐徐倒入锅内，30 秒既可起锅。
   file: recipes/cooking/soup/紫菜蛋花汤.md
   source: howtocook
 - title: 罗宋汤
@@ -9048,6 +9984,10 @@ recipes:
   - 蔬菜高汤
   - 牛肉高汤
   - 牛肉
+  steps:
+  - 洋葱、胡萝卜、欧芹切 1cm 见方小丁
+  - 红肠、马铃薯切 2cm 块
+  - 包菜去梗后，手撕至 2cm 片
   file: recipes/cooking/soup/罗宋汤.md
   source: howtocook
 - title: 羊肉汤
@@ -9067,6 +10007,10 @@ recipes:
   - 羊肉或羊杂
   - 食用油
   - 料酒
+  steps:
+  - 羊肉切成长 5cm 宽 0.5cm 的块
+  - 大葱切成小段
+  - 羊肉放入锅中，加入 1000ml 常温水，加入料酒、大葱
   file: recipes/cooking/soup/羊肉汤/羊肉汤.md
   source: howtocook
 - title: 腊八粥
@@ -9098,6 +10042,11 @@ recipes:
   - 饮用水
   - 大米
   - 糯米
+  steps:
+  - 提前洗净好绿豆、红豆、花生、黄豆、豌豆、红腰豆，并用干净的玻璃碗盛放好，注入 3/4 玻璃碗大小的饮用水，浸泡一夜（或最少 8 小时）。
+  - 提前洗净好大米、糯米、薏米、黑米、小米、莲子，并用干净的玻璃碗盛放好，注入 3/4 玻璃碗大小的饮用水，浸泡 3 小时。
+  - 将步骤 1 中准备好的盛有绿豆、红豆、花生、黄豆、豌豆、红腰豆的玻璃碗中的水分分离倒出，其余原料倒入粥锅中，加入 1 升饮用水（或漫过食材 1 拇指块），大火煮沸，煮沸后合上锅盖，小火煮
+    30 分钟。
   file: recipes/cooking/soup/腊八粥.md
   source: howtocook
 - title: 菌菇炖乳鸽
@@ -9115,6 +10064,10 @@ recipes:
   - 乳鸽
   - 菌菇
   - 玉米
+  steps:
+  - 冷水洗干净热心摊主处理好的乳鸽
+  - 冷水锅中放入洗干净的乳鸽，加入 15ml 料酒与姜，水煮开即可捞出乳鸽，要不然会丢失营养
+  - 把乳鸽放到高压缩或者瓦罐中、倒入的水要没过乳鸽，放入生姜 20 g，玉米 200 g、菌菇 100 g
   file: recipes/cooking/soup/菌菇炖乳鸽/菌菇炖乳鸽.md
   source: howtocook
 - title: 西红柿鸡蛋汤
@@ -9133,6 +10086,10 @@ recipes:
   - 西红柿
   - 鸡蛋
   - 香油
+  steps:
+  - 将西红柿洗净，切块。
+  - 葱姜蒜切碎。
+  - 鸡蛋打到碗中，用筷子（或打蛋器）搅拌均匀。
   file: recipes/cooking/soup/西红柿鸡蛋汤.md
   source: howtocook
 - title: 金针菇汤
@@ -9146,6 +10103,10 @@ recipes:
   - 汤羹
   - 金针菇
   - 鸡蛋
+  steps:
+  - 金针菇徒手掰散，越散越好**不然容易藏牙**，洗净备用。
+  - 用菜刀或者水果刀将上述金针菇段段切，可依据个人喜好，但长度不宜超过 5 cm。
+  - 将金针菇放入锅中，加水没过约食材总高度 1.1 倍，沸腾后**等待 3 分钟**。
   file: recipes/cooking/soup/金针菇汤.md
   source: howtocook
 - title: 银耳莲子粥
@@ -9162,6 +10123,10 @@ recipes:
   - 银耳
   - 去心莲子
   - 红枣
+  steps:
+  - 把银耳、莲子用清水浸泡 2 个小时，红枣浸泡 10 - 20 分钟，枸杞洗净，备用
+  - 在锅中倒入 600ml 水，烧开后依次放入银耳、莲子、红枣
+  - 等待水再次烧开后，盖上锅盖，转至中火继续熬
   file: recipes/cooking/soup/银耳莲子粥/银耳莲子粥.md
   source: howtocook
 - title: 陈皮排骨汤
@@ -9181,6 +10146,10 @@ recipes:
   - 排骨
   - 陈皮
   - 西洋参
+  steps:
+  - 排骨用热水过一边，去血水
+  - 陈皮、麦冬、玉竹、石斛和西洋参，冲洗干净即可
+  - 煲汤盅洗干净
   file: recipes/cooking/soup/陈皮排骨汤/陈皮排骨汤.md
   source: howtocook
 - title: 陈皮排骨汤
@@ -9201,6 +10170,10 @@ recipes:
   - 排骨
   - 陈皮
   - 西洋参
+  steps:
+  - 排骨用热水过一边，去血水
+  - 陈皮、麦冬、玉竹、石斛和西洋参，冲洗干净即可
+  - 煲汤盅洗干净
   file: recipes/cooking/soup/陈皮排骨汤.md
   source: howtocook
 - title: 黄瓜皮蛋汤
@@ -9220,6 +10193,10 @@ recipes:
   - 黄瓜
   - 皮蛋
   - 大蒜
+  steps:
+  - 黄瓜洗净，切成 0.5-1.2 mm 厚的薄片
+  - 葱洗净切成末，蒜用刀拍几下去皮，对半切一下
+  - 皮蛋剥去壳，然后每个切成 6-8 份。锅里倒入油，放入切好的皮蛋和大蒜
   file: recipes/cooking/soup/黄瓜皮蛋汤.md
   source: howtocook
 - title: 中式馅饼
@@ -9243,6 +10220,10 @@ recipes:
   - 面粉
   - 肉沫
   - 油
+  steps:
+  - 取肉沫（解冻），加入 1/2 所有上述调料（油、盐、糖、酱油、风味调料）和全部的生粉，搅拌均匀，腌制 30 分钟。
+  - 将面粉加入碗中，加入鸡蛋，加入剩下 1/2 所有上述调料，加入相当于面粉 1/2 的水（使得面粉相对粘稠但可以流动），搅拌均匀。
+  - 蒜头切为蒜末。
   file: recipes/cooking/staple/中式馅饼/中式馅饼.md
   source: howtocook
 - title: 凉粉
@@ -9265,6 +10246,10 @@ recipes:
   - 豌豆淀粉
   - 大蒜
   - 小米辣
+  steps:
+  - 准备食材。
+  - 把豌豆淀粉和水各 100 克混合搅拌。
+  - 往锅中倒入 600g 水，大火煮开后转为小火。
   file: recipes/cooking/staple/凉粉/凉粉.md
   source: howtocook
 - title: 利提巧卡
@@ -9295,6 +10280,10 @@ recipes:
   - 全麦面粉
   - 烤鹰嘴豆粉
   - 茄子
+  steps:
+  - 在碗中混合烤鹰嘴豆粉 120g、切碎的洋葱、青辣椒、生姜
+  - 加入孜然籽 3g、芝麻 5g、红辣椒粉 3g、印度黑盐 3g、盐 3g
+  - 加入芥末油 15ml、柠檬汁 10ml、切碎的香菜叶
   file: recipes/cooking/staple/利提巧卡.md
   source: howtocook
 - title: 印度烤饼
@@ -9318,6 +10307,10 @@ recipes:
   - 中筋面粉
   - 酸奶
   - 酵母
+  steps:
+  - 将干酵母 3g 和糖 10g 溶解在 100ml 温水中（水温约 40°C，不可过烫）
+  - 静置 **5 分钟**，直至*表面冒出细泡沫*（说明酵母已激活）
+  - 在大碗中放入中筋面粉 300g 和盐 5g，混合均匀
   file: recipes/cooking/staple/印度烤饼.md
   source: howtocook
 - title: 印度焖饭
@@ -9349,6 +10342,10 @@ recipes:
   - 巴斯马蒂长粒香米
   - 鸡腿肉
   - 酸奶
+  steps:
+  - 在大碗中混合酸奶、磨碎的生姜和大蒜、红辣椒粉、姜黄粉、印度综合香料粉、盐、柠檬汁
+  - 放入鸡肉块，均匀裹上腌料
+  - 盖保鲜膜，冷藏腌制**至少 1 小时**（过夜更佳）
   file: recipes/cooking/staple/印度焖饭.md
   source: howtocook
 - title: 可乐炒饭
@@ -9372,6 +10369,10 @@ recipes:
   - 米饭
   - 可乐
   - 鸡蛋
+  steps:
+  - 将锅烧热后，加入 25 ml 油，放两个鸡蛋，煎至底部完全凝固
+  - 翻面，煎至两面完全凝固
+  - 关火，将鸡蛋取出，剪成 2-5 cm² 的小块后放回锅中（也可以直接用锅铲铲碎）
   file: recipes/cooking/staple/可乐炒饭.md
   source: howtocook
 - title: 咸肉菜饭
@@ -9392,6 +10393,10 @@ recipes:
   - 大米
   - 青菜
   - 咸肉
+  steps:
+  - 如果加入冬笋，切薄片后冷水下锅煮 10 分钟去涩味
+  - 咸肉切 1 cm 小丁
+  - 咸肉和冬笋冷锅下 10 g 猪油、料酒、白糖，中小火煸炒到透明冒泡
   file: recipes/cooking/staple/咸肉菜饭.md
   source: howtocook
 - title: 基础牛奶面包
@@ -9416,6 +10421,10 @@ recipes:
   - 高筋或中筋面粉 *
   - 鸡蛋 *
   - 糖 *
+  steps:
+  - 首先，将酵母和 ***30℃ 的温水*** 用刮刀或厨具混合均匀，静置 5 分钟。之后与面粉混合，搅拌均匀。此时的酵头应该是**特别粘稠**的面糊。
+  - 用布盖上面糊，将面糊放置到**温暖的地方**进行发酵，时长为 45 ~ 60 分钟。
+  - 最终的面糊应该是表面有很多气泡的且体积明显增大。
   file: recipes/cooking/staple/基础牛奶面包/基础牛奶面包.md
   source: howtocook
 - title: 微波炉腊肠煲仔饭
@@ -9428,6 +10437,10 @@ recipes:
   tags:
   - 工具
   - 原料
+  steps:
+  - 将米淘洗干净后倒入 `饭碗` 内，加入 400ml 的水，**盖上盖**
+  - 放入微波炉，高火，`6` 分钟，煮饭途中准备原料
+  - 6 分钟后，用毛巾或隔热手套取出碗，可以看见米饭已经八分熟
   file: recipes/cooking/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md
   source: howtocook
 - title: 意式肉酱面
@@ -9443,6 +10456,10 @@ recipes:
   - 意大利面
   - 意大利面酱
   - 肉沫
+  steps:
+  - 锅中加水，烧开后放入意面（等待 6 - 12 分钟）
+  - 在烧水的时候可以进行下面这些步骤，但请注意煮面的时间
+  - 洋葱切成小丁
   file: recipes/cooking/staple/意式肉酱面/意式肉酱面.md
   source: howtocook
 - title: 手工水饺
@@ -9460,6 +10477,10 @@ recipes:
   - 擀面杖
   - 面粉
   - 冷水
+  steps:
+  - 盆中加入所有面粉
+  - 加入芝麻香油
+  - 面粉中央挖小洞
   file: recipes/cooking/staple/手工水饺.md
   source: howtocook
 - title: 扬州炒饭
@@ -9481,6 +10502,10 @@ recipes:
   - 冷饭
   - 鸡蛋
   - 冷冻去皮基围虾
+  steps:
+  - 胡萝卜切丁 0.2cm*0.2cm*0.2cm，备用
+  - 午餐肉切丁 0.2cm*0.2cm*0.2cm，备用
+  - 葱分别取葱白和葱绿，各切成 0.25-0.5cm 的小段，分开备用
   file: recipes/cooking/staple/扬州炒饭/扬州炒饭.md
   source: howtocook
 - title: 披萨饼皮
@@ -9500,6 +10525,10 @@ recipes:
   - 中筋面粉
   - 水
   - 安琪干酵母粉
+  steps:
+  - 用准备好的温水把酵母粉化开，稍微搅拌小就好，备用
+  - 取准备好的面粉，依次添加盐、橄榄油、白砂糖
+  - 准备混合水和面粉，边加水边搅拌直至水全部加完
   file: recipes/cooking/staple/披萨饼皮/披萨饼皮.md
   source: howtocook
 - title: 日式咖喱饭
@@ -9520,6 +10549,10 @@ recipes:
   - 咖喱块
   - 土豆
   - 胡萝卜
+  steps:
+  - 胡萝卜去头尾，去皮，滚刀切
+  - 洋葱剥去外层去芯，切成月牙状
+  - 土豆去皮、切大块
   file: recipes/cooking/staple/日式咖喱饭/日式咖喱饭.md
   source: howtocook
 - title: 日式肥牛丼饭
@@ -9537,6 +10570,10 @@ recipes:
   - 洋葱
   - 葱
   - 白芝麻
+  steps:
+  - 洋葱剥去外层去芯，切成月牙状
+  - 葱洗净切成 0.5cm 的小段
+  - 热锅直接放入白芝麻，**前后晃动锅体**使芝麻均匀受热至*略呈金黄色*
   file: recipes/cooking/staple/日式肥牛丼饭/日式肥牛丼饭.md
   source: howtocook
 - title: 汤面
@@ -9550,6 +10587,10 @@ recipes:
   - 主食
   - 面食材料
   - 菜类材料
+  steps:
+  - 先将菜类材料切成边长不超过 4cm 的块状，便于煮熟
+  - 如有生肉，则先放入冷水中，盖上锅盖，煮沸腾，先捞出上层血沫，再关火，捞出半熟的肉备用
+  - 先大火将水加热至沸腾，后调至中火
   file: recipes/cooking/staple/汤面.md
   source: howtocook
 - title: 河南蒸面条
@@ -9570,6 +10611,10 @@ recipes:
   - 挂面
   - 五花肉
   - 蒜薹
+  steps:
+  - 起锅加 7 成水，水开，上蒸篦子
+  - 将挂面，均匀铺开放置，淋 5ml 油并抹匀，蒸 15 分钟
+  - 将挂面和蒸篦子取出，放置一边，并倒掉锅中的水
   file: recipes/cooking/staple/河南蒸面条/河南蒸面条.md
   source: howtocook
 - title: 火腿饭团
@@ -9588,6 +10633,10 @@ recipes:
   - 火腿
   - 米饭
   - 水
+  steps:
+  - 将米饭和水放到电饭锅里，点击米饭模式，等待完成
+  - 冷冻玉米粒和青豆放到锅里，加水没过所有食材，沸腾后静待 2 分钟后，捞出。
+  - 火腿切成 1cm 的方块
   file: recipes/cooking/staple/火腿饭团/火腿饭团.md
   source: howtocook
 - title: 炒凉粉
@@ -9610,6 +10659,10 @@ recipes:
   - 凉粉
   - 玉米油
   - 大蒜
+  steps:
+  - 凉粉改刀切麻将块大小
+  - 开小火，起锅烧油，锅烧微热后，下入蒜末爆香后加入豆瓣酱炒出红油
+  - 将凉粉块下入锅中，翻炒 10 秒
   file: recipes/cooking/staple/炒凉粉/炒凉粉.md
   source: howtocook
 - title: 炒年糕
@@ -9625,6 +10678,10 @@ recipes:
   - 年糕/白粿
   - 葱
   - 调味料
+  steps:
+  - 锅中加水烧开，煮熟年糕，碗中加水确保年糕不会粘连，捞起年糕备用。
+  - 小葱切葱花（将葱白和葱叶分开），青菜切小段备用。
+  - （可选） 制作炒蛋，见[西红柿炒蛋](https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%82%92%E9%B8%A1%E8%9B%8B.md)。
   file: recipes/cooking/staple/炒年糕.md
   source: howtocook
 - title: 炒意大利面
@@ -9640,6 +10697,10 @@ recipes:
   - 意大利面
   - 肥牛片
   - 番茄酱 / 黑胡椒酱
+  steps:
+  - 加入 250 克水 / 人
+  - 待水烧开，下入面条，中火煮 15 - 20 分钟（这个面通常比较硬，捞起来之前最好尝一下，中心如果有一点硬，需要继续煮）
+  - 捞出面条，盛入盘中备用
   file: recipes/cooking/staple/炒意大利面/炒意大利面.md
   source: howtocook
 - title: 炒方便面
@@ -9654,6 +10715,10 @@ recipes:
   - 方便面
   - 鸡蛋
   - 火腿肠
+  steps:
+  - 将火腿肠撕开包装，切成宽度 1cm 的小块。
+  - 向煮锅中加入 1200 ml 水，实际以没过面饼为准。完全煮沸，不要在未沸腾时加面。
+  - 加入方便面面饼，煮 45 秒。煮的过程中将其挑动，把面条打散。
   file: recipes/cooking/staple/炒方便面/炒方便面.md
   source: howtocook
 - title: 炒河粉
@@ -9669,6 +10734,10 @@ recipes:
   - 炒河粉、猪肉/牛肉
   - 炒料
   - 其他调味料
+  steps:
+  - 小葱切碎（葱白和葱叶分开）、蒜瓣拍碎，丢案板上备用。
+  - 打碎鸡蛋，捞一点蛋清到一只碗中，剩下的丢入另一只碗中备用。
+  - 将绿豆芽放入锅中，大火煮 60 秒。豆芽捞出，过凉水，放入盘中备用。
   file: recipes/cooking/staple/炒河粉.md
   source: howtocook
 - title: 炒馍
@@ -9688,6 +10757,10 @@ recipes:
   - 馒头
   - 盐
   - 油
+  steps:
+  - 将馒头切成小块或小片。
+  - 选有鸡蛋的话将鸡蛋打进碗里，打散（可加盐和五香粉各 1g 或不加，等炒的过程中加）。
+  - 鸡蛋浇在馒头上，拌匀，鸡蛋不宜过多。
   file: recipes/cooking/staple/炒馍.md
   source: howtocook
 - title: 炸酱面
@@ -9706,6 +10779,10 @@ recipes:
   - 肉丁/肉末
   - 面条
   - 蒜
+  steps:
+  - 菜码切丝备用。
+  - 葱切碎。油锅烧热，下葱和肉，炒至肉完全熟透（无红色）
+  - 下豆瓣酱和甜面酱，继续炒至**微微粘稠**。盛出，得到*炸酱*。
   file: recipes/cooking/staple/炸酱面.md
   source: howtocook
 - title: 烙饼
@@ -9720,6 +10797,10 @@ recipes:
   - 油
   - 面粉
   - 电饼铛
+  steps:
+  - 将 400g 面粉倒入盆中，一半用凉水和面，一半用热水和面，搅拌成面絮，用手揉成团。用保鲜膜封起来，醒面 40 分钟
+  - 离醒面完成时间还有 10 分钟时，请查看[小技巧](../../condiment/油酥.md)中的油酥做法（热油酥效果更好）
+  - 醒好的面不用揉，稍微摁一下，用一横刀一竖刀将其分成四份。
   file: recipes/cooking/staple/烙饼/烙饼.md
   source: howtocook
 - title: 芝麻烧饼
@@ -9737,6 +10818,10 @@ recipes:
   - 面粉
   - 酵母粉
   - 白糖
+  steps:
+  - 面团：300 克面粉，3 克酵母粉，3 克白糖，180 克温水，20 克食用油，醒面 10 分钟
+  - 油酥：小碗放 30 克面粉，2 克盐，4 克十三香，20 克食用油，拌匀后，静置
+  - 做饼：面擀成长方形，抹上调好的油酥，从一头卷起，切成 7 个面剂子，对折，用虎口收拢即可，先沾水再沾白芝麻，擀成小圆饼
   file: recipes/cooking/staple/烧饼/芝麻烧饼.md
   source: howtocook
 - title: 热干面
@@ -9762,6 +10847,10 @@ recipes:
   - 热干面特有的碱水面
   - 小葱
   - 酸豆角
+  steps:
+  - 水煮沸，并加入碱水面，焯烫 25 秒钟捞起
+  - 撒上食盐、鸡精和胡椒粉
+  - 芝麻酱用 90ml 水稀释，搅匀，然后加入
   file: recipes/cooking/staple/热干面.md
   source: howtocook
 - title: 照烧鸡腿饭
@@ -9789,6 +10878,10 @@ recipes:
   - 鸡腿
   - 料酒
   - 生抽
+  steps:
+  - 取一只鸡腿，鸡皮朝下放在砧板上
+  - 用刀尖沿着鸡腿骨头的轮廓轻轻划开，从一端到另一端
+  - 用手指或刀背慢慢推开鸡肉，让骨头暴露出来。如果遇到筋膜，用刀尖切断
   file: recipes/cooking/staple/照烧鸡腿饭.md
   source: howtocook
 - title: 煮泡面加蛋
@@ -9804,6 +10897,10 @@ recipes:
   - 泡面
   - 鸡蛋
   - 水
+  steps:
+  - 先将水加热至沸腾（火候不做严格要求，使用热水会更快）
+  - 将取出的面饼放入锅中
+  - 将泡面里附带的佐料放入锅中
   file: recipes/cooking/staple/煮泡面加蛋.md
   source: howtocook
 - title: 猪油拌饭
@@ -9823,6 +10920,10 @@ recipes:
   - 米饭
   - 猪油
   - 生抽
+  steps:
+  - 碗底铺猪油
+  - 加入米饭
+  - 淋上酱油与蚝油
   file: recipes/cooking/staple/猪油拌饭.md
   source: howtocook
 - title: 电饭煲三文鱼炊饭
@@ -9841,6 +10942,10 @@ recipes:
   - 有盐牛油
   - 三文鱼
   - 米
+  steps:
+  - 三文鱼去鳞，去骨
+  - 金菇、冬菇切碎
+  - 洗米三次
   file: recipes/cooking/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md
   source: howtocook
 - title: 空气炸锅照烧鸡饭
@@ -9855,6 +10960,10 @@ recipes:
   - 丽滋饼干
   - 酱油
   - 糖
+  steps:
+  - 将酱油、糖和醋混合在一起,搅匀料汁备用
+  - 另一个碗中加入鸡肉、鸡蛋、1/2 料汁和压碎的丽滋饼干。搅拌均匀
+  - 空气炸锅用箔纸碗铺底，加入肉饼混合物，将剩余的料汁均匀的倒在上面
   file: recipes/cooking/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md
   source: howtocook
 - title: 煮锅蒸米饭
@@ -9867,6 +10976,10 @@ recipes:
   tags:
   - 北方大米
   - 水
+  steps:
+  - 清洗大米
+  - 将米和水加入煮锅
+  - 大火煮至水沸腾
   file: recipes/cooking/staple/米饭/煮锅蒸米饭.md
   source: howtocook
 - title: 电饭煲蒸米饭
@@ -9881,6 +10994,10 @@ recipes:
   - 电饭煲
   - 江南米或北方大米
   - 水
+  steps:
+  - 将米和水一起加入电饭煲中。
+  - 连接电饭煲电源，进入加热模式。等待大约 30 分钟。
+  - 待电饭煲自动进入保温模式后。
   file: recipes/cooking/staple/米饭/电饭煲蒸米饭.md
   source: howtocook
 - title: 红芸豆拌饭
@@ -9909,6 +11026,10 @@ recipes:
   - 红芸豆
   - 巴斯马蒂香米或普通大米
   - 洋葱
+  steps:
+  - 将干红芸豆用清水浸泡至少 8 小时（过夜），浸泡后体积会膨胀约两倍
+  - 将浸泡好的红芸豆沥干
+  - '**使用高压锅**：放入红芸豆和 600ml 水，盖好锅盖，大火上气后转中火，**压 15-20 分钟**，直至*豆子用手指可轻松压碎*'
   file: recipes/cooking/staple/红芸豆拌饭.md
   source: howtocook
 - title: 老友猪肉粉
@@ -9934,6 +11055,10 @@ recipes:
   - 米粉
   - 猪肉
   - 酸笋
+  steps:
+  - 全部猪肉用料酒、盐、生抽、生粉、胡椒粉倒在一个碗里调味,备用
+  - 热锅不放油,下全部酸笋把水份炒干，炒干的酸笋中间留点空间
+  - 放入 10ml - 15ml 食用油与全部大蒜、 剁椒、 豆豉到炒干的酸笋中间到炒干的酸笋中间,全部推到中间炒出香味
   file: recipes/cooking/staple/老友猪肉粉/老友猪肉粉.md
   source: howtocook
 - title: 老干妈拌面
@@ -9949,6 +11074,10 @@ recipes:
   - 面
   - 老干妈
   - 酱油
+  steps:
+  - 将水倒入锅中并煮沸
+  - 将面均匀放入锅中
+  - 在煮的过程注意搅拌，避免面粘成一坨
   file: recipes/cooking/staple/老干妈拌面.md
   source: howtocook
 - title: 肉蛋盖饭
@@ -9971,6 +11100,10 @@ recipes:
   - 米饭
   - 鸡蛋
   - 肉馅
+  steps:
+  - 煮好米饭，通常使用买米赠送的量杯，一杯米 240g
+  - 锅中放油 30ml
+  - 放入肉馅，调中火煎至两面微焦
   file: recipes/cooking/staple/肉蛋盖饭.md
   source: howtocook
 - title: 茄子肉煎饼
@@ -9989,6 +11122,10 @@ recipes:
   - 米粉
   - 小麦粉
   - 鸡蛋
+  steps:
+  - 将茄子去皮后切成片，将腊肉切成片，备用
+  - 依次向盆中加入 250g 米粉（大米研磨成的粉）、50g 面粉和 1 个鸡蛋
+  - 边用筷子搅拌，边加入清水（**清水用于调节粘稠度**），使米粉、面粉、鸡蛋混合成面糊,当面糊能够附着在茄片、肉片上而不掉落时停止加水，而后将所有茄片和肉片放入面糊中，用面糊充分包裹
   file: recipes/cooking/staple/茄子肉煎饼/茄子肉煎饼.md
   source: howtocook
 - title: 葱油拌面
@@ -10006,6 +11143,10 @@ recipes:
   - 干面条
   - 小葱
   - 生抽
+  steps:
+  - 将 小葱 洗净，切成长段（约 5-7 cm）。葱白和葱绿可以分开。
+  - 锅中加入 100 ml 食用油，中火烧热。先放入葱白段，煸炒至微黄。
+  - 加入葱绿段，转小火，继续煸炒。
   file: recipes/cooking/staple/葱油拌面.md
   source: howtocook
 - title: 蒸卤面
@@ -10027,6 +11168,10 @@ recipes:
   - 猪五花肉
   - 芹菜
   - 鲜面条
+  steps:
+  - 猪肉去皮，切成 `2 cm * 6 cm * 0.5 cm` 薄片备用
+  - 芹菜去叶，去掉根部 2cm，然后从中对半切开，切成 2cm 段备用
+  - 大蒜去皮切粒备用，葱切 0.2cm 薄片备用，姜切细丝备用
   file: recipes/cooking/staple/蒸卤面.md
   source: howtocook
 - title: 蛋包饭
@@ -10049,6 +11194,10 @@ recipes:
   - 鸡蛋
   - 洋葱
   - 胡萝卜
+  steps:
+  - 洋葱、胡萝卜、火腿肠或鸡胸肉切成小丁，备用
+  - 热锅，锅中倒入 10ml 食用油，等待 10 秒加热
+  - 先放入洋葱丁翻炒 1 分钟，出香味后加入胡萝卜、玉米粒、青豆继续翻炒 2 分钟
   file: recipes/cooking/staple/蛋包饭.md
   source: howtocook
 - title: 蛋炒饭
@@ -10071,6 +11220,10 @@ recipes:
   - 冷饭
   - 鸡蛋
   - 火腿
+  steps:
+  - 米饭提前用铲子铲成小块
+  - 火腿肠、胡萝卜、黄瓜等根据需求切片或者块状
+  - 如果家里有熟肉 准备好味道更佳
   file: recipes/cooking/staple/蛋炒饭.md
   source: howtocook
 - title: 螺蛳粉
@@ -10086,6 +11239,10 @@ recipes:
   - 袋装螺蛳粉一包，其中应该包含
   - 电磁炉/灶台
   - 筷子一双
+  steps:
+  - 锅中加水，将水烧开
+  - 下米粉，煮 3-5 分钟，期间用筷子搅拌，防止米粉粘在一起
+  - 下汤料包，按个人口味添加
   file: recipes/cooking/staple/螺蛳粉.md
   source: howtocook
 - title: 西红柿鸡蛋挂面
@@ -10106,6 +11263,10 @@ recipes:
   - 挂面或者鲜面条也行
   - 西红柿一个
   - 盐
+  steps:
+  - 小葱洗净并切成葱花
+  - 西红柿切块儿，如果不太会切建议先百度一下~
+  - 青椒切成菱形块
   file: recipes/cooking/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md
   source: howtocook
 - title: 豆角焖面
@@ -10131,6 +11292,10 @@ recipes:
   - 鲜面条
   - 肉
   - 盐
+  steps:
+  - 将豆角切成 5cm - 6cm 的小段。
+  - 将葱切成 1cm - 2cm 小段。
+  - 将姜切成 1mm x 1mm x 3cm 的长条
   file: recipes/cooking/staple/豆角焖面/豆角焖面.md
   source: howtocook
 - title: 酱拌荞麦面
@@ -10146,6 +11311,10 @@ recipes:
   - 荞麦面
   - 黄瓜
   - 红萝卜
+  steps:
+  - 荞麦面下冷水煮熟，8-10 分钟 后捞出沥干备用
+  - 黄瓜、萝卜 切成小条
+  - 将荞麦面、黄瓜、萝卜放入盘子，放上老干妈，搅拌
   file: recipes/cooking/staple/酱拌荞麦面/酱拌荞麦面.md
   source: howtocook
 - title: 酸辣蕨根粉
@@ -10167,6 +11336,10 @@ recipes:
   - 蕨根粉
   - 油泼辣子
   - 酱油
+  steps:
+  - 锅中加入约为深度 3/5 的水，烧开
+  - 水沸腾后加入蕨根粉，中小火煮 8 分钟
+  - 根据配比，加入酱油、醋、油泼辣子
   file: recipes/cooking/staple/酸辣蕨根粉.md
   source: howtocook
 - title: 醪糟小汤圆
@@ -10183,6 +11356,10 @@ recipes:
   - 小汤圆
   - 醪糟
   - 白糖
+  steps:
+  - 将水倒入锅中并煮沸
+  - 放入小汤圆煮 8 分钟
+  - 放入醪糟和枸杞再煮 2 分钟
   file: recipes/cooking/staple/醪糟小汤圆.md
   source: howtocook
 - title: 陕西油泼面
@@ -10203,6 +11380,10 @@ recipes:
   - 鲜面条
   - 盐
   - 葱
+  steps:
+  - 扯面的话, 用擀面杖（没有擀面杖,用手也行）上下两边轻压, 两手拽住左侧和右侧两端,轻轻拉开
+  - 葱切成葱花，蒜切成蒜末备用
+  - 青菜洗净，豆芽洗净备用（如使用）
   file: recipes/cooking/staple/陕西油泼面/陕西油泼面.md
   source: howtocook
 - title: 韩式拌饭
@@ -10224,6 +11405,10 @@ recipes:
   - 米饭
   - 鸡蛋
   - 豆芽
+  steps:
+  - 蔬菜清洗 切丝 放锅中翻炒 食材变软 便可称出
+  - 煮水 等沸腾时 焯牛肉卷 只需煮熟 大概三分钟即可捞出
+  - 煎[溏心蛋](../../breakfast/溏心蛋.md)
   file: recipes/cooking/staple/韩式拌饭/韩式拌饭.md
   source: howtocook
 - title: 韭菜盒子
@@ -10242,6 +11427,10 @@ recipes:
   - 韭菜
   - 虾仁
   - 鸡蛋
+  steps:
+  - 将面粉放入大碗中，加入水，搅拌成光滑的面团，静置 30 分钟。
+  - 韭菜洗净切碎，加入打散的鸡蛋、5g 盐，搅拌均匀。
+  - 将面团分成小剂子，擀成薄圆饼，包入韭菜、虾仁、鸡蛋液。
   file: recipes/cooking/staple/韭菜盒子.md
   source: howtocook
 - title: 鲜肉烧卖
@@ -10272,6 +11461,10 @@ recipes:
   - 烧卖皮
   - 猪肉末
   - 生姜末
+  steps:
+  - （低脂版本）取 10 mL 冷水，加入复配食品增稠剂，调成糊糊
+  - （低脂版本）加入 25 mL 开水，搅拌至半透明凝胶
+  - （低脂版本）冷却后混入 280 g 纯瘦肉糜 + 15 g 融化猪油（或鸡油）
   file: recipes/cooking/staple/鲜肉烧卖.md
   source: howtocook
 - title: 鲣鱼海苔玉米饭
@@ -10282,6 +11475,9 @@ recipes:
   - 必备
   tags:
   - 必备
+  steps:
+  - 盛好米饭，放入玉米粒拌好
+  - 放入鲣鱼海苔碎
   file: recipes/cooking/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md
   source: howtocook
 - title: 鹰嘴豆炸饼
@@ -10313,6 +11509,10 @@ recipes:
   - 鹰嘴豆
   - 中筋面粉
   - 酸奶
+  steps:
+  - 将干鹰嘴豆用清水浸泡过夜（至少 8 小时），浸泡后体积会膨胀至约两倍
+  - 将浸泡好的鹰嘴豆沥干水分
+  - 放入锅中，加入 500ml 水和 1 个红茶包（用于上色）
   file: recipes/cooking/staple/鹰嘴豆炸饼.md
   source: howtocook
 - title: 麻油拌面
@@ -10330,6 +11530,10 @@ recipes:
   - 风干快熟面/任何牌子的快熟面
   - 麻油
   - 胡椒粉
+  steps:
+  - 将水倒入锅中并煮沸 （喜欢吃 q 弹面的同学，可在水里加入 30 克盐，用盐水煮出来的面会比较 q 弹）
+  - 将快熟面放入锅中 3 分钟（也可参考当下品牌快熟面的烹饪时间）
+  - 当面开始散了可以开始搅拌，让面受热均匀
   file: recipes/cooking/staple/麻油拌面.md
   source: howtocook
 - title: 麻辣减脂荞麦面
@@ -10341,6 +11545,10 @@ recipes:
   tags:
   - 主食
   - 原料
+  steps:
+  - 娃娃菜、生菜洗好，备用
+  - 锅内倒入 500ml 水，开大火，将荞麦面和娃娃菜放进去，等待水沸腾
+  - 水沸腾后，转小火，加入火锅底料、花生酱、牛奶、生抽、辣椒油，水开后煮 5 分钟
   file: recipes/cooking/staple/麻辣减脂荞麦面.md
   source: howtocook
 - title: 示例菜
@@ -10355,6 +11563,10 @@ recipes:
   - 咖喱块
   - 土豆
   - 藤椒油
+  steps:
+  - 土豆去皮、切成不超过 4cm 的大块，备用
+  - 咖喱块切碎，增加接触面积加速溶解，备用
+  - 热锅，锅内放入 10ml - 15ml 食用油。等待 10 秒让油温升高
   file: recipes/cooking/template/示例菜/示例菜.md
   source: howtocook
 - title: 上汤娃娃菜
@@ -10375,6 +11587,10 @@ recipes:
   - 娃娃菜
   - 皮蛋
   - 午餐肉
+  steps:
+  - 娃娃菜洗净, 竖着切开切成段。
+  - 葱 3g 切 小段。蒜 10g 切片。姜 10g 切小片。
+  - 皮蛋切成丁, 火腿肠或者午餐肉切成丁（1cm 大小的丁）
   file: recipes/cooking/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md
   source: howtocook
 - title: 乾隆白菜
@@ -10392,6 +11608,10 @@ recipes:
   - 大白菜
   - 芝麻酱
   - 陈醋
+  steps:
+  - 大白菜只取内部嫩叶（黄色部分），去除菜帮，用手撕成半个巴掌大的块，**不要用刀切**（手撕截面粗糙更易挂酱）
+  - 将撕好的白菜叶冲洗干净，充分控干水分，水分残留会导致酱汁无法挂附
+  - 碗中加入 30g 芝麻酱，**先加入 45ml 陈醋**，沿同一方向搅拌，将麻酱慢慢稀释开，直至*成细线状滴落*为止（切勿来回搅拌，会导致芝麻酱"走油"）
   file: recipes/cooking/vegetable_dish/乾隆白菜/乾隆白菜.md
   source: howtocook
 - title: 凉拌木耳
@@ -10412,6 +11632,10 @@ recipes:
   - 干木耳
   - 蒜瓣
   - 白糖
+  steps:
+  - 泡发干木耳, 水量约为 400ml, 泡发约 45 分钟。 （湿木耳跳过此步骤）
+  - 将泡发好的木耳, 进行去根处理（如图 4, 5, 6）, 并彻底洗净。
+  - 起锅烧水，水开后放入木耳, 大火煮 1.5-2 分钟。
   file: recipes/cooking/vegetable_dish/凉拌木耳/凉拌木耳.md
   source: howtocook
 - title: 凉拌油麦菜
@@ -10433,6 +11657,10 @@ recipes:
   - 油麦菜
   - 芝麻酱
   - 酱油
+  steps:
+  - 蒜拍碎切末
+  - 醋，酱油，芝麻酱，香油，糖，蚝油，蒜末放到碗里搅拌均匀
+  - 油麦菜切段，每段不超过 4cm
   file: recipes/cooking/vegetable_dish/凉拌油麦菜.md
   source: howtocook
 - title: 凉拌莴笋
@@ -10451,6 +11679,10 @@ recipes:
   - 莴笋
   - 萝卜
   - 小米辣
+  steps:
+  - 莴笋削皮，切小条。萝卜切条，一起放入大碗，加入盐搅拌，放置 10 分钟
+  - 放置后的莴笋用水清洗 1-2 遍
+  - 起锅烧水，放入莴笋，水煮 1 分钟 捞出，沥干水分，放入大碗
   file: recipes/cooking/vegetable_dish/凉拌莴笋/凉拌莴笋.md
   source: howtocook
 - title: 凉拌豆腐
@@ -10471,6 +11703,10 @@ recipes:
   - 豆腐
   - 小葱
   - 大蒜
+  steps:
+  - 将 豆腐 切成 2 cm 见方的小块，备用。
+  - 锅中加入 500 ml 饮用水，大火烧开。
+  - 放入 豆腐 块，煮 **1-2 分钟**，以去除豆腥味并使豆腐口感更紧实。
   file: recipes/cooking/vegetable_dish/凉拌豆腐.md
   source: howtocook
 - title: 凉拌金针菇
@@ -10491,6 +11727,10 @@ recipes:
   - 金针菇
   - 小葱
   - 大蒜
+  steps:
+  - 将 金针菇 根部切除，用清水冲洗干净，备用。
+  - 将 小葱 洗净，切成葱花，备用。
+  - 将 大蒜 去皮，切成蒜末，备用。
   file: recipes/cooking/vegetable_dish/凉拌金针菇.md
   source: howtocook
 - title: 凉拌黄瓜
@@ -10507,6 +11747,10 @@ recipes:
   - 黄瓜
   - 醋
   - 酱油
+  steps:
+  - 用菜刀将黄瓜拍扁，再剁成长 3 厘米的碎块
+  - 将碎黄瓜装入碗中
+  - 将蒜拍碎切成碎末
   file: recipes/cooking/vegetable_dish/凉拌黄瓜.md
   source: howtocook
 - title: 包菜炒鸡蛋粉丝
@@ -10525,6 +11769,10 @@ recipes:
   - 包菜
   - 鸡蛋
   - 粉丝
+  steps:
+  - 胡萝卜、包菜切丝备用
+  - 粉丝先用冷水浸泡 1 小时，然后将粉丝放入锅中，加入开水烧至粉丝烫软捞出备用
+  - 鸡蛋打入碗中，加入盐后搅拌 15 秒
   file: recipes/cooking/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md
   source: howtocook
 - title: 印度土豆花菜
@@ -10552,6 +11800,10 @@ recipes:
   - 土豆
   - 花菜
   - 洋葱
+  steps:
+  - 将土豆去皮切成约 2cm 的块状
+  - 将花菜掰成均匀的小朵，大朵可用刀切小
+  - 在炒锅中倒入 30ml 食用油，中火加热
   file: recipes/cooking/vegetable_dish/印度土豆花菜.md
   source: howtocook
 - title: 印度葫芦丸子
@@ -10579,6 +11831,10 @@ recipes:
   - 瓠瓜
   - 鹰嘴豆粉
   - 洋葱
+  steps:
+  - 将瓠瓜去皮，用刨丝器刨成细丝
+  - 用手将瓠瓜丝中的水分挤干，*尽量挤干*，否则丸子炸不成型
+  - 在挤干水分的瓠瓜丝中加入鹰嘴豆粉 80g、盐 3g、红辣椒粉 3g、香菜粉 3g
   file: recipes/cooking/vegetable_dish/印度葫芦丸子.md
   source: howtocook
 - title: 地三鲜
@@ -10600,6 +11856,10 @@ recipes:
   - 茄子
   - 土豆
   - 尖椒
+  steps:
+  - 土豆、茄子、尖椒洗净。
+  - 土豆去皮。
+  - 茄子、土豆均切成 15g 的不规则的小块。
   file: recipes/cooking/vegetable_dish/地三鲜/地三鲜.md
   source: howtocook
 - title: 家常日本豆腐
@@ -10627,6 +11887,10 @@ recipes:
   - 日本豆腐
   - 青椒
   - 胡萝卜
+  steps:
+  - 胡萝卜切片，尖椒切薄块，葱蒜碎切好
+  - 把买好的日本豆腐打开袋子切好，切成大概 1 cm 厚的圆柱体
+  - 生粉放到平盘中，准备给豆腐裹面
   file: recipes/cooking/vegetable_dish/家常日本豆腐.md
   source: howtocook
 - title: 小炒藕丁
@@ -10645,6 +11909,10 @@ recipes:
   - 大葱
   - 小米辣
   - 莲藕
+  steps:
+  - 大葱、小米辣切小段，备用
+  - 莲藕去皮，切成不超过 3cm 的小块，放入水中备用（防止氧化发黑）
+  - 取炒锅，锅内放入 500ml 凉水，煮沸
   file: recipes/cooking/vegetable_dish/小炒藕丁/小炒藕丁.md
   source: howtocook
 - title: 干锅花菜
@@ -10664,6 +11932,10 @@ recipes:
   - 花菜
   - 五花肉
   - 辣椒
+  steps:
+  - 花菜朵朝下，没入淡盐水中浸泡 20 分钟。然后洗净用小刀拆成小朵
+  - 入开水锅中焯水 1 分钟，捞出立即用冷水冲淋至完全凉透，沥水备用
+  - 五花肉切成薄片，大蒜白色切下用刀背拍扁，小红辣椒切成段
   file: recipes/cooking/vegetable_dish/干锅花菜/干锅花菜.md
   source: howtocook
 - title: 手撕包菜
@@ -10687,6 +11959,10 @@ recipes:
   - 包菜
   - 五花肉
   - 小米辣
+  steps:
+  - 包菜对半切开，去掉中间白色部分【参见图一】
+  - 手撕包菜，碗中放入 2 g 盐，清洗包菜并沥干备用【参见图二】
+  - 姜片、蒜头、小米辣、蒜苗处理后备用【参见图三】
   file: recipes/cooking/vegetable_dish/手撕包菜/手撕包菜.md
   source: howtocook
 - title: 拔丝土豆
@@ -10704,6 +11980,10 @@ recipes:
   - 土豆
   - 食用油
   - 淀粉
+  steps:
+  - 土豆去皮，切均匀的小块。放入淀粉（不加水）搅拌，使得淀粉覆盖土豆表面
+  - 起锅烧油，放入土豆块，缓缓翻滚煎炸 5-7 分钟 ，直至筷子可以插进土豆
+  - 取出土豆，放入大碗备用
   file: recipes/cooking/vegetable_dish/拔丝土豆/拔丝土豆.md
   source: howtocook
 - title: 松仁玉米
@@ -10724,6 +12004,10 @@ recipes:
   - 玉米粒
   - 熟松子仁
   - 胡萝卜
+  steps:
+  - 玉米粒和胡萝卜丁提前焯水 1 分钟，捞出沥干备用
+  - 热锅凉油，放入胡萝卜丁略炒，再加入玉米粒翻炒
+  - 加入白砂糖和盐，炒匀
   file: recipes/cooking/vegetable_dish/松仁玉米.md
   source: howtocook
 - title: 椒盐玉米
@@ -10742,6 +12026,10 @@ recipes:
   - 玉米粒
   - 椒盐
   - 芝麻粒
+  steps:
+  - 玉米粒都是剥好的，直接解冻即可，温水泡 15 分钟或者灶上开水煮 5 分钟。
+  - 拿出一个簸箕，将其假设为 BoxA，垫上吸油纸，倒进解冻好的玉米粒。
+  - shaking shaking shaking! - 直到吸油纸全部变湿为止。
   file: recipes/cooking/vegetable_dish/椒盐玉米/椒盐玉米.md
   source: howtocook
 - title: 榄菜肉末四季豆
@@ -10758,6 +12046,10 @@ recipes:
   - 四季豆
   - 五花肉
   - 橄榄菜
+  steps:
+  - 将四季豆洗净，并把筋撕干净，然后切成大小均匀的颗粒备用。
+  - 将大蒜拍碎剁成蒜末备用。
+  - 将小米辣切成大小均匀的颗粒备用。
   file: recipes/cooking/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md
   source: howtocook
 - title: 水油焖蔬菜
@@ -10774,6 +12066,10 @@ recipes:
   - 食用油
   - 盐
   - 蚝油
+  steps:
+  - 洗净蔬菜
+  - 锅中加入 150ml 水，并烧开。（水不需要能完全没过蔬菜）
+  - 加入 3g 盐
   file: recipes/cooking/vegetable_dish/水油焖蔬菜.md
   source: howtocook
 - title: 油醋爆蛋
@@ -10795,6 +12091,10 @@ recipes:
   - 鸡蛋
   - 小米辣
   - 小葱
+  steps:
+  - 鸡蛋不需打散，直接打入碗中备用
+  - 香葱切 3cm 长小段即可
+  - 蒜瓣和小米辣放入打蒜器，打成沫
   file: recipes/cooking/vegetable_dish/油醋爆蛋.md
   source: howtocook
 - title: 洋葱炒鸡蛋
@@ -10812,6 +12112,10 @@ recipes:
   - 鸡蛋
   - 洋葱
   - 食用油
+  steps:
+  - 鸡蛋打入大碗中，加入洋葱片、盐后搅拌 60 S
+  - 起锅烧油，倒入鸡蛋，一面煎炸 30-45 S ，翻面继续翻炒，反复 2-3 分钟 后散上料酒出锅
+  - 鸡蛋装盘，散上葱花
   file: recipes/cooking/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md
   source: howtocook
 - title: 清炒花菜
@@ -10827,6 +12131,10 @@ recipes:
   - 花菜
   - 大蒜
   - 盐
+  steps:
+  - 将 花菜 洗净，用刀或手掰成小朵，粗茎部分可以切片，备用。
+  - 将 大蒜 去皮，切成蒜片，备用。
+  - 锅中加入 1000 ml 饮用水，大火烧开。
   file: recipes/cooking/vegetable_dish/清炒花菜.md
   source: howtocook
 - title: 清蒸南瓜
@@ -10838,6 +12146,10 @@ recipes:
   tags:
   - 素菜
   - 南瓜
+  steps:
+  - 将 南瓜 外皮洗净，去除瓜瓤和籽。
+  - 将 南瓜 切成厚度大约 2 cm 的片，备用。
+  - 在 蒸锅 的锅中加入 1000 ml 饮用水。
   file: recipes/cooking/vegetable_dish/清蒸南瓜.md
   source: howtocook
 - title: 炒滑蛋
@@ -10850,6 +12162,10 @@ recipes:
   tags:
   - 鸡蛋
   - 牛奶
+  steps:
+  - 鸡蛋加入牛奶以及 5ml 食用油搅拌均匀，备用
+  - 大火烧热平底锅约 30s, 加入 5ml 食用油
+  - 烧 30s 转小火, 并且放入搅拌好的鸡蛋
   file: recipes/cooking/vegetable_dish/炒滑蛋/炒滑蛋.md
   source: howtocook
 - title: 炒茄子
@@ -10871,6 +12187,10 @@ recipes:
   - 茄子
   - 八角
   - 虾皮
+  steps:
+  - 将茄子洗净，一刀分为两段（竖切）。每段的茄子切菱形块，将切好的茄子放入碗中待命。
+  - 将香葱洗净，并切成葱花放到案板上待命。
+  - 切好八角，放到案板上待命。
   file: recipes/cooking/vegetable_dish/炒茄子.md
   source: howtocook
 - title: 炒青菜
@@ -10882,6 +12202,10 @@ recipes:
   tags:
   - 素菜
   - 青菜
+  steps:
+  - 青菜掰成小瓣，用清水洗净，备用。
+  - 将蒜瓣剁碎，备用
+  - 中火或大火热锅后，锅内放入 10-15ml 食用油。再等待 30 秒让油温升高。
   file: recipes/cooking/vegetable_dish/炒青菜.md
   source: howtocook
 - title: 烤茄子
@@ -10900,6 +12224,10 @@ recipes:
   - 茄子
   - 食用油
   - 酱油
+  steps:
+  - 将酱油、孜然、食用盐、蒜蓉和切碎的小米椒置于碗中，均匀搅拌备用
+  - 茄子洗净，用纸巾擦干表面的水分
+  - 用叉子在茄子的一侧扎 4-8 下
   file: recipes/cooking/vegetable_dish/烤茄子/烤茄子.md
   source: howtocook
 - title: 白灼菜心
@@ -10915,6 +12243,10 @@ recipes:
   - 新鲜菜心
   - 生抽、蚝油、盐
   - 大蒜、小米辣
+  steps:
+  - 菜心洗净，**去除根部比较硬或老的地方**。此处还用刀刮了**刮菜心根茎部分**，刮掉外面那层比较硬的，菜心内部更可口，但要注意根茎白灼时长，时间太长的话根茎不脆了
+  - 大蒜切成蒜末，有洋葱顺便加了点洋葱
+  - 调制灵魂料汁：生抽 5g 吧、蚝油 5g，加 3g 糖和 100g 清水半碗成一碗汁儿
   file: recipes/cooking/vegetable_dish/白灼菜心/白灼菜心.md
   source: howtocook
 - title: 皮蛋豆腐
@@ -10937,6 +12269,10 @@ recipes:
   - 皮蛋
   - 内酯豆腐
   - 生抽
+  steps:
+  - 先把皮蛋剥壳，切成四瓣。
+  - 嫩豆腐切块或者切片放中间。
+  - 将生抽、白砂糖、醋、香油、辣椒油调成酱汁，淋上去。
   file: recipes/cooking/vegetable_dish/皮蛋豆腐.md
   source: howtocook
 - title: 糖拌西红柿
@@ -10949,6 +12285,10 @@ recipes:
   tags:
   - 西红柿
   - 白砂糖
+  steps:
+  - 用刀将西红柿皮米字型划开
+  - 用筷子插入西红柿的菊花，在燃气上转动烤 10 秒（或用开水冲 30 秒），直到西红柿皮卷边
+  - 把西红柿的衣服脱光
   file: recipes/cooking/vegetable_dish/糖拌西红柿/糖拌西红柿.md
   source: howtocook
 - title: 素炒豆角
@@ -10969,6 +12309,10 @@ recipes:
   - 豆角
   - 小米椒
   - 葱
+  steps:
+  - 葱切花，蒜切沫，备用。
+  - 生抽、老抽、耗油、盐混合调料汁，备用。
+  - 小米椒切圈，备用。
   file: recipes/cooking/vegetable_dish/素炒豆角.md
   source: howtocook
 - title: 红烧冬瓜
@@ -10990,6 +12334,10 @@ recipes:
   - 冬瓜
   - 食用油
   - 料酒
+  steps:
+  - 冬瓜去皮，切 边长不超过 2cm 小块
+  - 起锅烧油，放入冬瓜，缓缓翻滚煎炸 2 分钟 ，直至冬瓜表面泛金黄色
+  - 取出冬瓜，放入大碗备用
   file: recipes/cooking/vegetable_dish/红烧冬瓜/红烧冬瓜.md
   source: howtocook
 - title: 红烧茄子
@@ -11013,6 +12361,10 @@ recipes:
   - 大蒜
   - 大葱
   - 青辣椒
+  steps:
+  - 青茄子、青辣椒、西红柿、洋葱、大葱洗净。
+  - 大葱切 5 毫米宽的葱花，大蒜扒皮并拍碎，西红柿切 6 立方厘米的块，青辣椒、洋葱切 5g 的块。
+  - 茄子切菱形块（先切 2 公分厚的片，然后再把片切成 2 公分的条，最后斜刀切块儿...）。
   file: recipes/cooking/vegetable_dish/红烧茄子.md
   source: howtocook
 - title: 脆皮豆腐
@@ -11032,6 +12384,10 @@ recipes:
   - 老豆腐
   - 鸡蛋
   - 生抽
+  steps:
+  - 鸡蛋搅拌形成蛋液放置备用
+  - 配置酱料 （20 g 生抽+10 g 蚝油+5 g 老抽+10 g 白糖+10 g 玉米淀粉+200 ml 清水）
+  - 老豆腐切片 （个人建议，仅供参考  人 * 5 片，厚度 1.2 cm）
   file: recipes/cooking/vegetable_dish/脆皮豆腐.md
   source: howtocook
 - title: 芹菜拌茶树菇
@@ -11049,6 +12405,10 @@ recipes:
   - 闽星茶树菇
   - 芹菜
   - 香油
+  steps:
+  - （如果是芹菜苗这一步略过）用热水壶烧一壶热水,备用
+  - 新鲜的芹菜苗或者芹菜摘去黄叶清洗,备用
+  - （如果是芹菜苗这一步略过）将芹菜摘去叶子单独放一个盆中,将芹菜茎用刀划成 2-3 毫米宽的芹菜条备用,这一步的目的是让芹菜断生的更快更均匀,吃起来更脆更爽口
   file: recipes/cooking/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md
   source: howtocook
 - title: 茄子炖土豆
@@ -11068,6 +12428,10 @@ recipes:
   - 茄子
   - 土豆
   - 肉
+  steps:
+  - 将茄子、土豆、辣椒洗净，蒜扒皮并拍碎。
+  - 将茄子、土豆切成约 6 立方厘米的块，辣椒切成 5 克的小块，肉切成 3 厘米的丝。
+  - 开火，热锅，加入份数 * 13 毫升的油。
   file: recipes/cooking/vegetable_dish/茄子炖土豆.md
   source: howtocook
 - title: 莴笋叶煎饼
@@ -11085,6 +12449,10 @@ recipes:
   - 莴笋叶
   - 鸡蛋
   - 食用油
+  steps:
+  - 莴笋叶剁碎，加入鸡蛋、生粉、生抽、鸡精搅拌均匀备用
+  - 起锅烧油，倒入莴笋叶浆汁，均匀平铺在锅面上
+  - 第一面炸 120 S 后，翻面再炸 60 S 后出锅
   file: recipes/cooking/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md
   source: howtocook
 - title: 菠菜炒鸡蛋
@@ -11100,6 +12468,10 @@ recipes:
   - 菠菜
   - 鸡蛋
   - 食用油
+  steps:
+  - 菠菜去根，洗净，放在篮子里，焯水
+  - 将鸡蛋打入碗中，搅匀
+  - 热锅，加入 10ml 油
   file: recipes/cooking/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md
   source: howtocook
 - title: 葱煎豆腐
@@ -11117,6 +12489,10 @@ recipes:
   - 白豆腐
   - 葱
   - 青辣椒
+  steps:
+  - 豆腐洗净。切约 5 mm 厚度，置于碟中。
+  - 葱洗净，除去根部，切成葱花，备用。
+  - 辣椒洗净，切开，去籽，切成 1cm * 1cm 状，备用、
   file: recipes/cooking/vegetable_dish/葱煎豆腐.md
   source: howtocook
 - title: 蒜蓉空心菜
@@ -11133,6 +12509,10 @@ recipes:
   - 空心菜
   - 蒜末
   - 盐
+  steps:
+  - 空心菜洗净，去掉烂叶或者老梗，均匀切成 2 段或者 3 段（防止过长不好炒）
+  - 锅里先倒少量油，烧至微微冒烟，此时拿起锅将国内的热油向四周浸润，让油均匀覆盖锅底，然后再倒入剩余的油([热锅凉油法](https://cook.aiursoft.com/tips/learn/%E5%AD%A6%E4%B9%A0%E7%82%92%E4%B8%8E%E7%85%8E/?h=%E7%83%AD%E9%94%85#_5))。
+  - 放入蒜末，小火炒 10 到 15 秒煸香
   file: recipes/cooking/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md
   source: howtocook
 - title: 蒜蓉西兰花
@@ -11150,6 +12530,10 @@ recipes:
   - 西兰花
   - 大蒜
   - 生抽
+  steps:
+  - 将 西兰花 切成小朵，清洗干净。
+  - 将 大蒜 去皮，切成蒜末，备用。
+  - 锅中加入 1000 ml 饮用水，大火烧开。
   file: recipes/cooking/vegetable_dish/蒜蓉西兰花.md
   source: howtocook
 - title: 蒲烧茄子
@@ -11170,6 +12554,10 @@ recipes:
   - 茄子
   - 蒲烧汁
   - 蜂蜜
+  steps:
+  - 茄子削皮、横着切成两段
+  - 蒸 5  分钟
+  - 纵向切开，不要切断，在两边切面各划 2~3 刀至可以摊平
   file: recipes/cooking/vegetable_dish/蒲烧茄子.md
   source: howtocook
 - title: 虎皮青椒
@@ -11187,6 +12575,10 @@ recipes:
   - 青椒
   - 大蒜
   - 白糖
+  steps:
+  - 去掉青椒蒂，用自来水冲洗干净。
+  - 青椒切长片，平均一个青椒纵向切成 3-4 片即可。
+  - 大蒜去皮，切成碎末，体积在 2mm x 2mm x 2mm 即可。
   file: recipes/cooking/vegetable_dish/虎皮青椒/虎皮青椒.md
   source: howtocook
 - title: 蚝油三鲜菇
@@ -11213,6 +12605,10 @@ recipes:
   - 香菇
   - 蟹味菇
   - 白玉菇
+  steps:
+  - 蟹味菇、白玉菇 去掉根部泥土，掰散菌朵
+  - 香菇切片（每片厚度 0.5-1 cm，厚点相对薄点更有嚼劲）
+  - 生粉倒入小碗中，加入 50ml 水，搅拌生粉直至融化没有颗粒（即水淀粉）备用
   file: recipes/cooking/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md
   source: howtocook
 - title: 蚝油生菜
@@ -11232,6 +12628,10 @@ recipes:
   - 生菜
   - 蚝油
   - 大蒜
+  steps:
+  - 生菜洗净并去掉烂菜叶。
+  - 热锅，先放 1 L 清水（凉），然后在锅内放入 2 ml - 3 ml 食用油和 0.5 g 盐，等待锅中的水煮沸。
+  - 水沸后，放入生菜，将**每一片**生菜叶都焯水 10 s。
   file: recipes/cooking/vegetable_dish/蚝油生菜.md
   source: howtocook
 - title: 西红柿炒鸡蛋
@@ -11250,6 +12650,10 @@ recipes:
   - 西红柿
   - 鸡蛋
   - 食用油
+  steps:
+  - 西红柿洗净
+  - 可选：去掉西红柿的外表皮
+  - 西红柿去蒂，切成边长不超过 4cm 的小块，即为 `西红柿块`
   file: recipes/cooking/vegetable_dish/西红柿炒鸡蛋.md
   source: howtocook
 - title: 西红柿豆腐汤羹
@@ -11271,6 +12675,10 @@ recipes:
   - 西红柿
   - 鸡蛋
   - 豆腐
+  steps:
+  - 西红柿切成小丁、鸡蛋打入碗中搅拌、豆腐切块备用
+  - 起锅烧油，放入姜片 5 S 后倒入入西红柿翻炒 30 S
+  - 锅中加入开水，汤水烧开，60 S 后到入鸡蛋液、豆腐块
   file: recipes/cooking/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md
   source: howtocook
 - title: 西葫芦炒鸡蛋
@@ -11287,6 +12695,10 @@ recipes:
   - 西葫芦
   - 鸡蛋
   - 西红柿
+  steps:
+  - 西红柿洗净，切成小块，备用
+  - 西葫芦洗净，切成边长约为 4cm 的菱形，备用
+  - 打三个鸡蛋到碗里，打散搅匀，备用
   file: recipes/cooking/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md
   source: howtocook
 - title: 话梅煮毛豆
@@ -11301,6 +12713,10 @@ recipes:
   - 毛豆
   - 话梅
   - 食用盐
+  steps:
+  - 清水加入食用盐，毛豆浸泡 15 分钟
+  - 加入开水，倒入毛豆、话梅，水煮 20-30 分钟
+  - 起锅开吃
   file: recipes/cooking/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md
   source: howtocook
 - title: 酸辣土豆丝
@@ -11322,6 +12738,10 @@ recipes:
   - 土豆
   - 大蒜
   - 青椒
+  steps:
+  - 土豆去皮、切丝（或用刨丝器）。
+  - 切好的土豆丝用清水清洗，去除多余的淀粉，然后对土豆丝焯水 10 秒。沥干，备用。
+  - 葱切成葱花；大蒜拍碎切成蒜末（分为两等份备用）；干辣椒切小段；青红椒切丝。
   file: recipes/cooking/vegetable_dish/酸辣土豆丝.md
   source: howtocook
 - title: 金针菇日本豆腐煲
@@ -11342,6 +12762,10 @@ recipes:
   - 金针菇
   - 日本豆腐
   - 小米椒
+  steps:
+  - 豆腐切片，小火煎到两面金黄出锅备用。
+  - 切蒜成蒜末；将生抽，蚝油，老抽，糖，100ml 水调汁备用。
+  - 热锅放油，油热放小米椒、蒜末爆香，先放金针菇，炒软，把煎好的豆腐平铺在金针菇上，倒入#2 配好的料汁，焖 5 分钟，大火收汁。
   file: recipes/cooking/vegetable_dish/金针菇日本豆腐煲.md
   source: howtocook
 - title: 金钱蛋
@@ -11365,6 +12789,10 @@ recipes:
   - 鸡蛋
   - 线椒
   - 小米辣
+  steps:
+  - 鸡蛋冷水下锅，大火煮开转小火煮 8 分钟
+  - 用自来水冲凉，方便剥皮
+  - 蒜切沫（粒径不大于 1 mm），线椒和小米辣切小粒（约 2-3 mm）
   file: recipes/cooking/vegetable_dish/金钱蛋.md
   source: howtocook
 - title: 陕北熬豆角
@@ -11388,6 +12816,10 @@ recipes:
   - 豆角
   - 土豆
   - 西红柿
+  steps:
+  - 葱切花，蒜切沫，姜切丝，备用。
+  - 豆角去筋，切*2-10cm*小段，备用。
+  - 土豆去皮，切*1cm³*小块，备用。
   file: recipes/cooking/vegetable_dish/陕北熬豆角.md
   source: howtocook
 - title: 雷椒皮蛋
@@ -11411,6 +12843,10 @@ recipes:
   - 皮蛋
   - 长条青椒
   - 葱
+  steps:
+  - 青椒清洗，去除根部，侧面切开，去除内部的子后在案板压平，备用（一定要去除青椒子，否则会在锅里炸开）
+  - 葱切成半厘米小段，备用
+  - 蒜去皮，切成碎末，备用
   file: recipes/cooking/vegetable_dish/雷椒皮蛋.md
   source: howtocook
 - title: 鸡蛋火腿炒黄瓜
@@ -11429,6 +12865,10 @@ recipes:
   - 黄瓜
   - 鸡蛋
   - 火腿肠
+  steps:
+  - 黄瓜洗净，切半圆形片，备用
+  - 火腿切半圆形片，备用
+  - 红尖椒（可选）切碎，备用
   file: recipes/cooking/vegetable_dish/鸡蛋火腿炒黄瓜.md
   source: howtocook
 - title: 微波炉鸡蛋羹
@@ -11441,6 +12881,10 @@ recipes:
   tags:
   - 鸡蛋
   - 水
+  steps:
+  - 将鸡蛋打入可使用微波炉加热的陶瓷碗中，使用筷子将其打散。
+  - 加入水和盐，搅拌均匀。
+  - 将虾皮放入碗中，搅拌均匀，保证所有虾皮不会堆积在一起。
   file: recipes/cooking/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md
   source: howtocook
 - title: 蒸箱鸡蛋羹
@@ -11457,6 +12901,10 @@ recipes:
   - 鸡蛋
   - 食用盐
   - 食用油
+  steps:
+  - 一个鸡蛋放入碗中打散
+  - 向碗中加入鸡蛋体积 1.0-1.5 倍 60 度纯净水，并且搅拌均匀
+  - 加入食用盐 1g
   file: recipes/cooking/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md
   source: howtocook
 - title: 鸡蛋羹
@@ -11474,6 +12922,10 @@ recipes:
   - 鸡蛋
   - 食用盐
   - 香油
+  steps:
+  - 两个鸡蛋放入碗中打散
+  - 加入食用盐 3g
+  - 加入 2ml 白醋，去除鸡蛋的腥味（可选）
   file: recipes/cooking/vegetable_dish/鸡蛋羹/鸡蛋羹.md
   source: howtocook
 - title: 鸡蛋花
@@ -11489,6 +12941,10 @@ recipes:
   - 鸡蛋
   - 白糖
   - 食盐
+  steps:
+  - 将鸡蛋打入碗中。
+  - 使用筷子或搅拌器，顺着一个方向搅打蛋液，直至蛋清与蛋黄完全混合均匀，颜色一致。（此过程约需 1 - 2 分钟）
+  - 将糖或盐等调味料加入蛋液中，略微搅匀。
   file: recipes/cooking/vegetable_dish/鸡蛋花/鸡蛋花.md
   source: howtocook
 - title: 晨间焕醒：早餐西瓜汁
@@ -11503,6 +12959,10 @@ recipes:
   - 消暑
   - 利尿
   - 晨间
+  steps:
+  - 西瓜切块，去籽
+  - 放入榨汁机中榨汁
+  - 将冰块放入西瓜汁中
   file: recipes/juice/fruit_juice/晨间早餐西瓜汁.md
   source: juice-book
 - title: 百香果橙汁
@@ -11519,6 +12979,10 @@ recipes:
   - 橙子
   - 维C
   - 美白
+  steps:
+  - 百香果切开，挖出果肉和籽
+  - 橙子去皮切块
+  - 全部放入榨汁机，加入凉开水
   file: recipes/juice/fruit_juice/百香果橙汁.md
   source: juice-book
 - title: 草莓汁
@@ -11532,6 +12996,10 @@ recipes:
   - 草莓
   - 饮品
   - 美容
+  steps:
+  - 草莓洗净，去蒂
+  - 将草莓和凉开水放入榨汁机
+  - 打至顺滑
   file: recipes/juice/fruit_juice/草莓汁.md
   source: juice-book
 - title: 葡萄汁
@@ -11545,6 +13013,10 @@ recipes:
   - 葡萄
   - 花青素
   - 抗氧
+  steps:
+  - 葡萄洗净（保留果皮）
+  - 放入榨汁机，加入凉开水
+  - 打至顺滑
   file: recipes/juice/fruit_juice/葡萄汁.md
   source: juice-book
 - title: 蜜桃汁
@@ -11558,6 +13030,10 @@ recipes:
   - 桃子
   - 消暑
   - 美容
+  steps:
+  - 桃子洗净，去核切块
+  - 皮可以保留（富含纤维）或削掉（口感更顺滑）
+  - 放入榨汁机，加入凉开水
   file: recipes/juice/fruit_juice/蜜桃汁.md
   source: juice-book
 - title: 雪梨汁
@@ -11571,6 +13047,10 @@ recipes:
   - 梨
   - 润肺
   - 饮品
+  steps:
+  - 雪梨洗净去核，切成小块
+  - 放入榨汁机
+  - 加入凉开水
   file: recipes/juice/fruit_juice/雪梨汁.md
   source: juice-book
 - title: 鲜榨橙汁
@@ -11584,6 +13064,10 @@ recipes:
   - 饮品
   - 维C
   - 美白
+  steps:
+  - 橙子对半切开
+  - 用榨汁机或手动榨汁器榨出果汁
+  - 倒入杯中即可饮用
   file: recipes/juice/fruit_juice/鲜榨橙汁.md
   source: juice-book
 - title: 鲜榨芒果汁
@@ -11597,6 +13081,10 @@ recipes:
   - 芒果
   - 饮品
   - 维A
+  steps:
+  - 芒果去皮去核，切成小块
+  - 将芒果块和凉开水放入榨汁机
+  - 打至顺滑
   file: recipes/juice/fruit_juice/鲜榨芒果汁.md
   source: juice-book
 - title: 鲜榨苹果汁
@@ -11610,6 +13098,10 @@ recipes:
   - 苹果
   - 饮品
   - 维C
+  steps:
+  - 苹果洗净，去核，切成小块（不用削皮，果皮营养丰富）
+  - 将苹果块放入榨汁机
+  - 加入凉开水
   file: recipes/juice/fruit_juice/鲜榨苹果汁.md
   source: juice-book
 - title: 鲜榨西瓜汁
@@ -11622,6 +13114,10 @@ recipes:
   - 西瓜
   - 消暑
   - 饮品
+  steps:
+  - 西瓜切块，去除瓜籽
+  - 放入榨汁机打至顺滑
+  - 倒入杯中
   file: recipes/juice/fruit_juice/鲜榨西瓜汁.md
   source: juice-book
 - title: 保湿水果姜汁
@@ -11639,6 +13135,10 @@ recipes:
   - 姜
   - 保湿
   - 减肥
+  steps:
+  - 胡萝卜洗净切段
+  - 黄瓜切段
+  - 菠菜洗净
   file: recipes/juice/mixed_juice/保湿水果姜汁.md
   source: juice-book
 - title: 南瓜奶昔
@@ -11653,6 +13153,10 @@ recipes:
   - 牛奶
   - 暖胃
   - 营养
+  steps:
+  - 南瓜去皮去籽，切成小块
+  - 上锅蒸15分钟至软烂
+  - 取出放凉至温热
   file: recipes/juice/mixed_juice/南瓜奶昔.md
   source: juice-book
 - title: 幸福甜感奶油草莓奶昔
@@ -11667,6 +13171,10 @@ recipes:
   - 牛奶
   - 美容
   - 幸福
+  steps:
+  - 草莓洗净去蒂
+  - 将草莓和牛奶放入搅拌机
+  - 搅拌至顺滑
   file: recipes/juice/mixed_juice/奶油草莓奶昔.md
   source: juice-book
 - title: 巧克力色日常排毒汁
@@ -11685,6 +13193,10 @@ recipes:
   - 甜菜
   - 羽衣甘蓝
   - 排毒
+  steps:
+  - 胡萝卜洗净切段
+  - 柠檬去皮
+  - 甜菜去皮切块
   file: recipes/juice/mixed_juice/巧克力色排毒汁.md
   source: juice-book
 - title: 排毒梨姜汁
@@ -11702,6 +13214,10 @@ recipes:
   - 柠檬
   - 排毒
   - 晨间
+  steps:
+  - 梨洗净去核，切块
+  - 生姜去皮切片
+  - 柠檬去皮
   file: recipes/juice/mixed_juice/排毒梨姜汁.md
   source: juice-book
 - title: 柔和桃子姜汁
@@ -11719,6 +13235,10 @@ recipes:
   - 姜
   - 菠菜
   - 美容
+  steps:
+  - 胡萝卜洗净切段
+  - 桃子去核切块
+  - 姜去皮切片
   file: recipes/juice/mixed_juice/柔和桃子姜汁.md
   source: juice-book
 - title: 树莓水芹变奏曲
@@ -11738,6 +13258,10 @@ recipes:
   - 甜菜
   - 羽衣甘蓝
   - 减脂
+  steps:
+  - 树莓洗净
+  - 西柚去皮切块
+  - 菠菜洗净
   file: recipes/juice/mixed_juice/树莓水芹变奏曲.md
   source: juice-book
 - title: 桃子女孩奶昔（我的桃子女孩）
@@ -11752,6 +13276,10 @@ recipes:
   - 牛奶
   - 美容
   - 香甜
+  steps:
+  - 桃子洗净去核切块
+  - 将桃子和牛奶放入搅拌机
+  - 搅拌至顺滑
   file: recipes/juice/mixed_juice/桃子女孩奶昔.md
   source: juice-book
 - title: 水润清凉的蔬果森林
@@ -11771,6 +13299,10 @@ recipes:
   - 甜瓜
   - 羽衣甘蓝
   - 补水
+  steps:
+  - 胡萝卜洗净切段
+  - 黄瓜切段
+  - 小白菜洗净
   file: recipes/juice/mixed_juice/水润蔬果森林.md
   source: juice-book
 - title: 超级浆果抗氧化奶昔
@@ -11787,6 +13319,10 @@ recipes:
   - 草莓
   - 树莓
   - 抗氧化
+  steps:
+  - 所有浆果洗净
+  - 将浆果和牛奶放入搅拌机
+  - 搅拌至顺滑
   file: recipes/juice/mixed_juice/浆果抗氧化奶昔.md
   source: juice-book
 - title: 浓郁香蕉可可奶昔（巴娜娜可可）
@@ -11801,6 +13337,10 @@ recipes:
   - 可可粉
   - 牛奶
   - 能量
+  steps:
+  - 香蕉去皮切段
+  - 将香蕉、可可粉和牛奶放入搅拌机
+  - 搅拌至顺滑
   file: recipes/juice/mixed_juice/浓郁香蕉可可奶昔.md
   source: juice-book
 - title: 深绿色柠檬水
@@ -11818,6 +13358,10 @@ recipes:
   - 苹果
   - 羽衣甘蓝
   - 清爽
+  steps:
+  - 柠檬去皮
+  - 芹菜洗净切段
+  - 苹果去核切块
   file: recipes/juice/mixed_juice/深绿色柠檬水.md
   source: juice-book
 - title: 热带假日奶昔
@@ -11833,6 +13377,10 @@ recipes:
   - 菠萝
   - 椰子
   - 热带
+  steps:
+  - 芒果去皮去核切块
+  - 菠萝去皮切块
+  - 将芒果、菠萝和椰奶放入搅拌机
   file: recipes/juice/mixed_juice/热带假日奶昔.md
   source: juice-book
 - title: 牛油果杏仁奶昔（我要你爱我）
@@ -11848,6 +13396,10 @@ recipes:
   - 杏仁奶
   - 护眼
   - 健脑
+  steps:
+  - 牛油果对半切开，用刀轻压后转动去籽
+  - 挖出果肉
+  - 将牛油果、杏仁奶和冰块放入搅拌机
   file: recipes/juice/mixed_juice/牛油果杏仁奶昔.md
   source: juice-book
 - title: 猕猴桃苹果汁
@@ -11863,6 +13415,10 @@ recipes:
   - 苹果
   - 维C
   - 美白
+  steps:
+  - 猕猴桃去皮切块
+  - 苹果洗净去核切块
+  - 全部放入榨汁机，加入凉开水
   file: recipes/juice/mixed_juice/猕猴桃苹果汁.md
   source: juice-book
 - title: 番茄胡萝卜汁
@@ -11878,6 +13434,10 @@ recipes:
   - 胡萝卜
   - 番茄红素
   - 抗氧
+  steps:
+  - 番茄洗净切块
+  - 胡萝卜洗净切段
+  - 全部放入榨汁机，加入凉开水
   file: recipes/juice/mixed_juice/番茄胡萝卜汁.md
   source: juice-book
 - title: 番茄苹果黄瓜汁（轻瘦美果蔬汁）
@@ -11895,6 +13455,10 @@ recipes:
   - 黄瓜
   - 减脂
   - 轻体
+  steps:
+  - 番茄/圣女果洗净切块
+  - 苹果去核切块
+  - 黄瓜切段
   file: recipes/juice/mixed_juice/番茄苹果黄瓜汁.md
   source: juice-book
 - title: 石榴抗氧化汁（石榴的明朗格调）
@@ -11909,6 +13473,10 @@ recipes:
   - 苹果
   - 抗氧化
   - 美容
+  steps:
+  - 石榴剥开取出果籽
+  - 苹果去核切块
+  - 将食材备好后放入榨汁机中榨汁
   file: recipes/juice/mixed_juice/石榴抗氧化汁.md
   source: juice-book
 - title: 秋景有时
@@ -11924,6 +13492,10 @@ recipes:
   - 甜菜
   - 菠菜
   - 秋季
+  steps:
+  - 苹果去核切块
+  - 甜菜去皮切块
+  - 菠菜洗净
   file: recipes/juice/mixed_juice/秋景有时.md
   source: juice-book
 - title: 紫罗兰覆盆子幽香
@@ -11939,6 +13511,10 @@ recipes:
   - 黄瓜
   - 羽衣甘蓝
   - 美容
+  steps:
+  - 覆盆子洗净
+  - 黄瓜切段
+  - 羽衣甘蓝洗净
   file: recipes/juice/mixed_juice/紫罗兰覆盆子幽香.md
   source: juice-book
 - title: 紫薯牛奶
@@ -11953,6 +13529,10 @@ recipes:
   - 牛奶
   - 花青素
   - 饱腹
+  steps:
+  - 紫薯洗净去皮，切小块
+  - 上锅蒸15-20分钟至软烂
+  - 取出放凉
   file: recipes/juice/mixed_juice/紫薯牛奶.md
   source: juice-book
 - title: 综合果蔬汁
@@ -11972,6 +13552,10 @@ recipes:
   - 芹菜
   - 综合
   - 排毒
+  steps:
+  - 番茄洗净切块
+  - 胡萝卜洗净切段
+  - 苹果洗净去核切块
   file: recipes/juice/mixed_juice/综合果蔬汁.md
   source: juice-book
 - title: 羽衣甘蓝西柚汁（我不是草莓牛奶）
@@ -11987,6 +13571,10 @@ recipes:
   - 西柚
   - 净化
   - 减脂
+  steps:
+  - 羽衣甘蓝洗净沥干
+  - 柠檬去皮
+  - 将食材放入榨汁机中榨汁
   file: recipes/juice/mixed_juice/羽衣甘蓝西柚汁.md
   source: juice-book
 - title: 胡萝卜苹果汁
@@ -12002,6 +13590,10 @@ recipes:
   - 苹果
   - 护眼
   - 维A
+  steps:
+  - 胡萝卜洗净切段
+  - 苹果洗净去核切块
+  - 全部放入榨汁机，加入凉开水
   file: recipes/juice/mixed_juice/胡萝卜苹果汁.md
   source: juice-book
 - title: 能量甜麦苗菠菜汁
@@ -12020,6 +13612,10 @@ recipes:
   - 桃子
   - 葡萄
   - 能量
+  steps:
+  - 菠菜洗净，焯水30秒（可选，去除草酸）
+  - 柠檬去皮
+  - 桃子去核切块
   file: recipes/juice/mixed_juice/能量麦苗菠菜汁.md
   source: juice-book
 - title: 芒果椰子奶昔
@@ -12035,6 +13631,10 @@ recipes:
   - 椰子
   - 牛奶
   - 热带
+  steps:
+  - 芒果去皮去核切块
+  - 将芒果块、椰浆和牛奶放入榨汁机
+  - 打至顺滑后饮用
   file: recipes/juice/mixed_juice/芒果椰子奶昔.md
   source: juice-book
 - title: 芹菜苹果汁
@@ -12050,6 +13650,10 @@ recipes:
   - 苹果
   - 排毒
   - 减脂
+  steps:
+  - 芹菜洗净切段，芹菜叶保留
+  - 苹果洗净去核切块
+  - 将芹菜和苹果放入榨汁机
   file: recipes/juice/mixed_juice/芹菜苹果汁.md
   source: juice-book
 - title: 苹果胡萝卜姜汁
@@ -12067,6 +13671,10 @@ recipes:
   - 姜
   - 暖身
   - 免疫力
+  steps:
+  - 苹果洗净去核切块
+  - 胡萝卜洗净切段
+  - 姜去皮切片
   file: recipes/juice/mixed_juice/苹果胡萝卜姜汁.md
   source: juice-book
 - title: 草莓香蕉汁
@@ -12082,6 +13690,10 @@ recipes:
   - 香蕉
   - 饮品
   - 能量
+  steps:
+  - 草莓洗净去蒂
+  - 香蕉去皮切段
+  - 全部放入榨汁机
   file: recipes/juice/mixed_juice/草莓香蕉汁.md
   source: juice-book
 - title: 菠菜香蕉奶昔
@@ -12098,6 +13710,10 @@ recipes:
   - 牛奶
   - 补铁
   - 能量
+  steps:
+  - 菠菜洗净，焯水30秒，沥干
+  - 香蕉去皮切段
+  - 将菠菜、香蕉和牛奶放入榨汁机
   file: recipes/juice/mixed_juice/菠菜香蕉奶昔.md
   source: juice-book
 - title: 菠萝椰子汁
@@ -12113,6 +13729,10 @@ recipes:
   - 椰子
   - 热带
   - 消暑
+  steps:
+  - 菠萝去皮切成小块
+  - 将菠萝块、椰浆和凉开水放入榨汁机
+  - 打至顺滑后饮用
   file: recipes/juice/mixed_juice/菠萝椰子汁.md
   source: juice-book
 - title: 蓝莓香蕉汁
@@ -12128,6 +13748,10 @@ recipes:
   - 香蕉
   - 花青素
   - 护眼
+  steps:
+  - 蓝莓洗净
+  - 香蕉去皮切段
+  - 全部放入榨汁机
   file: recipes/juice/mixed_juice/蓝莓香蕉汁.md
   source: juice-book
 - title: 蔓越莓之吻
@@ -12143,6 +13767,10 @@ recipes:
   - 黄瓜
   - 羽衣甘蓝
   - 抗氧化
+  steps:
+  - 蔓越莓洗净
+  - 黄瓜切段
+  - 羽衣甘蓝洗净
   file: recipes/juice/mixed_juice/蔓越莓之吻.md
   source: juice-book
 - title: 西柚绿蔬交响
@@ -12158,6 +13786,10 @@ recipes:
   - 黄瓜
   - 菠菜
   - 减脂
+  steps:
+  - 菠菜洗净
+  - 黄瓜切段
+  - 西柚去皮切块
   file: recipes/juice/mixed_juice/西柚绿蔬交响.md
   source: juice-book
 - title: 西瓜薄荷汁
@@ -12172,6 +13804,10 @@ recipes:
   - 薄荷
   - 消暑
   - 清凉
+  steps:
+  - 西瓜去籽切块
+  - 薄荷叶洗净
+  - 全部放入榨汁机
   file: recipes/juice/mixed_juice/西瓜薄荷汁.md
   source: juice-book
 - title: 醇味绿色假期
@@ -12191,6 +13827,10 @@ recipes:
   - 芹菜
   - 羽衣甘蓝
   - 净化
+  steps:
+  - 胡萝卜洗净切段
+  - 菠菜洗净
+  - 苹果去核切块
   file: recipes/juice/mixed_juice/醇味绿色假期.md
   source: juice-book
 - title: 香瓜西柚汁（我不是草莓牛奶）
@@ -12205,6 +13845,10 @@ recipes:
   - 西柚
   - 净化
   - 清肠
+  steps:
+  - 香瓜洗净，连皮切块（去籽）
+  - 西柚去皮，切块
+  - 将食材放入榨汁机中榨汁
   file: recipes/juice/mixed_juice/香瓜西柚汁.md
   source: juice-book
 - title: 麦苗强力排毒汁
@@ -12222,6 +13866,10 @@ recipes:
   - 柠檬
   - 排毒
   - 抗衰老
+  steps:
+  - 胡萝卜洗净切段
+  - 柠檬去皮
+  - 苹果去核切块
   file: recipes/juice/mixed_juice/麦苗强力排毒汁.md
   source: juice-book
 - title: 黄瓜柠檬汁
@@ -12238,6 +13886,10 @@ recipes:
   - 柠檬
   - 美白
   - 补水
+  steps:
+  - 黄瓜洗净切段
+  - 柠檬挤汁（或去皮切块）
+  - 将黄瓜和柠檬汁放入榨汁机，加入凉开水
   file: recipes/juice/mixed_juice/黄瓜柠檬汁.md
   source: juice-book
 - title: 基本绿蔬果汁
@@ -12252,6 +13904,10 @@ recipes:
   - 绿叶菜
   - 排毒
   - 入门
+  steps:
+  - 苹果洗净去核，切块
+  - 绿叶蔬菜洗净沥干
+  - 将所有食材放入榨汁机
   file: recipes/juice/vegetable_juice/基本绿蔬果汁.md
   source: juice-book
 - title: 生菜汁
@@ -12265,6 +13921,10 @@ recipes:
   - 生菜
   - 低卡
   - 安神
+  steps:
+  - 生菜叶洗净，撕成小片
+  - 放入榨汁机，加入凉开水
+  - 打至顺滑后饮用
   file: recipes/juice/vegetable_juice/生菜汁.md
   source: juice-book
 - title: 番茄汁
@@ -12278,6 +13938,10 @@ recipes:
   - 番茄
   - 番茄红素
   - 美白
+  steps:
+  - 番茄洗净，切块
+  - 放入榨汁机，加入凉开水
+  - 打至顺滑后饮用
   file: recipes/juice/vegetable_juice/番茄汁.md
   source: juice-book
 - title: 胡萝卜汁
@@ -12291,6 +13955,10 @@ recipes:
   - 胡萝卜
   - 护眼
   - 维A
+  steps:
+  - 胡萝卜洗净，切成小段
+  - 放入榨汁机，加入凉开水
+  - 打至顺滑
   file: recipes/juice/vegetable_juice/胡萝卜汁.md
   source: juice-book
 - title: 芹菜汁
@@ -12304,6 +13972,10 @@ recipes:
   - 芹菜
   - 降压
   - 排毒
+  steps:
+  - 芹菜洗净，切成小段
+  - 芹菜叶也保留（营养更丰富）
+  - 放入榨汁机，加入凉开水
   file: recipes/juice/vegetable_juice/芹菜汁.md
   source: juice-book
 - title: 菠菜汁
@@ -12317,6 +13989,10 @@ recipes:
   - 菠菜
   - 补铁
   - 维K
+  steps:
+  - 菠菜洗净，焯水30秒（去除草酸）
+  - 捞出过凉水，沥干
+  - 切成小段
   file: recipes/juice/vegetable_juice/菠菜汁.md
   source: juice-book
 - title: 超能羽衣甘蓝汁
@@ -12332,6 +14008,10 @@ recipes:
   - 苹果
   - 芹菜
   - 净化
+  steps:
+  - 羽衣甘蓝洗净
+  - 苹果去核切块
+  - 芹菜洗净切段
   file: recipes/juice/vegetable_juice/超能羽衣甘蓝汁.md
   source: juice-book
 - title: 身心调节 V8 蔬果汁
@@ -12352,6 +14032,10 @@ recipes:
   - 甜菜
   - 综合
   - 抗氧化
+  steps:
+  - 番茄洗净切块
+  - 胡萝卜洗净切段
+  - 菠菜洗净
   file: recipes/juice/vegetable_juice/身心调节V8蔬果汁.md
   source: juice-book
 - title: 黄瓜汁
@@ -12365,5 +14049,9 @@ recipes:
   - 黄瓜
   - 清热
   - 补水
+  steps:
+  - 黄瓜洗净，切段（不用削皮）
+  - 放入榨汁机，加入凉开水
+  - 打至顺滑后饮用
   file: recipes/juice/vegetable_juice/黄瓜汁.md
   source: juice-book

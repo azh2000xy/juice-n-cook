@@ -29,7 +29,26 @@ def parse_frontmatter(content: str) -> dict:
     return {}
 
 
-def parse_recipe(fm: dict, filepath: str, source: str) -> dict:
+def extract_steps(content: str) -> list[str]:
+    """从 Markdown 正文中提取前 3 步操作"""
+    steps = []
+    in_ops = False
+    for line in content.split('\n'):
+        if re.match(r'^##\s+操作', line):
+            in_ops = True
+            continue
+        if in_ops:
+            if line.startswith('## '):
+                break
+            m = re.match(r'^\d+\.\s*(.+)', line)
+            if m:
+                step = m.group(1).strip()
+                if len(step) > 3 and len(steps) < 3:
+                    steps.append(step)
+    return steps
+
+
+def parse_recipe(fm: dict, filepath: str, source: str, content: str = "") -> dict:
     """从 YAML frontmatter 提取食谱索引条目"""
     difficulty = fm.get('difficulty', 3)
     if isinstance(difficulty, str):
@@ -42,6 +61,7 @@ def parse_recipe(fm: dict, filepath: str, source: str) -> dict:
         'difficulty': difficulty,
         'ingredients': fm.get('ingredients', []),
         'tags': fm.get('tags', []),
+        'steps': extract_steps(content),
         'file': str(Path(filepath).relative_to(ROOT)).replace('\\', '/'),
         'source': source,
     }
@@ -68,7 +88,7 @@ def build_index():
         else:
             source = 'unknown'
 
-        info = parse_recipe(fm, str(md_file), source)
+        info = parse_recipe(fm, str(md_file), source, content)
         recipes.append(info)
 
     # 构建索引结构
