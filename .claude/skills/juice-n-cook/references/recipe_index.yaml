@@ -4472,7 +4472,7 @@ recipes:
   - 青蟹
   - 咖喱块
   - 洋葱
-  file: recipes\cooking\aquatic\咖喱炒蟹.md
+  file: recipes/cooking/aquatic/咖喱炒蟹.md
   source: howtocook
 - title: 响油鳝丝
   category: aquatic
@@ -4498,7 +4498,7 @@ recipes:
   - 鳝丝
   - 大蒜
   - 姜末
-  file: recipes\cooking\aquatic\响油鳝丝.md
+  file: recipes/cooking/aquatic/响油鳝丝.md
   source: howtocook
 - title: 小龙虾
   category: aquatic
@@ -4523,7 +4523,7 @@ recipes:
   - 小龙虾
   - 油
   - 香叶
-  file: recipes\cooking\aquatic\小龙虾\小龙虾.md
+  file: recipes/cooking/aquatic/小龙虾/小龙虾.md
   source: howtocook
 - title: 干煎阿根廷红虾
   category: aquatic
@@ -4544,7 +4544,7 @@ recipes:
   - 阿根廷红虾
   - 海盐
   - 黑胡椒
-  file: recipes\cooking\aquatic\干煎阿根廷红虾\干煎阿根廷红虾.md
+  file: recipes/cooking/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md
   source: howtocook
 - title: 微波葱姜黑鳕鱼
   category: aquatic
@@ -4564,7 +4564,7 @@ recipes:
   - 黑鳕鱼，带皮
   - 青葱
   - 姜
-  file: recipes\cooking\aquatic\微波葱姜黑鳕鱼.md
+  file: recipes/cooking/aquatic/微波葱姜黑鳕鱼.md
   source: howtocook
 - title: 水煮鱼
   category: aquatic
@@ -4587,7 +4587,7 @@ recipes:
   - 巴沙鱼
   - 蔬菜
   - 红油豆瓣酱
-  file: recipes\cooking\aquatic\水煮鱼.md
+  file: recipes/cooking/aquatic/水煮鱼.md
   source: howtocook
 - title: 油焖大虾
   category: aquatic
@@ -4601,7 +4601,7 @@ recipes:
   - 黑虎虾 or 明虾
   - 葱、姜
   - 料酒、盐、冰糖、植物油
-  file: recipes\cooking\aquatic\油焖大虾\油焖大虾.md
+  file: recipes/cooking/aquatic/油焖大虾/油焖大虾.md
   source: howtocook
 - title: 烤鱼
   category: aquatic
@@ -4632,7 +4632,7 @@ recipes:
   - 草鱼
   - 大葱
   - 料酒
-  file: recipes\cooking\aquatic\混合烤鱼\烤鱼.md
+  file: recipes/cooking/aquatic/混合烤鱼/烤鱼.md
   source: howtocook
 - title: 清蒸生蚝
   category: aquatic
@@ -4650,7 +4650,7 @@ recipes:
   - 生蚝
   - 葱
   - 蒜
-  file: recipes\cooking\aquatic\清蒸生蚝.md
+  file: recipes/cooking/aquatic/清蒸生蚝.md
   source: howtocook
 - title: 清蒸鲈鱼
   category: aquatic
@@ -4668,7 +4668,7 @@ recipes:
   - 鲈鱼
   - 香葱
   - 姜
-  file: recipes\cooking\aquatic\清蒸鲈鱼\清蒸鲈鱼.md
+  file: recipes/cooking/aquatic/清蒸鲈鱼/清蒸鲈鱼.md
   source: howtocook
 - title: 白灼虾
   category: aquatic
@@ -4690,7 +4690,7 @@ recipes:
   - 活虾
   - 洋葱
   - 姜
-  file: recipes\cooking\aquatic\白灼虾\白灼虾.md
+  file: recipes/cooking/aquatic/白灼虾/白灼虾.md
   source: howtocook
 - title: 糖醋鲤鱼
   category: aquatic
@@ -4712,7 +4712,7 @@ recipes:
   - 鲤鱼
   - 番茄酱
   - 白糖
-  file: recipes\cooking\aquatic\糖醋鲤鱼\糖醋鲤鱼.md
+  file: recipes/cooking/aquatic/糖醋鲤鱼/糖醋鲤鱼.md
   source: howtocook
 - title: 红烧鱼
   category: aquatic
@@ -4732,7 +4732,7 @@ recipes:
   - 姜、蒜瓣、干辣椒
   - 油、盐、料酒、醋、酱油、白砂糖
   - 鱼
-  file: recipes\cooking\aquatic\红烧鱼.md
+  file: recipes/cooking/aquatic/红烧鱼.md
   source: howtocook
 - title: 红烧鱼头
   category: aquatic
@@ -4748,7 +4748,7 @@ recipes:
   - 大葱、姜、大蒜、香菜、美人椒
   - 八角、干辣椒
   - 鱼头一个
-  file: recipes\cooking\aquatic\红烧鱼头.md
+  file: recipes/cooking/aquatic/红烧鱼头.md
   source: howtocook
 - title: 红烧鲤鱼
   category: aquatic
@@ -4761,7 +4761,7 @@ recipes:
   - 水产
   - 大葱、姜、大蒜、干辣椒
   - 鲤鱼、五花肉
-  file: recipes\cooking\aquatic\红烧鲤鱼.md
+  file: recipes/cooking/aquatic/红烧鲤鱼.md
   source: howtocook
 - title: 肉蟹煲
   category: aquatic
@@ -4797,7 +4797,7 @@ recipes:
   - 肉蟹
   - 虾
   - 土豆
-  file: recipes\cooking\aquatic\肉蟹煲.md
+  file: recipes/cooking/aquatic/肉蟹煲.md
   source: howtocook
 - title: 芥末黄油罗氏虾
   category: aquatic
@@ -4818,7 +4818,7 @@ recipes:
   - 罗氏虾
   - 黄油
   - 芥末
-  file: recipes\cooking\aquatic\芥末黄油罗氏虾\芥末黄油罗氏虾.md
+  file: recipes/cooking/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md
   source: howtocook
 - title: 葱油桂鱼
   category: aquatic
@@ -4839,7 +4839,7 @@ recipes:
   - 桂鱼
   - 小葱
   - 小米辣
-  file: recipes\cooking\aquatic\葱油桂鱼\葱油桂鱼.md
+  file: recipes/cooking/aquatic/葱油桂鱼/葱油桂鱼.md
   source: howtocook
 - title: 葱烧海参
   category: aquatic
@@ -4851,7 +4851,7 @@ recipes:
   tags:
   - 泡发好的海参![海参]
   - 大葱葱白
-  file: recipes\cooking\aquatic\葱烧海参\葱烧海参.md
+  file: recipes/cooking/aquatic/葱烧海参/葱烧海参.md
   source: howtocook
 - title: 蒜蓉虾
   category: aquatic
@@ -4866,7 +4866,7 @@ recipes:
   - 海虾
   - 蒜蓉酱
   - 食用油
-  file: recipes\cooking\aquatic\蒜蓉虾\蒜蓉虾.md
+  file: recipes/cooking/aquatic/蒜蓉虾/蒜蓉虾.md
   source: howtocook
 - title: 蒜香黄油虾
   category: aquatic
@@ -4883,7 +4883,7 @@ recipes:
   - 大虾
   - 无盐黄油
   - 大蒜
-  file: recipes\cooking\aquatic\蒜香黄油虾\蒜香黄油虾.md
+  file: recipes/cooking/aquatic/蒜香黄油虾/蒜香黄油虾.md
   source: howtocook
 - title: 蛏抱蛋
   category: aquatic
@@ -4902,7 +4902,7 @@ recipes:
   - 蛏子
   - 鸡蛋
   - 食用油
-  file: recipes\cooking\aquatic\蛏抱蛋\蛏抱蛋.md
+  file: recipes/cooking/aquatic/蛏抱蛋/蛏抱蛋.md
   source: howtocook
 - title: 酱炖蟹
   category: aquatic
@@ -4925,7 +4925,7 @@ recipes:
   - 螃蟹
   - 豆瓣酱
   - 冰糖
-  file: recipes\cooking\aquatic\酱炖蟹.md
+  file: recipes/cooking/aquatic/酱炖蟹.md
   source: howtocook
 - title: 阳朔啤酒鱼
   category: aquatic
@@ -4951,7 +4951,7 @@ recipes:
   - 剑骨鱼或鲤鱼
   - 漓泉啤酒
   - 番茄
-  file: recipes\cooking\aquatic\阳朔啤酒鱼\阳朔啤酒鱼.md
+  file: recipes/cooking/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md
   source: howtocook
 - title: 香煎翘嘴鱼
   category: aquatic
@@ -4974,7 +4974,7 @@ recipes:
   - 翘嘴鱼
   - 姜
   - 葱
-  file: recipes\cooking\aquatic\香煎翘嘴鱼\香煎翘嘴鱼.md
+  file: recipes/cooking/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md
   source: howtocook
 - title: 鲤鱼炖白菜
   category: aquatic
@@ -4997,7 +4997,7 @@ recipes:
   - 食用油
   - 姜
   - 蒜
-  file: recipes\cooking\aquatic\鲤鱼炖白菜\鲤鱼炖白菜.md
+  file: recipes/cooking/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md
   source: howtocook
 - title: 鳊鱼炖豆腐
   category: aquatic
@@ -5023,7 +5023,7 @@ recipes:
   - 鳊鱼
   - 老豆腐
   - 姜
-  file: recipes\cooking\aquatic\鳊鱼炖豆腐\鳊鱼炖豆腐.md
+  file: recipes/cooking/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md
   source: howtocook
 - title: 黄油煎虾
   category: aquatic
@@ -5041,7 +5041,7 @@ recipes:
   - 鲜虾
   - 黄油
   - 黑胡椒粒
-  file: recipes\cooking\aquatic\黄油煎虾\黄油煎虾.md
+  file: recipes/cooking/aquatic/黄油煎虾/黄油煎虾.md
   source: howtocook
 - title: 吐司果酱
   category: breakfast
@@ -5056,7 +5056,7 @@ recipes:
   - 新鲜吐司
   - 果酱
   - 面包机
-  file: recipes\cooking\breakfast\吐司果酱.md
+  file: recipes/cooking/breakfast/吐司果酱.md
   source: howtocook
 - title: 太阳蛋
   category: breakfast
@@ -5072,7 +5072,7 @@ recipes:
   - 鸡蛋
   - 盐
   - 油
-  file: recipes\cooking\breakfast\太阳蛋.md
+  file: recipes/cooking/breakfast/太阳蛋.md
   source: howtocook
 - title: 完美水煮蛋
   category: breakfast
@@ -5085,7 +5085,7 @@ recipes:
   - 早餐
   - 新鲜鸡蛋
   - 定时器
-  file: recipes\cooking\breakfast\完美水煮蛋.md
+  file: recipes/cooking/breakfast/完美水煮蛋.md
   source: howtocook
 - title: 微波炉荷包蛋
   category: breakfast
@@ -5100,7 +5100,7 @@ recipes:
   - 鸡蛋
   - 芝麻油
   - 盐
-  file: recipes\cooking\breakfast\微波炉荷包蛋.md
+  file: recipes/cooking/breakfast/微波炉荷包蛋.md
   source: howtocook
 - title: 微波炉蒸蛋
   category: breakfast
@@ -5117,7 +5117,7 @@ recipes:
   - 鸡蛋
   - 温水或高汤
   - 食盐
-  file: recipes\cooking\breakfast\微波炉蒸蛋.md
+  file: recipes/cooking/breakfast/微波炉蒸蛋.md
   source: howtocook
 - title: 微波炉蛋糕
   category: breakfast
@@ -5133,7 +5133,7 @@ recipes:
   - 黄油
   - 面粉
   - 泡打粉
-  file: recipes\cooking\breakfast\微波炉蛋糕.md
+  file: recipes/cooking/breakfast/微波炉蛋糕.md
   source: howtocook
 - title: 意式香肠北非蛋
   category: breakfast
@@ -5155,7 +5155,7 @@ recipes:
   - 意式猪肉香肠
   - 百味来
   - 鸡蛋
-  file: recipes\cooking\breakfast\意式香肠北非蛋.md
+  file: recipes/cooking/breakfast/意式香肠北非蛋.md
   source: howtocook
 - title: 手抓饼
   category: breakfast
@@ -5176,7 +5176,7 @@ recipes:
   - 普通面粉
   - 开水
   - 冷水
-  file: recipes\cooking\breakfast\手抓饼.md
+  file: recipes/cooking/breakfast/手抓饼.md
   source: howtocook
 - title: 桂圆红枣粥
   category: breakfast
@@ -5191,7 +5191,7 @@ recipes:
   - 糯米
   - 红枣
   - 桂圆
-  file: recipes\cooking\breakfast\桂圆红枣粥.md
+  file: recipes/cooking/breakfast/桂圆红枣粥.md
   source: howtocook
 - title: 水煮玉米
   category: breakfast
@@ -5207,7 +5207,7 @@ recipes:
   - 新鲜玉米
   - 水
   - 盐
-  file: recipes\cooking\breakfast\水煮玉米.md
+  file: recipes/cooking/breakfast/水煮玉米.md
   source: howtocook
 - title: 温泉蛋
   category: breakfast
@@ -5223,7 +5223,7 @@ recipes:
   - 鸡蛋
   - 厨房用温度计
   - 杯子
-  file: recipes\cooking\breakfast\温泉蛋\温泉蛋.md
+  file: recipes/cooking/breakfast/温泉蛋/温泉蛋.md
   source: howtocook
 - title: 溏心蛋
   category: breakfast
@@ -5238,7 +5238,7 @@ recipes:
   - 鸡蛋
   - 水
   - 秒表
-  file: recipes\cooking\breakfast\溏心蛋.md
+  file: recipes/cooking/breakfast/溏心蛋.md
   source: howtocook
 - title: 煎饺
   category: breakfast
@@ -5251,7 +5251,7 @@ recipes:
   - 早餐
   - 饺子
   - 芝麻、葱花
-  file: recipes\cooking\breakfast\煎饺.md
+  file: recipes/cooking/breakfast/煎饺.md
   source: howtocook
 - title: 燕麦鸡蛋饼
   category: breakfast
@@ -5267,7 +5267,7 @@ recipes:
   - 鸡蛋
   - 燕麦
   - 牛奶
-  file: recipes\cooking\breakfast\燕麦鸡蛋饼.md
+  file: recipes/cooking/breakfast/燕麦鸡蛋饼.md
   source: howtocook
 - title: 牛奶燕麦
   category: breakfast
@@ -5282,7 +5282,7 @@ recipes:
   - 牛奶
   - 燕麦
   - 鸡蛋
-  file: recipes\cooking\breakfast\牛奶燕麦.md
+  file: recipes/cooking/breakfast/牛奶燕麦.md
   source: howtocook
 - title: 空气炸锅面包片
   category: breakfast
@@ -5293,7 +5293,7 @@ recipes:
   tags:
   - 早餐
   - 面包片
-  file: recipes\cooking\breakfast\空气炸锅面包片.md
+  file: recipes/cooking/breakfast/空气炸锅面包片.md
   source: howtocook
 - title: 美式炒蛋
   category: breakfast
@@ -5309,7 +5309,7 @@ recipes:
   - 鸡蛋
   - 全脂牛奶/奶油
   - 黄油
-  file: recipes\cooking\breakfast\美式炒蛋.md
+  file: recipes/cooking/breakfast/美式炒蛋.md
   source: howtocook
 - title: 苏格兰蛋
   category: breakfast
@@ -5324,7 +5324,7 @@ recipes:
   - 鸡蛋
   - 手抓饼皮
   - 芝士
-  file: recipes\cooking\breakfast\苏格兰蛋\苏格兰蛋.md
+  file: recipes/cooking/breakfast/苏格兰蛋/苏格兰蛋.md
   source: howtocook
 - title: 茶叶蛋
   category: breakfast
@@ -5346,7 +5346,7 @@ recipes:
   - 鸡蛋
   - 八角
   - 香叶
-  file: recipes\cooking\breakfast\茶叶蛋.md
+  file: recipes/cooking/breakfast/茶叶蛋.md
   source: howtocook
 - title: 蒸水蛋
   category: breakfast
@@ -5359,7 +5359,7 @@ recipes:
   - 早餐
   - 新鲜鸡蛋
   - 热水
-  file: recipes\cooking\breakfast\蒸水蛋.md
+  file: recipes/cooking/breakfast/蒸水蛋.md
   source: howtocook
 - title: 蒸花卷
   category: breakfast
@@ -5375,7 +5375,7 @@ recipes:
   - 冷冻花卷
   - 圆碟子
   - 蒸架
-  file: recipes\cooking\breakfast\蒸花卷.md
+  file: recipes/cooking/breakfast/蒸花卷.md
   source: howtocook
 - title: 蛋煎糍粑
   category: breakfast
@@ -5390,7 +5390,7 @@ recipes:
   - 鸡蛋
   - 糍粑
   - 白糖或红糖
-  file: recipes\cooking\breakfast\蛋煎糍粑.md
+  file: recipes/cooking/breakfast/蛋煎糍粑.md
   source: howtocook
 - title: 金枪鱼酱三明治
   category: breakfast
@@ -5409,7 +5409,7 @@ recipes:
   - 水浸金枪鱼罐头
   - 方形吐司片
   - 蛋黄酱
-  file: recipes\cooking\breakfast\金枪鱼酱三明治.md
+  file: recipes/cooking/breakfast/金枪鱼酱三明治.md
   source: howtocook
 - title: 韩国麻药鸡蛋
   category: breakfast
@@ -5428,7 +5428,7 @@ recipes:
   - 鸡蛋
   - 韩式酱油
   - 日式味淋
-  file: recipes\cooking\breakfast\韩国麻药鸡蛋.md
+  file: recipes/cooking/breakfast/韩国麻药鸡蛋.md
   source: howtocook
 - title: 鸡蛋三明治
   category: breakfast
@@ -5447,7 +5447,7 @@ recipes:
   - 鸡蛋
   - 吐司
   - 培根
-  file: recipes\cooking\breakfast\鸡蛋三明治.md
+  file: recipes/cooking/breakfast/鸡蛋三明治.md
   source: howtocook
 - title: 油泼辣子
   category: condiment
@@ -5474,7 +5474,7 @@ recipes:
   - 蒜头
   - 干辣椒面
   - 盐
-  file: recipes\cooking\condiment\油泼辣子\油泼辣子.md
+  file: recipes/cooking/condiment/油泼辣子/油泼辣子.md
   source: howtocook
 - title: 油酥
   category: condiment
@@ -5489,7 +5489,7 @@ recipes:
   - 面粉
   - 油
   - 盐
-  file: recipes\cooking\condiment\油酥.md
+  file: recipes/cooking/condiment/油酥.md
   source: howtocook
 - title: 炸串酱料
   category: condiment
@@ -5509,7 +5509,7 @@ recipes:
   - 干辣椒面
   - 孜然粉
   - 胡椒粉
-  file: recipes\cooking\condiment\炸串酱料.md
+  file: recipes/cooking/condiment/炸串酱料.md
   source: howtocook
 - title: 简易版炒糖色
   category: condiment
@@ -5520,7 +5520,7 @@ recipes:
   tags:
   - 调料
   - 糖
-  file: recipes\cooking\condiment\简易版炒糖色.md
+  file: recipes/cooking/condiment/简易版炒糖色.md
   source: howtocook
 - title: 糖醋汁
   category: condiment
@@ -5537,7 +5537,7 @@ recipes:
   - 清水
   - 白糖
   - 白醋/米醋
-  file: recipes\cooking\condiment\糖醋汁.md
+  file: recipes/cooking/condiment/糖醋汁.md
   source: howtocook
 - title: 草莓酱
   category: condiment
@@ -5549,7 +5549,7 @@ recipes:
   tags:
   - 草莓
   - 白砂糖
-  file: recipes\cooking\condiment\草莓酱\草莓酱.md
+  file: recipes/cooking/condiment/草莓酱/草莓酱.md
   source: howtocook
 - title: 葱油
   category: condiment
@@ -5568,7 +5568,7 @@ recipes:
   - 油
   - 葱
   - 姜
-  file: recipes\cooking\condiment\葱油.md
+  file: recipes/cooking/condiment/葱油.md
   source: howtocook
 - title: 蒜香酱油
   category: condiment
@@ -5585,7 +5585,7 @@ recipes:
   - 蒜头
   - 白芝麻
   - 花生油
-  file: recipes\cooking\condiment\蒜香酱油.md
+  file: recipes/cooking/condiment/蒜香酱油.md
   source: howtocook
 - title: 蔗糖糖浆
   category: condiment
@@ -5599,7 +5599,7 @@ recipes:
   - 白砂糖
   - 水
   - 可密封容器
-  file: recipes\cooking\condiment\蔗糖糖浆\蔗糖糖浆.md
+  file: recipes/cooking/condiment/蔗糖糖浆/蔗糖糖浆.md
   source: howtocook
 - title: 反沙芋头
   category: dessert
@@ -5614,7 +5614,7 @@ recipes:
   - 荔浦芋头
   - 白砂糖或冰糖
   - 水
-  file: recipes\cooking\dessert\反沙芋头\反沙芋头.md
+  file: recipes/cooking/dessert/反沙芋头/反沙芋头.md
   source: howtocook
 - title: 咖啡椰奶冻
   category: dessert
@@ -5624,7 +5624,7 @@ recipes:
   - 过滤网
   tags:
   - 过滤网
-  file: recipes\cooking\dessert\咖啡椰奶冻\咖啡椰奶冻.md
+  file: recipes/cooking/dessert/咖啡椰奶冻/咖啡椰奶冻.md
   source: howtocook
 - title: 奥利奥冰淇淋
   category: dessert
@@ -5640,7 +5640,7 @@ recipes:
   - 淡奶油
   - 原味奥利奥
   - 电动打蛋器
-  file: recipes\cooking\dessert\奥利奥冰淇淋\奥利奥冰淇淋.md
+  file: recipes/cooking/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md
   source: howtocook
 - title: 戚风蛋糕
   category: dessert
@@ -5659,7 +5659,7 @@ recipes:
   - 打蛋器
   - 铝合金阳极模具
   - 鸡蛋
-  file: recipes\cooking\dessert\戚风蛋糕\戚风蛋糕.md
+  file: recipes/cooking/dessert/戚风蛋糕/戚风蛋糕.md
   source: howtocook
 - title: 提拉米苏
   category: dessert
@@ -5679,7 +5679,7 @@ recipes:
   - 马斯卡彭芝士
   - 手指饼干
   - 放凉浓缩咖啡
-  file: recipes\cooking\dessert\提拉米苏\提拉米苏.md
+  file: recipes/cooking/dessert/提拉米苏/提拉米苏.md
   source: howtocook
 - title: 无厨师机蜂蜜面包
   category: dessert
@@ -5700,7 +5700,7 @@ recipes:
   - 高筋面粉
   - 牛奶
   - 酵母
-  file: recipes\cooking\dessert\无厨师机蜂蜜面包\无厨师机蜂蜜面包.md
+  file: recipes/cooking/dessert/无厨师机蜂蜜面包/无厨师机蜂蜜面包.md
   source: howtocook
 - title: 炸鲜奶
   category: dessert
@@ -5716,7 +5716,7 @@ recipes:
   - 牛奶
   - 玉米淀粉
   - 面包糠
-  file: recipes\cooking\dessert\炸鲜奶\炸鲜奶.md
+  file: recipes/cooking/dessert/炸鲜奶/炸鲜奶.md
   source: howtocook
 - title: 烤箱版巴斯克芝士蛋糕
   category: dessert
@@ -5734,7 +5734,7 @@ recipes:
   - 奶油奶酪
   - 白砂糖
   - 鸡蛋
-  file: recipes\cooking\dessert\烤箱版巴斯克芝士蛋糕\烤箱版巴斯克芝士蛋糕.md
+  file: recipes/cooking/dessert/烤箱版巴斯克芝士蛋糕/烤箱版巴斯克芝士蛋糕.md
   source: howtocook
 - title: 烤蛋挞
   category: dessert
@@ -5752,7 +5752,7 @@ recipes:
   - 蛋挞皮 品牌不限
   - 鸡蛋
   - 牛奶
-  file: recipes\cooking\dessert\烤蛋挞\烤蛋挞.md
+  file: recipes/cooking/dessert/烤蛋挞/烤蛋挞.md
   source: howtocook
 - title: 玛格丽特饼干
   category: dessert
@@ -5769,7 +5769,7 @@ recipes:
   - 熟蛋黄
   - 黄油
   - 白砂糖
-  file: recipes\cooking\dessert\玛格丽特饼干\玛格丽特饼干.md
+  file: recipes/cooking/dessert/玛格丽特饼干/玛格丽特饼干.md
   source: howtocook
 - title: 红柚蛋糕
   category: dessert
@@ -5786,7 +5786,7 @@ recipes:
   - 鸡蛋
   - 红柚果肉
   - 面粉
-  file: recipes\cooking\dessert\红柚蛋糕\红柚蛋糕.md
+  file: recipes/cooking/dessert/红柚蛋糕/红柚蛋糕.md
   source: howtocook
 - title: 胡萝卜甜糕
   category: dessert
@@ -5807,7 +5807,7 @@ recipes:
   - 胡萝卜
   - 全脂牛奶
   - 糖
-  file: recipes\cooking\dessert\胡萝卜甜糕.md
+  file: recipes/cooking/dessert/胡萝卜甜糕.md
   source: howtocook
 - title: 芋泥雪媚娘
   category: dessert
@@ -5828,7 +5828,7 @@ recipes:
   - 荔浦芋头
   - 紫薯粉
   - 牛奶
-  file: recipes\cooking\dessert\芋泥雪媚娘\芋泥雪媚娘.md
+  file: recipes/cooking/dessert/芋泥雪媚娘/芋泥雪媚娘.md
   source: howtocook
 - title: 英式司康
   category: dessert
@@ -5847,7 +5847,7 @@ recipes:
   - 无盐黄油
   - 低筋面粉
   - 糖
-  file: recipes\cooking\dessert\英式司康\英式司康.md
+  file: recipes/cooking/dessert/英式司康/英式司康.md
   source: howtocook
 - title: 草莓冰淇淋
   category: dessert
@@ -5863,7 +5863,7 @@ recipes:
   - 加糖炼乳
   - 草莓
   - 重奶油
-  file: recipes\cooking\dessert\草莓冰淇淋\草莓冰淇淋.md
+  file: recipes/cooking/dessert/草莓冰淇淋/草莓冰淇淋.md
   source: howtocook
 - title: 酸奶意式奶冻
   category: dessert
@@ -5879,7 +5879,7 @@ recipes:
   - 淡奶油
   - 糖
   - 原味酸奶
-  file: recipes\cooking\dessert\酸奶意式奶冻\酸奶意式奶冻.md
+  file: recipes/cooking/dessert/酸奶意式奶冻/酸奶意式奶冻.md
   source: howtocook
 - title: 雪花酥
   category: dessert
@@ -5898,7 +5898,7 @@ recipes:
   - 一次性塑料手套
   - 雪花酥/牛轧糖模具
   - 擀面杖
-  file: recipes\cooking\dessert\雪花酥\雪花酥.md
+  file: recipes/cooking/dessert/雪花酥/雪花酥.md
   source: howtocook
 - title: 魔芋蛋糕
   category: dessert
@@ -5919,7 +5919,7 @@ recipes:
   - 电动打蛋器
   - 金属蛋糕模具
   - 烘焙纸
-  file: recipes\cooking\dessert\魔芋蛋糕\魔芋蛋糕.md
+  file: recipes/cooking/dessert/魔芋蛋糕/魔芋蛋糕.md
   source: howtocook
 - title: 龟苓膏
   category: dessert
@@ -5935,7 +5935,7 @@ recipes:
   - 龟苓膏粉
   - 冷水
   - 开水
-  file: recipes\cooking\dessert\龟苓膏\龟苓膏.md
+  file: recipes/cooking/dessert/龟苓膏/龟苓膏.md
   source: howtocook
 - title: B52轰炸机
   category: drink
@@ -5952,7 +5952,7 @@ recipes:
   - 甘露咖啡酒
   - 爱尔兰百利甜酒
   - 蓝天原味伏特加
-  file: recipes\cooking\drink\B52轰炸机.md
+  file: recipes/cooking/drink/B52轰炸机.md
   source: howtocook
 - title: Mojito莫吉托
   category: drink
@@ -5969,7 +5969,7 @@ recipes:
   - 打碎的冰块
   - 冰镇苏打水
   - 压汁器
-  file: recipes\cooking\drink\Mojito莫吉托.md
+  file: recipes/cooking/drink/Mojito莫吉托.md
   source: howtocook
 - title: 冬瓜茶
   category: drink
@@ -5984,7 +5984,7 @@ recipes:
   - 冬瓜
   - 冰糖
   - 过滤网
-  file: recipes\cooking\drink\冬瓜茶.md
+  file: recipes/cooking/drink/冬瓜茶.md
   source: howtocook
 - title: 冰粉
   category: drink
@@ -6001,7 +6001,7 @@ recipes:
   - 冰粉籽
   - 过滤豆浆渣的纱布一块
   - 凉白开
-  file: recipes\cooking\drink\冰粉\冰粉.md
+  file: recipes/cooking/drink/冰粉/冰粉.md
   source: howtocook
 - title: 印度奶茶
   category: drink
@@ -6021,7 +6021,7 @@ recipes:
   - 红茶
   - 全脂牛奶
   - 生姜
-  file: recipes\cooking\drink\印度奶茶.md
+  file: recipes/cooking/drink/印度奶茶.md
   source: howtocook
 - title: 可乐桶
   category: drink
@@ -6038,7 +6038,7 @@ recipes:
   - 波旁威士忌
   - 可口可乐
   - 冰块
-  file: recipes\cooking\drink\可乐桶.md
+  file: recipes/cooking/drink/可乐桶.md
   source: howtocook
 - title: 奇异果菠菜特调
   category: drink
@@ -6050,7 +6050,7 @@ recipes:
   tags:
   - 原料
   - 工具
-  file: recipes\cooking\drink\奇异果菠菜特调\奇异果菠菜特调.md
+  file: recipes/cooking/drink/奇异果菠菜特调/奇异果菠菜特调.md
   source: howtocook
 - title: 奶茶
   category: drink
@@ -6063,7 +6063,7 @@ recipes:
   - 饮品
   - 袋泡红茶
   - 全脂奶粉或淡奶
-  file: recipes\cooking\drink\奶茶.md
+  file: recipes/cooking/drink/奶茶.md
   source: howtocook
 - title: 杨枝甘露
   category: drink
@@ -6079,7 +6079,7 @@ recipes:
   - 杯子
   - 牛奶
   - 冰块
-  file: recipes\cooking\drink\杨枝甘露.md
+  file: recipes/cooking/drink/杨枝甘露.md
   source: howtocook
 - title: 柠檬水
   category: drink
@@ -6091,7 +6091,7 @@ recipes:
   tags:
   - 原料
   - 工具
-  file: recipes\cooking\drink\柠檬水\柠檬水.md
+  file: recipes/cooking/drink/柠檬水/柠檬水.md
   source: howtocook
 - title: 泰国手标红茶
   category: drink
@@ -6110,7 +6110,7 @@ recipes:
   - 水
   - 茶粉
   - 炼乳
-  file: recipes\cooking\drink\泰国手标红茶\泰国手标红茶.md
+  file: recipes/cooking/drink/泰国手标红茶/泰国手标红茶.md
   source: howtocook
 - title: 海边落日
   category: drink
@@ -6134,7 +6134,7 @@ recipes:
   - 红石榴糖浆
   - NFC 橙汁
   - 苏打水
-  file: recipes\cooking\drink\海边落日\海边落日.md
+  file: recipes/cooking/drink/海边落日/海边落日.md
   source: howtocook
 - title: 牛油果拉西
   category: drink
@@ -6153,7 +6153,7 @@ recipes:
   - 原味酸奶
   - 熟透的牛油果
   - 蜂蜜
-  file: recipes\cooking\drink\牛油果拉西.md
+  file: recipes/cooking/drink/牛油果拉西.md
   source: howtocook
 - title: 百香果橙子特调
   category: drink
@@ -6165,7 +6165,7 @@ recipes:
   tags:
   - 原料
   - 工具
-  file: recipes\cooking\drink\百香果橙子特调\百香果橙子特调.md
+  file: recipes/cooking/drink/百香果橙子特调/百香果橙子特调.md
   source: howtocook
 - title: 砂糖椰子冰沙
   category: drink
@@ -6177,7 +6177,7 @@ recipes:
   tags:
   - 瓶装椰汁
   - 咖啡调糖
-  file: recipes\cooking\drink\砂糖椰子冰沙\砂糖椰子冰沙.md
+  file: recipes/cooking/drink/砂糖椰子冰沙/砂糖椰子冰沙.md
   source: howtocook
 - title: 耙耙柑茶
   category: drink
@@ -6189,7 +6189,7 @@ recipes:
   tags:
   - 原料
   - 工具
-  file: recipes\cooking\drink\耙耙柑茶\耙耙柑茶.md
+  file: recipes/cooking/drink/耙耙柑茶/耙耙柑茶.md
   source: howtocook
 - title: 菠萝咖啡特调
   category: drink
@@ -6209,7 +6209,7 @@ recipes:
   - 咖啡液
   - 菠萝汁
   - 冰块
-  file: recipes\cooking\drink\菠萝咖啡特调\菠萝咖啡特调.md
+  file: recipes/cooking/drink/菠萝咖啡特调/菠萝咖啡特调.md
   source: howtocook
 - title: 酒酿醪糟
   category: drink
@@ -6225,7 +6225,7 @@ recipes:
   - 糯米
   - 安琪甜酒曲一包
   - 清水
-  file: recipes\cooking\drink\酒酿醪糟\酒酿醪糟.md
+  file: recipes/cooking/drink/酒酿醪糟/酒酿醪糟.md
   source: howtocook
 - title: 酸梅汤
   category: drink
@@ -6245,7 +6245,7 @@ recipes:
   - 水
   - 乌枣
   - 乌梅
-  file: recipes\cooking\drink\酸梅汤\酸梅汤.md
+  file: recipes/cooking/drink/酸梅汤/酸梅汤.md
   source: howtocook
 - title: 酸梅汤（半成品加工）
   category: drink
@@ -6258,7 +6258,7 @@ recipes:
   - 饮品
   - 酸梅晶固体饮料
   - 方糖
-  file: recipes\cooking\drink\酸梅汤（半成品加工）.md
+  file: recipes/cooking/drink/酸梅汤（半成品加工）.md
   source: howtocook
 - title: 金汤力
   category: drink
@@ -6275,7 +6275,7 @@ recipes:
   - 金酒
   - 汤力水气泡水
   - 柠檬
-  file: recipes\cooking\drink\金汤力\金汤力.md
+  file: recipes/cooking/drink/金汤力/金汤力.md
   source: howtocook
 - title: 金菲士
   category: drink
@@ -6294,7 +6294,7 @@ recipes:
   - 金酒
   - 苏打气泡水
   - 柠檬
-  file: recipes\cooking\drink\金菲士\金菲士.md
+  file: recipes/cooking/drink/金菲士/金菲士.md
   source: howtocook
 - title: 长岛冰茶
   category: drink
@@ -6316,7 +6316,7 @@ recipes:
   - 金酒
   - 龙舌兰酒
   - 伏特加
-  file: recipes\cooking\drink\长岛冰茶.md
+  file: recipes/cooking/drink/长岛冰茶.md
   source: howtocook
 - title: 乡村啤酒鸭
   category: meat_dish
@@ -6342,7 +6342,7 @@ recipes:
   - 鸭肉
   - 啤酒
   - 青椒
-  file: recipes\cooking\meat_dish\乡村啤酒鸭.md
+  file: recipes/cooking/meat_dish/乡村啤酒鸭.md
   source: howtocook
 - title: 农家一碗香
   category: meat_dish
@@ -6350,7 +6350,7 @@ recipes:
   difficulty: 3
   ingredients: []
   tags: []
-  file: recipes\cooking\meat_dish\农家一碗香\农家一碗香.md
+  file: recipes/cooking/meat_dish/农家一碗香/农家一碗香.md
   source: howtocook
 - title: 冬瓜酿肉
   category: meat_dish
@@ -6369,7 +6369,7 @@ recipes:
   - 冬瓜
   - 猪肉末
   - 鸡蛋
-  file: recipes\cooking\meat_dish\冬瓜酿肉\冬瓜酿肉.md
+  file: recipes/cooking/meat_dish/冬瓜酿肉/冬瓜酿肉.md
   source: howtocook
 - title: 冷吃兔
   category: meat_dish
@@ -6398,7 +6398,7 @@ recipes:
   - 兔肉
   - 盐
   - 味精
-  file: recipes\cooking\meat_dish\冷吃兔.md
+  file: recipes/cooking/meat_dish/冷吃兔.md
   source: howtocook
 - title: 凉拌鸡丝
   category: meat_dish
@@ -6418,7 +6418,7 @@ recipes:
   - 鸡胸肉
   - 麻油
   - 生抽
-  file: recipes\cooking\meat_dish\凉拌鸡丝\凉拌鸡丝.md
+  file: recipes/cooking/meat_dish/凉拌鸡丝/凉拌鸡丝.md
   source: howtocook
 - title: 卤菜
   category: meat_dish
@@ -6445,7 +6445,7 @@ recipes:
   - 卤料包
   - 黄豆酱
   - 豆瓣酱
-  file: recipes\cooking\meat_dish\卤菜\卤菜.md
+  file: recipes/cooking/meat_dish/卤菜/卤菜.md
   source: howtocook
 - title: 口水鸡
   category: meat_dish
@@ -6465,7 +6465,7 @@ recipes:
   - 半只鸡
   - 辣椒粉
   - 花椒
-  file: recipes\cooking\meat_dish\口水鸡\口水鸡.md
+  file: recipes/cooking/meat_dish/口水鸡/口水鸡.md
   source: howtocook
 - title: 可乐鸡翅
   category: meat_dish
@@ -6485,7 +6485,7 @@ recipes:
   - 鸡翅中
   - 可乐
   - 白糖
-  file: recipes\cooking\meat_dish\可乐鸡翅.md
+  file: recipes/cooking/meat_dish/可乐鸡翅.md
   source: howtocook
 - title: 台式卤肉饭
   category: meat_dish
@@ -6509,7 +6509,7 @@ recipes:
   - 红葱头
   - 带皮五花肉
   - 鸡蛋
-  file: recipes\cooking\meat_dish\台式卤肉饭\台式卤肉饭.md
+  file: recipes/cooking/meat_dish/台式卤肉饭/台式卤肉饭.md
   source: howtocook
 - title: 咕噜肉
   category: meat_dish
@@ -6531,7 +6531,7 @@ recipes:
   - 梅头猪肉
   - 青椒
   - 罐头菠萝片
-  file: recipes\cooking\meat_dish\咕噜肉.md
+  file: recipes/cooking/meat_dish/咕噜肉.md
   source: howtocook
 - title: 咖喱肥牛
   category: meat_dish
@@ -6549,7 +6549,7 @@ recipes:
   - 香叶
   - 纯牛奶
   - 洋葱
-  file: recipes\cooking\meat_dish\咖喱肥牛\咖喱肥牛.md
+  file: recipes/cooking/meat_dish/咖喱肥牛/咖喱肥牛.md
   source: howtocook
 - title: 商芝肉
   category: meat_dish
@@ -6576,7 +6576,7 @@ recipes:
   - 带皮猪五花肉
   - 商芝
   - 葱
-  file: recipes\cooking\meat_dish\商芝肉.md
+  file: recipes/cooking/meat_dish/商芝肉.md
   source: howtocook
 - title: 啤酒鸭
   category: meat_dish
@@ -6602,7 +6602,7 @@ recipes:
   - 鸭肉
   - 啤酒
   - 生抽酱油
-  file: recipes\cooking\meat_dish\啤酒鸭\啤酒鸭.md
+  file: recipes/cooking/meat_dish/啤酒鸭/啤酒鸭.md
   source: howtocook
 - title: 回锅肉
   category: meat_dish
@@ -6622,7 +6622,7 @@ recipes:
   - 五花肉
   - 小葱
   - 生姜
-  file: recipes\cooking\meat_dish\回锅肉\回锅肉.md
+  file: recipes/cooking/meat_dish/回锅肉/回锅肉.md
   source: howtocook
 - title: 土豆炖排骨
   category: meat_dish
@@ -6649,7 +6649,7 @@ recipes:
   - 肋排
   - 土豆
   - 姜
-  file: recipes\cooking\meat_dish\土豆炖排骨\土豆炖排骨.md
+  file: recipes/cooking/meat_dish/土豆炖排骨/土豆炖排骨.md
   source: howtocook
 - title: 奶酪培根通心粉
   category: meat_dish
@@ -6668,7 +6668,7 @@ recipes:
   - 通心粉
   - 奶酪
   - 肉类
-  file: recipes\cooking\meat_dish\奶酪培根通心粉\奶酪培根通心粉.md
+  file: recipes/cooking/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md
   source: howtocook
 - title: 姜炒鸡
   category: meat_dish
@@ -6689,7 +6689,7 @@ recipes:
   - 鸡
   - 生姜
   - 啤酒
-  file: recipes\cooking\meat_dish\姜炒鸡\姜炒鸡.md
+  file: recipes/cooking/meat_dish/姜炒鸡/姜炒鸡.md
   source: howtocook
 - title: 姜葱捞鸡
   category: meat_dish
@@ -6703,7 +6703,7 @@ recipes:
   - 鸡腿肉
   - 盐焗鸡粉
   - 葱，姜
-  file: recipes\cooking\meat_dish\姜葱捞鸡\姜葱捞鸡.md
+  file: recipes/cooking/meat_dish/姜葱捞鸡/姜葱捞鸡.md
   source: howtocook
 - title: 孜然牛肉
   category: meat_dish
@@ -6725,7 +6725,7 @@ recipes:
   - 牛柳或牛肩肉
   - 青椒
   - 孜然
-  file: recipes\cooking\meat_dish\孜然牛肉.md
+  file: recipes/cooking/meat_dish/孜然牛肉.md
   source: howtocook
 - title: 宫保鸡丁
   category: meat_dish
@@ -6753,7 +6753,7 @@ recipes:
   - 手枪腿
   - 大葱
   - 干辣椒
-  file: recipes\cooking\meat_dish\宫保鸡丁\宫保鸡丁.md
+  file: recipes/cooking/meat_dish/宫保鸡丁/宫保鸡丁.md
   source: howtocook
 - title: 小炒肉
   category: meat_dish
@@ -6775,7 +6775,7 @@ recipes:
   - 五花肉
   - 朝天椒
   - 小米椒
-  file: recipes\cooking\meat_dish\小炒肉.md
+  file: recipes/cooking/meat_dish/小炒肉.md
   source: howtocook
 - title: 小炒鸡肝
   category: meat_dish
@@ -6793,7 +6793,7 @@ recipes:
   - 生鸡肝
   - 蒜苗
   - 大葱、姜、料酒
-  file: recipes\cooking\meat_dish\小炒鸡肝\小炒鸡肝.md
+  file: recipes/cooking/meat_dish/小炒鸡肝/小炒鸡肝.md
   source: howtocook
 - title: 小炒黄牛肉
   category: meat_dish
@@ -6809,7 +6809,7 @@ recipes:
   - 牛里脊
   - 芹菜
   - 小米椒
-  file: recipes\cooking\meat_dish\小炒黄牛肉\小炒黄牛肉.md
+  file: recipes/cooking/meat_dish/小炒黄牛肉/小炒黄牛肉.md
   source: howtocook
 - title: 小米辣炒肉
   category: meat_dish
@@ -6832,7 +6832,7 @@ recipes:
   - 小米辣
   - 花生油
   - 五花肉/瘦肉
-  file: recipes\cooking\meat_dish\小米辣炒肉.md
+  file: recipes/cooking/meat_dish/小米辣炒肉.md
   source: howtocook
 - title: 小酥肉
   category: meat_dish
@@ -6860,7 +6860,7 @@ recipes:
   - 去皮猪肉
   - 植物油
   - 老姜
-  file: recipes\cooking\meat_dish\小酥肉.md
+  file: recipes/cooking/meat_dish/小酥肉.md
   source: howtocook
 - title: 尖叫牛蛙
   category: meat_dish
@@ -6886,7 +6886,7 @@ recipes:
   - 牛蛙肉
   - 泡姜
   - 泡椒
-  file: recipes\cooking\meat_dish\尖叫牛蛙\尖叫牛蛙.md
+  file: recipes/cooking/meat_dish/尖叫牛蛙/尖叫牛蛙.md
   source: howtocook
 - title: 尖椒炒牛肉
   category: meat_dish
@@ -6904,7 +6904,7 @@ recipes:
   - 牛肉
   - 葱、姜、蒜
   - 尖椒
-  file: recipes\cooking\meat_dish\尖椒炒牛肉.md
+  file: recipes/cooking/meat_dish/尖椒炒牛肉.md
   source: howtocook
 - title: 山西过油肉
   category: meat_dish
@@ -6930,7 +6930,7 @@ recipes:
   - 猪里脊
   - 蒜苔
   - 盐
-  file: recipes\cooking\meat_dish\山西过油肉.md
+  file: recipes/cooking/meat_dish/山西过油肉.md
   source: howtocook
 - title: 巴基斯坦牛肉咖喱
   category: meat_dish
@@ -6948,7 +6948,7 @@ recipes:
   - Masala 粉
   - 牛肉
   - 番茄
-  file: recipes\cooking\meat_dish\巴基斯坦牛肉咖喱\巴基斯坦牛肉咖喱.md
+  file: recipes/cooking/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md
   source: howtocook
 - title: 带把肘子
   category: meat_dish
@@ -6974,7 +6974,7 @@ recipes:
   - 带脚、爪猪前肘
   - 红豆腐乳
   - 甜面酱
-  file: recipes\cooking\meat_dish\带把肘子.md
+  file: recipes/cooking/meat_dish/带把肘子.md
   source: howtocook
 - title: 干煸仔鸡
   category: meat_dish
@@ -6998,7 +6998,7 @@ recipes:
   - 鸡腿
   - 土豆
   - 青椒
-  file: recipes\cooking\meat_dish\干煸仔鸡\干煸仔鸡.md
+  file: recipes/cooking/meat_dish/干煸仔鸡/干煸仔鸡.md
   source: howtocook
 - title: 广式萝卜牛腩
   category: meat_dish
@@ -7025,7 +7025,7 @@ recipes:
   - 牛腩
   - 白萝卜
   - 姜片
-  file: recipes\cooking\meat_dish\广式萝卜牛腩\广式萝卜牛腩.md
+  file: recipes/cooking/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md
   source: howtocook
 - title: 徽派红烧肉
   category: meat_dish
@@ -7048,7 +7048,7 @@ recipes:
   - 五花肉
   - 白砂糖
   - 食用油
-  file: recipes\cooking\meat_dish\徽派红烧肉\徽派红烧肉.md
+  file: recipes/cooking/meat_dish/徽派红烧肉/徽派红烧肉.md
   source: howtocook
 - title: 意式烤鸡
   category: meat_dish
@@ -7067,7 +7067,7 @@ recipes:
   - 鸡腿肉
   - 盐
   - 黑胡椒
-  file: recipes\cooking\meat_dish\意式烤鸡.md
+  file: recipes/cooking/meat_dish/意式烤鸡.md
   source: howtocook
 - title: 新疆大盘鸡
   category: meat_dish
@@ -7079,7 +7079,7 @@ recipes:
   tags:
   - 油，盐，生抽，蚝油，料酒
   - 鸡肉
-  file: recipes\cooking\meat_dish\新疆大盘鸡\新疆大盘鸡.md
+  file: recipes/cooking/meat_dish/新疆大盘鸡/新疆大盘鸡.md
   source: howtocook
 - title: 无骨鸡爪
   category: meat_dish
@@ -7105,7 +7105,7 @@ recipes:
   - 鸡爪
   - 姜
   - 料酒
-  file: recipes\cooking\meat_dish\无骨鸡爪\无骨鸡爪.md
+  file: recipes/cooking/meat_dish/无骨鸡爪/无骨鸡爪.md
   source: howtocook
 - title: 杀猪菜
   category: meat_dish
@@ -7128,7 +7128,7 @@ recipes:
   - 血肠
   - 酸菜
   - 排骨
-  file: recipes\cooking\meat_dish\杀猪菜.md
+  file: recipes/cooking/meat_dish/杀猪菜.md
   source: howtocook
 - title: 枝竹羊腩煲
   category: meat_dish
@@ -7157,7 +7157,7 @@ recipes:
   - 羊腩
   - 腐竹
   - 柱侯酱
-  file: recipes\cooking\meat_dish\枝竹羊腩煲\枝竹羊腩煲.md
+  file: recipes/cooking/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md
   source: howtocook
 - title: 柱候牛腩
   category: meat_dish
@@ -7171,7 +7171,7 @@ recipes:
   - 牛腩
   - 柱候酱
   - 花雕酒，白酒
-  file: recipes\cooking\meat_dish\柱候牛腩\柱候牛腩.md
+  file: recipes/cooking/meat_dish/柱候牛腩/柱候牛腩.md
   source: howtocook
 - title: 桂林十八酿
   category: meat_dish
@@ -7187,7 +7187,7 @@ recipes:
   - 原则
   - 猪肉馅
   - 虾滑馅
-  file: recipes\cooking\meat_dish\桂林十八酿\桂林十八酿.md
+  file: recipes/cooking/meat_dish/桂林十八酿/桂林十八酿.md
   source: howtocook
 - title: 梅菜扣肉
   category: meat_dish
@@ -7209,7 +7209,7 @@ recipes:
   - 五花肉
   - 梅菜
   - 五香粉
-  file: recipes\cooking\meat_dish\梅菜扣肉\梅菜扣肉.md
+  file: recipes/cooking/meat_dish/梅菜扣肉/梅菜扣肉.md
   source: howtocook
 - title: 椒盐排条
   category: meat_dish
@@ -7231,7 +7231,7 @@ recipes:
   - 大排
   - 鸡蛋
   - 盐
-  file: recipes\cooking\meat_dish\椒盐排条.md
+  file: recipes/cooking/meat_dish/椒盐排条.md
   source: howtocook
 - title: 水煮牛肉
   category: meat_dish
@@ -7254,7 +7254,7 @@ recipes:
   - 牛肉
   - 豆芽
   - 鸡蛋
-  file: recipes\cooking\meat_dish\水煮牛肉\水煮牛肉.md
+  file: recipes/cooking/meat_dish/水煮牛肉/水煮牛肉.md
   source: howtocook
 - title: 水煮肉片
   category: meat_dish
@@ -7288,7 +7288,7 @@ recipes:
   - 猪里脊肉
   - 食用盐
   - 胡椒粉
-  file: recipes\cooking\meat_dish\水煮肉片.md
+  file: recipes/cooking/meat_dish/水煮肉片.md
   source: howtocook
 - title: 洋葱炒猪肉
   category: meat_dish
@@ -7304,7 +7304,7 @@ recipes:
   - 洋葱
   - 猪肉片
   - 蕃茄酱
-  file: recipes\cooking\meat_dish\洋葱炒猪肉.md
+  file: recipes/cooking/meat_dish/洋葱炒猪肉.md
   source: howtocook
 - title: 淄博烧烤
   category: meat_dish
@@ -7324,7 +7324,7 @@ recipes:
   - 猪五花肉
   - 小薄饼
   - 大葱
-  file: recipes\cooking\meat_dish\淄博烧烤\淄博烧烤.md
+  file: recipes/cooking/meat_dish/淄博烧烤/淄博烧烤.md
   source: howtocook
 - title: 清蒸鳜鱼
   category: meat_dish
@@ -7342,7 +7342,7 @@ recipes:
   - 鳜鱼
   - 大葱
   - 小葱
-  file: recipes\cooking\meat_dish\清蒸鳜鱼\清蒸鳜鱼.md
+  file: recipes/cooking/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md
   source: howtocook
 - title: 湖南家常红烧肉
   category: meat_dish
@@ -7366,7 +7366,7 @@ recipes:
   - 带皮五花肉
   - 干小米椒🌶
   - 姜
-  file: recipes\cooking\meat_dish\湖南家常红烧肉\湖南家常红烧肉.md
+  file: recipes/cooking/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md
   source: howtocook
 - title: 湘祁米夫鸭
   category: meat_dish
@@ -7388,7 +7388,7 @@ recipes:
   - 鸭子
   - 糯米粉
   - 粘米粉
-  file: recipes\cooking\meat_dish\湘祁米夫鸭\湘祁米夫鸭.md
+  file: recipes/cooking/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md
   source: howtocook
 - title: 澳门湿版免治牛肉饭
   category: meat_dish
@@ -7412,7 +7412,7 @@ recipes:
   - 牛肉末
   - 洋葱
   - 鸡蛋
-  file: recipes\cooking\meat_dish\澳门湿版免治牛肉饭\澳门湿版免治牛肉饭.md
+  file: recipes/cooking/meat_dish/澳门湿版免治牛肉饭/澳门湿版免治牛肉饭.md
   source: howtocook
 - title: 烤鸡翅
   category: meat_dish
@@ -7429,7 +7429,7 @@ recipes:
   - 鸡翅中
   - 盐
   - 黑胡椒粉
-  file: recipes\cooking\meat_dish\烤鸡翅.md
+  file: recipes/cooking/meat_dish/烤鸡翅.md
   source: howtocook
 - title: 煎烤羊排
   category: meat_dish
@@ -7454,7 +7454,7 @@ recipes:
   - 羊排
   - 桂皮
   - 花椒
-  file: recipes\cooking\meat_dish\煎烤羊排\煎烤羊排.md
+  file: recipes/cooking/meat_dish/煎烤羊排/煎烤羊排.md
   source: howtocook
 - title: 牛排
   category: meat_dish
@@ -7475,7 +7475,7 @@ recipes:
   - 锡箔纸
   - 汤匙
   - 橄榄油
-  file: recipes\cooking\meat_dish\牛排\牛排.md
+  file: recipes/cooking/meat_dish/牛排/牛排.md
   source: howtocook
 - title: 猪皮冻
   category: meat_dish
@@ -7485,7 +7485,7 @@ recipes:
   - 猪皮
   tags:
   - 猪皮
-  file: recipes\cooking\meat_dish\猪皮冻\猪皮冻.md
+  file: recipes/cooking/meat_dish/猪皮冻/猪皮冻.md
   source: howtocook
 - title: 猪肉烩酸菜
   category: meat_dish
@@ -7507,7 +7507,7 @@ recipes:
   - 猪五花肉或猪肉排骨
   - 东北酸菜
   - 大葱
-  file: recipes\cooking\meat_dish\猪肉烩酸菜.md
+  file: recipes/cooking/meat_dish/猪肉烩酸菜.md
   source: howtocook
 - title: 甜辣烤全翅
   category: meat_dish
@@ -7530,7 +7530,7 @@ recipes:
   - 鸡全翅
   - 生抽
   - 老抽
-  file: recipes\cooking\meat_dish\甜辣烤全翅.md
+  file: recipes/cooking/meat_dish/甜辣烤全翅.md
   source: howtocook
 - title: 田螺酿
   category: meat_dish
@@ -7557,7 +7557,7 @@ recipes:
   - 大田螺
   - 猪肉
   - 新鲜薄荷叶
-  file: recipes\cooking\meat_dish\田螺酿\田螺酿.md
+  file: recipes/cooking/meat_dish/田螺酿/田螺酿.md
   source: howtocook
 - title: 番茄红酱
   category: meat_dish
@@ -7581,7 +7581,7 @@ recipes:
   - 碎牛肉
   - 蒜瓣
   - 胡萝卜
-  file: recipes\cooking\meat_dish\番茄红酱.md
+  file: recipes/cooking/meat_dish/番茄红酱.md
   source: howtocook
 - title: 瘦肉土豆片
   category: meat_dish
@@ -7599,7 +7599,7 @@ recipes:
   - 纯瘦肉
   - 土豆
   - 蒜苗
-  file: recipes\cooking\meat_dish\瘦肉土豆片\瘦肉土豆片.md
+  file: recipes/cooking/meat_dish/瘦肉土豆片/瘦肉土豆片.md
   source: howtocook
 - title: 白菜猪肉炖粉条
   category: meat_dish
@@ -7619,7 +7619,7 @@ recipes:
   - 五花肉
   - 白菜
   - 土豆干粉条
-  file: recipes\cooking\meat_dish\白菜猪肉炖粉条.md
+  file: recipes/cooking/meat_dish/白菜猪肉炖粉条.md
   source: howtocook
 - title: 空气炸锅脆皮现腌炸鸡
   category: meat_dish
@@ -7642,7 +7642,7 @@ recipes:
   - 新鲜鸡翅中
   - 生抽
   - 蒜粉
-  file: recipes\cooking\meat_dish\空气炸锅脆皮现腌炸鸡\空气炸锅脆皮现腌炸鸡.md
+  file: recipes/cooking/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md
   source: howtocook
 - title: 粉蒸肉
   category: meat_dish
@@ -7664,7 +7664,7 @@ recipes:
   - 五花肉
   - 蒸肉米粉
   - 生抽
-  file: recipes\cooking\meat_dish\粉蒸肉.md
+  file: recipes/cooking/meat_dish/粉蒸肉.md
   source: howtocook
 - title: 糖醋排骨
   category: meat_dish
@@ -7687,7 +7687,7 @@ recipes:
   - 排骨
   - 白砂糖
   - 食用油
-  file: recipes\cooking\meat_dish\糖醋排骨\糖醋排骨.md
+  file: recipes/cooking/meat_dish/糖醋排骨/糖醋排骨.md
   source: howtocook
 - title: 糖醋里脊
   category: meat_dish
@@ -7710,7 +7710,7 @@ recipes:
   - 里脊肉
   - 醋
   - 白糖
-  file: recipes\cooking\meat_dish\糖醋里脊.md
+  file: recipes/cooking/meat_dish/糖醋里脊.md
   source: howtocook
 - title: 红烧猪蹄
   category: meat_dish
@@ -7733,7 +7733,7 @@ recipes:
   - 猪蹄
   - 香叶
   - 姜
-  file: recipes\cooking\meat_dish\红烧猪蹄\红烧猪蹄.md
+  file: recipes/cooking/meat_dish/红烧猪蹄/红烧猪蹄.md
   source: howtocook
 - title: 南派红烧肉
   category: meat_dish
@@ -7745,7 +7745,7 @@ recipes:
   tags:
   - 主料
   - 辅料
-  file: recipes\cooking\meat_dish\红烧肉\南派红烧肉.md
+  file: recipes/cooking/meat_dish/红烧肉/南派红烧肉.md
   source: howtocook
 - title: 简易红烧肉
   category: meat_dish
@@ -7757,7 +7757,7 @@ recipes:
   tags:
   - 主料
   - 辅料
-  file: recipes\cooking\meat_dish\红烧肉\简易红烧肉.md
+  file: recipes/cooking/meat_dish/红烧肉/简易红烧肉.md
   source: howtocook
 - title: 红烧鸡翅
   category: meat_dish
@@ -7785,7 +7785,7 @@ recipes:
   - 新鲜鸡翅
   - 姜片
   - 葱段
-  file: recipes\cooking\meat_dish\红烧鸡翅.md
+  file: recipes/cooking/meat_dish/红烧鸡翅.md
   source: howtocook
 - title: 羊排焖面
   category: meat_dish
@@ -7805,7 +7805,7 @@ recipes:
   - 带皮羊排肉
   - 青椒
   - 甜椒
-  file: recipes\cooking\meat_dish\羊排焖面\羊排焖面.md
+  file: recipes/cooking/meat_dish/羊排焖面/羊排焖面.md
   source: howtocook
 - title: 老妈蹄花
   category: meat_dish
@@ -7832,7 +7832,7 @@ recipes:
   - 猪蹄
   - 葱
   - 姜
-  file: recipes\cooking\meat_dish\老妈蹄花\老妈蹄花.md
+  file: recipes/cooking/meat_dish/老妈蹄花/老妈蹄花.md
   source: howtocook
 - title: 老式锅包肉
   category: meat_dish
@@ -7858,7 +7858,7 @@ recipes:
   - 猪通脊肉
   - 大葱
   - 姜
-  file: recipes\cooking\meat_dish\老式锅包肉\老式锅包肉.md
+  file: recipes/cooking/meat_dish/老式锅包肉/老式锅包肉.md
   source: howtocook
 - title: 肉饼炖蛋
   category: meat_dish
@@ -7876,7 +7876,7 @@ recipes:
   - 猪肉末
   - 鸡蛋
   - 料酒
-  file: recipes\cooking\meat_dish\肉饼炖蛋.md
+  file: recipes/cooking/meat_dish/肉饼炖蛋.md
   source: howtocook
 - title: 腐乳肉
   category: meat_dish
@@ -7897,7 +7897,7 @@ recipes:
   - 带皮五花肉
   - 红腐乳
   - 冰糖
-  file: recipes\cooking\meat_dish\腐乳肉.md
+  file: recipes/cooking/meat_dish/腐乳肉.md
   source: howtocook
 - title: 芥末罗氏虾
   category: meat_dish
@@ -7920,7 +7920,7 @@ recipes:
   - 罗氏虾
   - 蒜
   - 青芥末
-  file: recipes\cooking\meat_dish\芥末罗氏虾\芥末罗氏虾.md
+  file: recipes/cooking/meat_dish/芥末罗氏虾/芥末罗氏虾.md
   source: howtocook
 - title: 茭白炒肉
   category: meat_dish
@@ -7940,7 +7940,7 @@ recipes:
   - 茭白
   - 瘦肉
   - 淀粉
-  file: recipes\cooking\meat_dish\茭白炒肉\茭白炒肉.md
+  file: recipes/cooking/meat_dish/茭白炒肉/茭白炒肉.md
   source: howtocook
 - title: 荔枝肉
   category: meat_dish
@@ -7963,7 +7963,7 @@ recipes:
   - 瘦肉
   - 凤梨
   - 鸡蛋
-  file: recipes\cooking\meat_dish\荔枝肉\荔枝肉.md
+  file: recipes/cooking/meat_dish/荔枝肉/荔枝肉.md
   source: howtocook
 - title: 荷兰豆炒腊肠
   category: meat_dish
@@ -7978,7 +7978,7 @@ recipes:
   - 荷兰豆
   - 腊肠
   - 生抽
-  file: recipes\cooking\meat_dish\荷兰豆炒腊肠\荷兰豆炒腊肠.md
+  file: recipes/cooking/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md
   source: howtocook
 - title: 萝卜炖羊排
   category: meat_dish
@@ -8000,7 +8000,7 @@ recipes:
   - 羊排
   - 白萝卜
   - 大葱
-  file: recipes\cooking\meat_dish\萝卜炖羊排.md
+  file: recipes/cooking/meat_dish/萝卜炖羊排.md
   source: howtocook
 - title: 蒜苔炒肉末
   category: meat_dish
@@ -8018,7 +8018,7 @@ recipes:
   - 五花肉薄片
   - 蒜苔
   - 食用盐
-  file: recipes\cooking\meat_dish\蒜苔炒肉末.md
+  file: recipes/cooking/meat_dish/蒜苔炒肉末.md
   source: howtocook
 - title: 虎皮肘子
   category: meat_dish
@@ -8048,7 +8048,7 @@ recipes:
   - 猪前肘
   - 食用植物油
   - 冰糖
-  file: recipes\cooking\meat_dish\虎皮肘子.md
+  file: recipes/cooking/meat_dish/虎皮肘子.md
   source: howtocook
 - title: 蚂蚁上树
   category: meat_dish
@@ -8068,7 +8068,7 @@ recipes:
   - 红薯粉丝
   - 猪肉末
   - 郫县豆瓣酱
-  file: recipes\cooking\meat_dish\蚂蚁上树.md
+  file: recipes/cooking/meat_dish/蚂蚁上树.md
   source: howtocook
 - title: 血浆鸭
   category: meat_dish
@@ -8090,7 +8090,7 @@ recipes:
   - 鲜仔鸭肉
   - 鲜鸭血
   - 姜
-  file: recipes\cooking\meat_dish\血浆鸭\血浆鸭.md
+  file: recipes/cooking/meat_dish/血浆鸭/血浆鸭.md
   source: howtocook
 - title: 西红柿土豆炖牛肉
   category: meat_dish
@@ -8116,7 +8116,7 @@ recipes:
   - 牛肉
   - 小料
   - 葱
-  file: recipes\cooking\meat_dish\西红柿土豆炖牛肉\西红柿土豆炖牛肉.md
+  file: recipes/cooking/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md
   source: howtocook
 - title: 西红柿牛腩
   category: meat_dish
@@ -8130,7 +8130,7 @@ recipes:
   - 西红柿
   - 牛腩
   - 燃气灶
-  file: recipes\cooking\meat_dish\西红柿牛腩\西红柿牛腩.md
+  file: recipes/cooking/meat_dish/西红柿牛腩/西红柿牛腩.md
   source: howtocook
 - title: 豆豉鲮鱼油麦菜
   category: meat_dish
@@ -8147,7 +8147,7 @@ recipes:
   - 油麦菜
   - 甘竹牌鲮鱼罐头
   - 蒜
-  file: recipes\cooking\meat_dish\豆豉鲮鱼油麦菜\豆豉鲮鱼油麦菜.md
+  file: recipes/cooking/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md
   source: howtocook
 - title: 豉汁排骨
   category: meat_dish
@@ -8172,7 +8172,7 @@ recipes:
   - 肋排
   - 阳江豆豉
   - 蒜蓉
-  file: recipes\cooking\meat_dish\豉汁排骨.md
+  file: recipes/cooking/meat_dish/豉汁排骨.md
   source: howtocook
 - title: 豉汁蒸白鱔
   category: meat_dish
@@ -8194,7 +8194,7 @@ recipes:
   - 白鱔
   - 豆豉
   - 蒜头
-  file: recipes\cooking\meat_dish\豉汁蒸白鱔\豉汁蒸白鱔.md
+  file: recipes/cooking/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md
   source: howtocook
 - title: 贵州辣子鸡
   category: meat_dish
@@ -8218,7 +8218,7 @@ recipes:
   - 农村玉米鸡
   - 土豆
   - 大蒜
-  file: recipes\cooking\meat_dish\贵州辣子鸡\贵州辣子鸡.md
+  file: recipes/cooking/meat_dish/贵州辣子鸡/贵州辣子鸡.md
   source: howtocook
 - title: 辣椒炒肉
   category: meat_dish
@@ -8239,7 +8239,7 @@ recipes:
   - 青椒
   - 猪瘦肉
   - 盐
-  file: recipes\cooking\meat_dish\辣椒炒肉.md
+  file: recipes/cooking/meat_dish/辣椒炒肉.md
   source: howtocook
 - title: 酱排骨
   category: meat_dish
@@ -8261,7 +8261,7 @@ recipes:
   - 排骨
   - 五香粉
   - 料酒
-  file: recipes\cooking\meat_dish\酱排骨\酱排骨.md
+  file: recipes/cooking/meat_dish/酱排骨/酱排骨.md
   source: howtocook
 - title: 酱牛肉
   category: meat_dish
@@ -8285,7 +8285,7 @@ recipes:
   - 牛腱子肉
   - 香叶
   - 姜
-  file: recipes\cooking\meat_dish\酱牛肉\酱牛肉.md
+  file: recipes/cooking/meat_dish/酱牛肉/酱牛肉.md
   source: howtocook
 - title: 醉排骨
   category: meat_dish
@@ -8307,7 +8307,7 @@ recipes:
   - 排骨
   - 白砂糖
   - 食用油
-  file: recipes\cooking\meat_dish\醉排骨\醉排骨.md
+  file: recipes/cooking/meat_dish/醉排骨/醉排骨.md
   source: howtocook
 - title: 青椒土豆炒肉
   category: meat_dish
@@ -8327,7 +8327,7 @@ recipes:
   - 青椒
   - 土豆
   - 猪肉
-  file: recipes\cooking\meat_dish\青椒土豆炒肉\青椒土豆炒肉.md
+  file: recipes/cooking/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md
   source: howtocook
 - title: 青椒酿
   category: meat_dish
@@ -8353,7 +8353,7 @@ recipes:
   - 青椒
   - 猪肉
   - 葱
-  file: recipes\cooking\meat_dish\青椒酿\青椒酿.md
+  file: recipes/cooking/meat_dish/青椒酿/青椒酿.md
   source: howtocook
 - title: 香干肉丝
   category: meat_dish
@@ -8373,7 +8373,7 @@ recipes:
   - 猪里脊
   - 香干
   - 盐
-  file: recipes\cooking\meat_dish\香干肉丝.md
+  file: recipes/cooking/meat_dish/香干肉丝.md
   source: howtocook
 - title: 香干芹菜炒肉
   category: meat_dish
@@ -8395,7 +8395,7 @@ recipes:
   - 豆干
   - 香芹/芹菜
   - 猪肉
-  file: recipes\cooking\meat_dish\香干芹菜炒肉\香干芹菜炒肉.md
+  file: recipes/cooking/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md
   source: howtocook
 - title: 香煎五花肉
   category: meat_dish
@@ -8407,7 +8407,7 @@ recipes:
   tags:
   - 五花肉条
   - 生菜
-  file: recipes\cooking\meat_dish\香煎五花肉\香煎五花肉.md
+  file: recipes/cooking/meat_dish/香煎五花肉/香煎五花肉.md
   source: howtocook
 - title: 香菇滑鸡
   category: meat_dish
@@ -8423,7 +8423,7 @@ recipes:
   - 大鸡腿
   - 干香菇
   - 姜
-  file: recipes\cooking\meat_dish\香菇滑鸡\香菇滑鸡.md
+  file: recipes/cooking/meat_dish/香菇滑鸡/香菇滑鸡.md
   source: howtocook
 - title: 香辣鸡爪煲
   category: meat_dish
@@ -8449,7 +8449,7 @@ recipes:
   - 鸡爪
   - 葱
   - 姜
-  file: recipes\cooking\meat_dish\香辣鸡爪煲\香辣鸡爪煲.md
+  file: recipes/cooking/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md
   source: howtocook
 - title: 鱼香肉丝
   category: meat_dish
@@ -8476,7 +8476,7 @@ recipes:
   - 里脊肉
   - 胡萝卜
   - 青椒
-  file: recipes\cooking\meat_dish\鱼香肉丝.md
+  file: recipes/cooking/meat_dish/鱼香肉丝.md
   source: howtocook
 - title: 鱼香茄子
   category: meat_dish
@@ -8497,7 +8497,7 @@ recipes:
   - 茄子
   - 肉末
   - 盐
-  file: recipes\cooking\meat_dish\鱼香茄子\鱼香茄子.md
+  file: recipes/cooking/meat_dish/鱼香茄子/鱼香茄子.md
   source: howtocook
 - title: 麻婆豆腐
   category: meat_dish
@@ -8518,7 +8518,7 @@ recipes:
   - 内脂豆腐
   - 咸鸭蛋
   - 五花肉
-  file: recipes\cooking\meat_dish\麻婆豆腐\麻婆豆腐.md
+  file: recipes/cooking/meat_dish/麻婆豆腐/麻婆豆腐.md
   source: howtocook
 - title: 麻辣香锅
   category: meat_dish
@@ -8535,7 +8535,7 @@ recipes:
   - 青菜
   - 无骨肉
   - 干豆腐
-  file: recipes\cooking\meat_dish\麻辣香锅.md
+  file: recipes/cooking/meat_dish/麻辣香锅.md
   source: howtocook
 - title: 黄油鸡
   category: meat_dish
@@ -8567,7 +8567,7 @@ recipes:
   - 鸡腿肉
   - 酸奶
   - 黄油
-  file: recipes\cooking\meat_dish\黄油鸡.md
+  file: recipes/cooking/meat_dish/黄油鸡.md
   source: howtocook
 - title: 黄焖鸡
   category: meat_dish
@@ -8591,7 +8591,7 @@ recipes:
   - 鸡腿
   - 香菇
   - 青椒
-  file: recipes\cooking\meat_dish\黄焖鸡.md
+  file: recipes/cooking/meat_dish/黄焖鸡.md
   source: howtocook
 - title: 黄瓜炒肉
   category: meat_dish
@@ -8610,7 +8610,7 @@ recipes:
   - 黄瓜
   - 猪瘦肉
   - 食用油
-  file: recipes\cooking\meat_dish\黄瓜炒肉.md
+  file: recipes/cooking/meat_dish/黄瓜炒肉.md
   source: howtocook
 - title: 黑椒牛柳
   category: meat_dish
@@ -8629,7 +8629,7 @@ recipes:
   - 牛肉
   - 洋葱
   - 菜椒
-  file: recipes\cooking\meat_dish\黑椒牛柳\黑椒牛柳.md
+  file: recipes/cooking/meat_dish/黑椒牛柳/黑椒牛柳.md
   source: howtocook
 - title: 黔式腊肠娃娃菜
   category: meat_dish
@@ -8641,7 +8641,7 @@ recipes:
   tags:
   - 黔式腊肠
   - 娃娃菜
-  file: recipes\cooking\meat_dish\黔式腊肠娃娃菜\黔式腊肠娃娃菜.md
+  file: recipes/cooking/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md
   source: howtocook
 - title: 凉皮
   category: semi-finished
@@ -8654,7 +8654,7 @@ recipes:
   - 半成品
   - 凉皮、面筋
   - 黄瓜、大蒜、绿豆芽
-  file: recipes\cooking\semi-finished\凉皮.md
+  file: recipes/cooking/semi-finished/凉皮.md
   source: howtocook
 - title: 半成品意面
   category: semi-finished
@@ -8663,7 +8663,7 @@ recipes:
   ingredients: []
   tags:
   - 半成品
-  file: recipes\cooking\semi-finished\半成品意面.md
+  file: recipes/cooking/semi-finished/半成品意面.md
   source: howtocook
 - title: 懒人蛋挞
   category: semi-finished
@@ -8675,7 +8675,7 @@ recipes:
   tags:
   - 隔热手套
   - 网购蛋挞液
-  file: recipes\cooking\semi-finished\懒人蛋挞\懒人蛋挞.md
+  file: recipes/cooking/semi-finished/懒人蛋挞/懒人蛋挞.md
   source: howtocook
 - title: 炸薯条
   category: semi-finished
@@ -8683,7 +8683,7 @@ recipes:
   difficulty: 2
   ingredients: []
   tags: []
-  file: recipes\cooking\semi-finished\炸薯条\炸薯条.md
+  file: recipes/cooking/semi-finished/炸薯条/炸薯条.md
   source: howtocook
 - title: 牛油火锅底料
   category: semi-finished
@@ -8727,7 +8727,7 @@ recipes:
   - 牛油
   - 纯猪油
   - 豆瓣
-  file: recipes\cooking\semi-finished\牛油火锅底料.md
+  file: recipes/cooking/semi-finished/牛油火锅底料.md
   source: howtocook
 - title: 空气炸锅羊排
   category: semi-finished
@@ -8739,7 +8739,7 @@ recipes:
   tags:
   - 必备
   - 可选
-  file: recipes\cooking\semi-finished\空气炸锅羊排\空气炸锅羊排.md
+  file: recipes/cooking/semi-finished/空气炸锅羊排/空气炸锅羊排.md
   source: howtocook
 - title: 空气炸锅鸡翅中
   category: semi-finished
@@ -8751,7 +8751,7 @@ recipes:
   tags:
   - 必备
   - 可选
-  file: recipes\cooking\semi-finished\空气炸锅鸡翅中\空气炸锅鸡翅中.md
+  file: recipes/cooking/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md
   source: howtocook
 - title: 速冻水饺
   category: semi-finished
@@ -8762,7 +8762,7 @@ recipes:
   tags:
   - 半成品
   - 未过期的一袋速冻水饺
-  file: recipes\cooking\semi-finished\速冻水饺.md
+  file: recipes/cooking/semi-finished/速冻水饺.md
   source: howtocook
 - title: 速冻汤圆
   category: semi-finished
@@ -8772,7 +8772,7 @@ recipes:
   - 速冻汤圆
   tags:
   - 速冻汤圆
-  file: recipes\cooking\semi-finished\速冻汤圆\速冻汤圆.md
+  file: recipes/cooking/semi-finished/速冻汤圆/速冻汤圆.md
   source: howtocook
 - title: 速冻馄饨
   category: semi-finished
@@ -8791,7 +8791,7 @@ recipes:
   - 未过期的一袋速冻馄饨
   - 电饭煲
   - 盐
-  file: recipes\cooking\semi-finished\速冻馄饨.md
+  file: recipes/cooking/semi-finished/速冻馄饨.md
   source: howtocook
 - title: 勾芡香菇汤
   category: soup
@@ -8808,7 +8808,7 @@ recipes:
   - 香菇
   - 香葱
   - 食用油
-  file: recipes\cooking\soup\勾芡香菇汤\勾芡香菇汤.md
+  file: recipes/cooking/soup/勾芡香菇汤/勾芡香菇汤.md
   source: howtocook
 - title: 奶油蘑菇汤
   category: soup
@@ -8829,7 +8829,7 @@ recipes:
   - 白蘑菇
   - 洋葱
   - 黄油
-  file: recipes\cooking\soup\奶油蘑菇汤.md
+  file: recipes/cooking/soup/奶油蘑菇汤.md
   source: howtocook
 - title: 小米粥
   category: soup
@@ -8842,7 +8842,7 @@ recipes:
   - 汤羹
   - 小米
   - 水
-  file: recipes\cooking\soup\小米粥.md
+  file: recipes/cooking/soup/小米粥.md
   source: howtocook
 - title: 排骨山药玉米汤
   category: soup
@@ -8861,7 +8861,7 @@ recipes:
   - 排骨
   - 山药
   - 胡萝卜
-  file: recipes\cooking\soup\排骨山药玉米汤\排骨山药玉米汤.md
+  file: recipes/cooking/soup/排骨山药玉米汤/排骨山药玉米汤.md
   source: howtocook
 - title: 排骨苦瓜汤
   category: soup
@@ -8875,7 +8875,7 @@ recipes:
   - 排骨
   - 苦瓜
   - 虾皮
-  file: recipes\cooking\soup\排骨苦瓜汤\排骨苦瓜汤.md
+  file: recipes/cooking/soup/排骨苦瓜汤/排骨苦瓜汤.md
   source: howtocook
 - title: 昂刺鱼豆腐汤
   category: soup
@@ -8894,7 +8894,7 @@ recipes:
   - 昂刺鱼或者沙光鱼
   - 豆腐
   - 香葱
-  file: recipes\cooking\soup\昂刺鱼豆腐汤\昂刺鱼豆腐汤.md
+  file: recipes/cooking/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md
   source: howtocook
 - title: 朱雀汤
   category: soup
@@ -8909,7 +8909,7 @@ recipes:
   - 鸡蛋
   - 香油
   - 白糖
-  file: recipes\cooking\soup\朱雀汤\朱雀汤.md
+  file: recipes/cooking/soup/朱雀汤/朱雀汤.md
   source: howtocook
 - title: 玉米排骨汤
   category: soup
@@ -8930,7 +8930,7 @@ recipes:
   - 排骨
   - 玉米
   - 胡箩卜
-  file: recipes\cooking\soup\玉米排骨汤\玉米排骨汤.md
+  file: recipes/cooking/soup/玉米排骨汤/玉米排骨汤.md
   source: howtocook
 - title: 生汆丸子汤
   category: soup
@@ -8955,7 +8955,7 @@ recipes:
   - 前腿肉
   - 盐
   - 胡椒粉
-  file: recipes\cooking\soup\生汆丸子汤.md
+  file: recipes/cooking/soup/生汆丸子汤.md
   source: howtocook
 - title: 番茄牛肉蛋花汤
   category: soup
@@ -8973,7 +8973,7 @@ recipes:
   - 牛肉
   - 番茄
   - 鸡蛋
-  file: recipes\cooking\soup\番茄牛肉蛋花汤.md
+  file: recipes/cooking/soup/番茄牛肉蛋花汤.md
   source: howtocook
 - title: 皮蛋瘦肉粥
   category: soup
@@ -8998,7 +8998,7 @@ recipes:
   - 饮用水
   - 皮蛋
   - 瘦肉
-  file: recipes\cooking\soup\皮蛋瘦肉粥.md
+  file: recipes/cooking/soup/皮蛋瘦肉粥.md
   source: howtocook
 - title: 米粥
   category: soup
@@ -9013,7 +9013,7 @@ recipes:
   - 米
   - 水
   - 植物油
-  file: recipes\cooking\soup\米粥.md
+  file: recipes/cooking/soup/米粥.md
   source: howtocook
 - title: 紫菜蛋花汤
   category: soup
@@ -9032,7 +9032,7 @@ recipes:
   - 鸡蛋
   - 紫菜
   - 葱花
-  file: recipes\cooking\soup\紫菜蛋花汤.md
+  file: recipes/cooking/soup/紫菜蛋花汤.md
   source: howtocook
 - title: 罗宋汤
   category: soup
@@ -9048,7 +9048,7 @@ recipes:
   - 蔬菜高汤
   - 牛肉高汤
   - 牛肉
-  file: recipes\cooking\soup\罗宋汤.md
+  file: recipes/cooking/soup/罗宋汤.md
   source: howtocook
 - title: 羊肉汤
   category: soup
@@ -9067,7 +9067,7 @@ recipes:
   - 羊肉或羊杂
   - 食用油
   - 料酒
-  file: recipes\cooking\soup\羊肉汤\羊肉汤.md
+  file: recipes/cooking/soup/羊肉汤/羊肉汤.md
   source: howtocook
 - title: 腊八粥
   category: soup
@@ -9098,7 +9098,7 @@ recipes:
   - 饮用水
   - 大米
   - 糯米
-  file: recipes\cooking\soup\腊八粥.md
+  file: recipes/cooking/soup/腊八粥.md
   source: howtocook
 - title: 菌菇炖乳鸽
   category: soup
@@ -9115,7 +9115,7 @@ recipes:
   - 乳鸽
   - 菌菇
   - 玉米
-  file: recipes\cooking\soup\菌菇炖乳鸽\菌菇炖乳鸽.md
+  file: recipes/cooking/soup/菌菇炖乳鸽/菌菇炖乳鸽.md
   source: howtocook
 - title: 西红柿鸡蛋汤
   category: soup
@@ -9133,7 +9133,7 @@ recipes:
   - 西红柿
   - 鸡蛋
   - 香油
-  file: recipes\cooking\soup\西红柿鸡蛋汤.md
+  file: recipes/cooking/soup/西红柿鸡蛋汤.md
   source: howtocook
 - title: 金针菇汤
   category: soup
@@ -9146,7 +9146,7 @@ recipes:
   - 汤羹
   - 金针菇
   - 鸡蛋
-  file: recipes\cooking\soup\金针菇汤.md
+  file: recipes/cooking/soup/金针菇汤.md
   source: howtocook
 - title: 银耳莲子粥
   category: soup
@@ -9162,7 +9162,7 @@ recipes:
   - 银耳
   - 去心莲子
   - 红枣
-  file: recipes\cooking\soup\银耳莲子粥\银耳莲子粥.md
+  file: recipes/cooking/soup/银耳莲子粥/银耳莲子粥.md
   source: howtocook
 - title: 陈皮排骨汤
   category: soup
@@ -9181,7 +9181,7 @@ recipes:
   - 排骨
   - 陈皮
   - 西洋参
-  file: recipes\cooking\soup\陈皮排骨汤\陈皮排骨汤.md
+  file: recipes/cooking/soup/陈皮排骨汤/陈皮排骨汤.md
   source: howtocook
 - title: 陈皮排骨汤
   category: soup
@@ -9201,7 +9201,7 @@ recipes:
   - 排骨
   - 陈皮
   - 西洋参
-  file: recipes\cooking\soup\陈皮排骨汤.md
+  file: recipes/cooking/soup/陈皮排骨汤.md
   source: howtocook
 - title: 黄瓜皮蛋汤
   category: soup
@@ -9220,7 +9220,7 @@ recipes:
   - 黄瓜
   - 皮蛋
   - 大蒜
-  file: recipes\cooking\soup\黄瓜皮蛋汤.md
+  file: recipes/cooking/soup/黄瓜皮蛋汤.md
   source: howtocook
 - title: 中式馅饼
   category: staple
@@ -9243,7 +9243,7 @@ recipes:
   - 面粉
   - 肉沫
   - 油
-  file: recipes\cooking\staple\中式馅饼\中式馅饼.md
+  file: recipes/cooking/staple/中式馅饼/中式馅饼.md
   source: howtocook
 - title: 凉粉
   category: staple
@@ -9265,7 +9265,7 @@ recipes:
   - 豌豆淀粉
   - 大蒜
   - 小米辣
-  file: recipes\cooking\staple\凉粉\凉粉.md
+  file: recipes/cooking/staple/凉粉/凉粉.md
   source: howtocook
 - title: 利提巧卡
   category: staple
@@ -9295,7 +9295,7 @@ recipes:
   - 全麦面粉
   - 烤鹰嘴豆粉
   - 茄子
-  file: recipes\cooking\staple\利提巧卡.md
+  file: recipes/cooking/staple/利提巧卡.md
   source: howtocook
 - title: 印度烤饼
   category: staple
@@ -9318,7 +9318,7 @@ recipes:
   - 中筋面粉
   - 酸奶
   - 酵母
-  file: recipes\cooking\staple\印度烤饼.md
+  file: recipes/cooking/staple/印度烤饼.md
   source: howtocook
 - title: 印度焖饭
   category: staple
@@ -9349,7 +9349,7 @@ recipes:
   - 巴斯马蒂长粒香米
   - 鸡腿肉
   - 酸奶
-  file: recipes\cooking\staple\印度焖饭.md
+  file: recipes/cooking/staple/印度焖饭.md
   source: howtocook
 - title: 可乐炒饭
   category: staple
@@ -9372,7 +9372,7 @@ recipes:
   - 米饭
   - 可乐
   - 鸡蛋
-  file: recipes\cooking\staple\可乐炒饭.md
+  file: recipes/cooking/staple/可乐炒饭.md
   source: howtocook
 - title: 咸肉菜饭
   category: staple
@@ -9392,7 +9392,7 @@ recipes:
   - 大米
   - 青菜
   - 咸肉
-  file: recipes\cooking\staple\咸肉菜饭.md
+  file: recipes/cooking/staple/咸肉菜饭.md
   source: howtocook
 - title: 基础牛奶面包
   category: staple
@@ -9416,7 +9416,7 @@ recipes:
   - 高筋或中筋面粉 *
   - 鸡蛋 *
   - 糖 *
-  file: recipes\cooking\staple\基础牛奶面包\基础牛奶面包.md
+  file: recipes/cooking/staple/基础牛奶面包/基础牛奶面包.md
   source: howtocook
 - title: 微波炉腊肠煲仔饭
   category: staple
@@ -9428,7 +9428,7 @@ recipes:
   tags:
   - 工具
   - 原料
-  file: recipes\cooking\staple\微波炉腊肠煲仔饭\微波炉腊肠煲仔饭.md
+  file: recipes/cooking/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md
   source: howtocook
 - title: 意式肉酱面
   category: staple
@@ -9443,7 +9443,7 @@ recipes:
   - 意大利面
   - 意大利面酱
   - 肉沫
-  file: recipes\cooking\staple\意式肉酱面\意式肉酱面.md
+  file: recipes/cooking/staple/意式肉酱面/意式肉酱面.md
   source: howtocook
 - title: 手工水饺
   category: staple
@@ -9460,7 +9460,7 @@ recipes:
   - 擀面杖
   - 面粉
   - 冷水
-  file: recipes\cooking\staple\手工水饺.md
+  file: recipes/cooking/staple/手工水饺.md
   source: howtocook
 - title: 扬州炒饭
   category: staple
@@ -9481,7 +9481,7 @@ recipes:
   - 冷饭
   - 鸡蛋
   - 冷冻去皮基围虾
-  file: recipes\cooking\staple\扬州炒饭\扬州炒饭.md
+  file: recipes/cooking/staple/扬州炒饭/扬州炒饭.md
   source: howtocook
 - title: 披萨饼皮
   category: staple
@@ -9500,7 +9500,7 @@ recipes:
   - 中筋面粉
   - 水
   - 安琪干酵母粉
-  file: recipes\cooking\staple\披萨饼皮\披萨饼皮.md
+  file: recipes/cooking/staple/披萨饼皮/披萨饼皮.md
   source: howtocook
 - title: 日式咖喱饭
   category: staple
@@ -9520,7 +9520,7 @@ recipes:
   - 咖喱块
   - 土豆
   - 胡萝卜
-  file: recipes\cooking\staple\日式咖喱饭\日式咖喱饭.md
+  file: recipes/cooking/staple/日式咖喱饭/日式咖喱饭.md
   source: howtocook
 - title: 日式肥牛丼饭
   category: staple
@@ -9537,7 +9537,7 @@ recipes:
   - 洋葱
   - 葱
   - 白芝麻
-  file: recipes\cooking\staple\日式肥牛丼饭\日式肥牛丼饭.md
+  file: recipes/cooking/staple/日式肥牛丼饭/日式肥牛丼饭.md
   source: howtocook
 - title: 汤面
   category: staple
@@ -9550,7 +9550,7 @@ recipes:
   - 主食
   - 面食材料
   - 菜类材料
-  file: recipes\cooking\staple\汤面.md
+  file: recipes/cooking/staple/汤面.md
   source: howtocook
 - title: 河南蒸面条
   category: staple
@@ -9570,7 +9570,7 @@ recipes:
   - 挂面
   - 五花肉
   - 蒜薹
-  file: recipes\cooking\staple\河南蒸面条\河南蒸面条.md
+  file: recipes/cooking/staple/河南蒸面条/河南蒸面条.md
   source: howtocook
 - title: 火腿饭团
   category: staple
@@ -9588,7 +9588,7 @@ recipes:
   - 火腿
   - 米饭
   - 水
-  file: recipes\cooking\staple\火腿饭团\火腿饭团.md
+  file: recipes/cooking/staple/火腿饭团/火腿饭团.md
   source: howtocook
 - title: 炒凉粉
   category: staple
@@ -9610,7 +9610,7 @@ recipes:
   - 凉粉
   - 玉米油
   - 大蒜
-  file: recipes\cooking\staple\炒凉粉\炒凉粉.md
+  file: recipes/cooking/staple/炒凉粉/炒凉粉.md
   source: howtocook
 - title: 炒年糕
   category: staple
@@ -9625,7 +9625,7 @@ recipes:
   - 年糕/白粿
   - 葱
   - 调味料
-  file: recipes\cooking\staple\炒年糕.md
+  file: recipes/cooking/staple/炒年糕.md
   source: howtocook
 - title: 炒意大利面
   category: staple
@@ -9640,7 +9640,7 @@ recipes:
   - 意大利面
   - 肥牛片
   - 番茄酱 / 黑胡椒酱
-  file: recipes\cooking\staple\炒意大利面\炒意大利面.md
+  file: recipes/cooking/staple/炒意大利面/炒意大利面.md
   source: howtocook
 - title: 炒方便面
   category: staple
@@ -9654,7 +9654,7 @@ recipes:
   - 方便面
   - 鸡蛋
   - 火腿肠
-  file: recipes\cooking\staple\炒方便面\炒方便面.md
+  file: recipes/cooking/staple/炒方便面/炒方便面.md
   source: howtocook
 - title: 炒河粉
   category: staple
@@ -9669,7 +9669,7 @@ recipes:
   - 炒河粉、猪肉/牛肉
   - 炒料
   - 其他调味料
-  file: recipes\cooking\staple\炒河粉.md
+  file: recipes/cooking/staple/炒河粉.md
   source: howtocook
 - title: 炒馍
   category: staple
@@ -9688,7 +9688,7 @@ recipes:
   - 馒头
   - 盐
   - 油
-  file: recipes\cooking\staple\炒馍.md
+  file: recipes/cooking/staple/炒馍.md
   source: howtocook
 - title: 炸酱面
   category: staple
@@ -9706,7 +9706,7 @@ recipes:
   - 肉丁/肉末
   - 面条
   - 蒜
-  file: recipes\cooking\staple\炸酱面.md
+  file: recipes/cooking/staple/炸酱面.md
   source: howtocook
 - title: 烙饼
   category: staple
@@ -9720,7 +9720,7 @@ recipes:
   - 油
   - 面粉
   - 电饼铛
-  file: recipes\cooking\staple\烙饼\烙饼.md
+  file: recipes/cooking/staple/烙饼/烙饼.md
   source: howtocook
 - title: 芝麻烧饼
   category: staple
@@ -9737,7 +9737,7 @@ recipes:
   - 面粉
   - 酵母粉
   - 白糖
-  file: recipes\cooking\staple\烧饼\芝麻烧饼.md
+  file: recipes/cooking/staple/烧饼/芝麻烧饼.md
   source: howtocook
 - title: 热干面
   category: staple
@@ -9762,7 +9762,7 @@ recipes:
   - 热干面特有的碱水面
   - 小葱
   - 酸豆角
-  file: recipes\cooking\staple\热干面.md
+  file: recipes/cooking/staple/热干面.md
   source: howtocook
 - title: 照烧鸡腿饭
   category: staple
@@ -9789,7 +9789,7 @@ recipes:
   - 鸡腿
   - 料酒
   - 生抽
-  file: recipes\cooking\staple\照烧鸡腿饭.md
+  file: recipes/cooking/staple/照烧鸡腿饭.md
   source: howtocook
 - title: 煮泡面加蛋
   category: staple
@@ -9804,7 +9804,7 @@ recipes:
   - 泡面
   - 鸡蛋
   - 水
-  file: recipes\cooking\staple\煮泡面加蛋.md
+  file: recipes/cooking/staple/煮泡面加蛋.md
   source: howtocook
 - title: 猪油拌饭
   category: staple
@@ -9823,7 +9823,7 @@ recipes:
   - 米饭
   - 猪油
   - 生抽
-  file: recipes\cooking\staple\猪油拌饭.md
+  file: recipes/cooking/staple/猪油拌饭.md
   source: howtocook
 - title: 电饭煲三文鱼炊饭
   category: staple
@@ -9841,7 +9841,7 @@ recipes:
   - 有盐牛油
   - 三文鱼
   - 米
-  file: recipes\cooking\staple\电饭煲三文鱼炊饭\电饭煲三文鱼炊饭.md
+  file: recipes/cooking/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md
   source: howtocook
 - title: 空气炸锅照烧鸡饭
   category: staple
@@ -9855,7 +9855,7 @@ recipes:
   - 丽滋饼干
   - 酱油
   - 糖
-  file: recipes\cooking\staple\空气炸锅照烧鸡饭\空气炸锅照烧鸡饭.md
+  file: recipes/cooking/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md
   source: howtocook
 - title: 煮锅蒸米饭
   category: staple
@@ -9867,7 +9867,7 @@ recipes:
   tags:
   - 北方大米
   - 水
-  file: recipes\cooking\staple\米饭\煮锅蒸米饭.md
+  file: recipes/cooking/staple/米饭/煮锅蒸米饭.md
   source: howtocook
 - title: 电饭煲蒸米饭
   category: staple
@@ -9881,7 +9881,7 @@ recipes:
   - 电饭煲
   - 江南米或北方大米
   - 水
-  file: recipes\cooking\staple\米饭\电饭煲蒸米饭.md
+  file: recipes/cooking/staple/米饭/电饭煲蒸米饭.md
   source: howtocook
 - title: 红芸豆拌饭
   category: staple
@@ -9909,7 +9909,7 @@ recipes:
   - 红芸豆
   - 巴斯马蒂香米或普通大米
   - 洋葱
-  file: recipes\cooking\staple\红芸豆拌饭.md
+  file: recipes/cooking/staple/红芸豆拌饭.md
   source: howtocook
 - title: 老友猪肉粉
   category: staple
@@ -9934,7 +9934,7 @@ recipes:
   - 米粉
   - 猪肉
   - 酸笋
-  file: recipes\cooking\staple\老友猪肉粉\老友猪肉粉.md
+  file: recipes/cooking/staple/老友猪肉粉/老友猪肉粉.md
   source: howtocook
 - title: 老干妈拌面
   category: staple
@@ -9949,7 +9949,7 @@ recipes:
   - 面
   - 老干妈
   - 酱油
-  file: recipes\cooking\staple\老干妈拌面.md
+  file: recipes/cooking/staple/老干妈拌面.md
   source: howtocook
 - title: 肉蛋盖饭
   category: staple
@@ -9971,7 +9971,7 @@ recipes:
   - 米饭
   - 鸡蛋
   - 肉馅
-  file: recipes\cooking\staple\肉蛋盖饭.md
+  file: recipes/cooking/staple/肉蛋盖饭.md
   source: howtocook
 - title: 茄子肉煎饼
   category: staple
@@ -9989,7 +9989,7 @@ recipes:
   - 米粉
   - 小麦粉
   - 鸡蛋
-  file: recipes\cooking\staple\茄子肉煎饼\茄子肉煎饼.md
+  file: recipes/cooking/staple/茄子肉煎饼/茄子肉煎饼.md
   source: howtocook
 - title: 葱油拌面
   category: staple
@@ -10006,7 +10006,7 @@ recipes:
   - 干面条
   - 小葱
   - 生抽
-  file: recipes\cooking\staple\葱油拌面.md
+  file: recipes/cooking/staple/葱油拌面.md
   source: howtocook
 - title: 蒸卤面
   category: staple
@@ -10027,7 +10027,7 @@ recipes:
   - 猪五花肉
   - 芹菜
   - 鲜面条
-  file: recipes\cooking\staple\蒸卤面.md
+  file: recipes/cooking/staple/蒸卤面.md
   source: howtocook
 - title: 蛋包饭
   category: staple
@@ -10049,7 +10049,7 @@ recipes:
   - 鸡蛋
   - 洋葱
   - 胡萝卜
-  file: recipes\cooking\staple\蛋包饭.md
+  file: recipes/cooking/staple/蛋包饭.md
   source: howtocook
 - title: 蛋炒饭
   category: staple
@@ -10071,7 +10071,7 @@ recipes:
   - 冷饭
   - 鸡蛋
   - 火腿
-  file: recipes\cooking\staple\蛋炒饭.md
+  file: recipes/cooking/staple/蛋炒饭.md
   source: howtocook
 - title: 螺蛳粉
   category: staple
@@ -10086,7 +10086,7 @@ recipes:
   - 袋装螺蛳粉一包，其中应该包含
   - 电磁炉/灶台
   - 筷子一双
-  file: recipes\cooking\staple\螺蛳粉.md
+  file: recipes/cooking/staple/螺蛳粉.md
   source: howtocook
 - title: 西红柿鸡蛋挂面
   category: staple
@@ -10106,7 +10106,7 @@ recipes:
   - 挂面或者鲜面条也行
   - 西红柿一个
   - 盐
-  file: recipes\cooking\staple\西红柿鸡蛋挂面\西红柿鸡蛋挂面.md
+  file: recipes/cooking/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md
   source: howtocook
 - title: 豆角焖面
   category: staple
@@ -10131,7 +10131,7 @@ recipes:
   - 鲜面条
   - 肉
   - 盐
-  file: recipes\cooking\staple\豆角焖面\豆角焖面.md
+  file: recipes/cooking/staple/豆角焖面/豆角焖面.md
   source: howtocook
 - title: 酱拌荞麦面
   category: staple
@@ -10146,7 +10146,7 @@ recipes:
   - 荞麦面
   - 黄瓜
   - 红萝卜
-  file: recipes\cooking\staple\酱拌荞麦面\酱拌荞麦面.md
+  file: recipes/cooking/staple/酱拌荞麦面/酱拌荞麦面.md
   source: howtocook
 - title: 酸辣蕨根粉
   category: staple
@@ -10167,7 +10167,7 @@ recipes:
   - 蕨根粉
   - 油泼辣子
   - 酱油
-  file: recipes\cooking\staple\酸辣蕨根粉.md
+  file: recipes/cooking/staple/酸辣蕨根粉.md
   source: howtocook
 - title: 醪糟小汤圆
   category: staple
@@ -10183,7 +10183,7 @@ recipes:
   - 小汤圆
   - 醪糟
   - 白糖
-  file: recipes\cooking\staple\醪糟小汤圆.md
+  file: recipes/cooking/staple/醪糟小汤圆.md
   source: howtocook
 - title: 陕西油泼面
   category: staple
@@ -10203,7 +10203,7 @@ recipes:
   - 鲜面条
   - 盐
   - 葱
-  file: recipes\cooking\staple\陕西油泼面\陕西油泼面.md
+  file: recipes/cooking/staple/陕西油泼面/陕西油泼面.md
   source: howtocook
 - title: 韩式拌饭
   category: staple
@@ -10224,7 +10224,7 @@ recipes:
   - 米饭
   - 鸡蛋
   - 豆芽
-  file: recipes\cooking\staple\韩式拌饭\韩式拌饭.md
+  file: recipes/cooking/staple/韩式拌饭/韩式拌饭.md
   source: howtocook
 - title: 韭菜盒子
   category: staple
@@ -10242,7 +10242,7 @@ recipes:
   - 韭菜
   - 虾仁
   - 鸡蛋
-  file: recipes\cooking\staple\韭菜盒子.md
+  file: recipes/cooking/staple/韭菜盒子.md
   source: howtocook
 - title: 鲜肉烧卖
   category: staple
@@ -10272,7 +10272,7 @@ recipes:
   - 烧卖皮
   - 猪肉末
   - 生姜末
-  file: recipes\cooking\staple\鲜肉烧卖.md
+  file: recipes/cooking/staple/鲜肉烧卖.md
   source: howtocook
 - title: 鲣鱼海苔玉米饭
   category: staple
@@ -10282,7 +10282,7 @@ recipes:
   - 必备
   tags:
   - 必备
-  file: recipes\cooking\staple\鲣鱼海苔玉米饭\鲣鱼海苔玉米饭.md
+  file: recipes/cooking/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md
   source: howtocook
 - title: 鹰嘴豆炸饼
   category: staple
@@ -10313,7 +10313,7 @@ recipes:
   - 鹰嘴豆
   - 中筋面粉
   - 酸奶
-  file: recipes\cooking\staple\鹰嘴豆炸饼.md
+  file: recipes/cooking/staple/鹰嘴豆炸饼.md
   source: howtocook
 - title: 麻油拌面
   category: staple
@@ -10330,7 +10330,7 @@ recipes:
   - 风干快熟面/任何牌子的快熟面
   - 麻油
   - 胡椒粉
-  file: recipes\cooking\staple\麻油拌面.md
+  file: recipes/cooking/staple/麻油拌面.md
   source: howtocook
 - title: 麻辣减脂荞麦面
   category: staple
@@ -10341,7 +10341,7 @@ recipes:
   tags:
   - 主食
   - 原料
-  file: recipes\cooking\staple\麻辣减脂荞麦面.md
+  file: recipes/cooking/staple/麻辣减脂荞麦面.md
   source: howtocook
 - title: 示例菜
   category: template
@@ -10355,7 +10355,7 @@ recipes:
   - 咖喱块
   - 土豆
   - 藤椒油
-  file: recipes\cooking\template\示例菜\示例菜.md
+  file: recipes/cooking/template/示例菜/示例菜.md
   source: howtocook
 - title: 上汤娃娃菜
   category: vegetable_dish
@@ -10375,7 +10375,7 @@ recipes:
   - 娃娃菜
   - 皮蛋
   - 午餐肉
-  file: recipes\cooking\vegetable_dish\上汤娃娃菜\上汤娃娃菜.md
+  file: recipes/cooking/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md
   source: howtocook
 - title: 乾隆白菜
   category: vegetable_dish
@@ -10392,7 +10392,7 @@ recipes:
   - 大白菜
   - 芝麻酱
   - 陈醋
-  file: recipes\cooking\vegetable_dish\乾隆白菜\乾隆白菜.md
+  file: recipes/cooking/vegetable_dish/乾隆白菜/乾隆白菜.md
   source: howtocook
 - title: 凉拌木耳
   category: vegetable_dish
@@ -10412,7 +10412,7 @@ recipes:
   - 干木耳
   - 蒜瓣
   - 白糖
-  file: recipes\cooking\vegetable_dish\凉拌木耳\凉拌木耳.md
+  file: recipes/cooking/vegetable_dish/凉拌木耳/凉拌木耳.md
   source: howtocook
 - title: 凉拌油麦菜
   category: vegetable_dish
@@ -10433,7 +10433,7 @@ recipes:
   - 油麦菜
   - 芝麻酱
   - 酱油
-  file: recipes\cooking\vegetable_dish\凉拌油麦菜.md
+  file: recipes/cooking/vegetable_dish/凉拌油麦菜.md
   source: howtocook
 - title: 凉拌莴笋
   category: vegetable_dish
@@ -10451,7 +10451,7 @@ recipes:
   - 莴笋
   - 萝卜
   - 小米辣
-  file: recipes\cooking\vegetable_dish\凉拌莴笋\凉拌莴笋.md
+  file: recipes/cooking/vegetable_dish/凉拌莴笋/凉拌莴笋.md
   source: howtocook
 - title: 凉拌豆腐
   category: vegetable_dish
@@ -10471,7 +10471,7 @@ recipes:
   - 豆腐
   - 小葱
   - 大蒜
-  file: recipes\cooking\vegetable_dish\凉拌豆腐.md
+  file: recipes/cooking/vegetable_dish/凉拌豆腐.md
   source: howtocook
 - title: 凉拌金针菇
   category: vegetable_dish
@@ -10491,7 +10491,7 @@ recipes:
   - 金针菇
   - 小葱
   - 大蒜
-  file: recipes\cooking\vegetable_dish\凉拌金针菇.md
+  file: recipes/cooking/vegetable_dish/凉拌金针菇.md
   source: howtocook
 - title: 凉拌黄瓜
   category: vegetable_dish
@@ -10507,7 +10507,7 @@ recipes:
   - 黄瓜
   - 醋
   - 酱油
-  file: recipes\cooking\vegetable_dish\凉拌黄瓜.md
+  file: recipes/cooking/vegetable_dish/凉拌黄瓜.md
   source: howtocook
 - title: 包菜炒鸡蛋粉丝
   category: vegetable_dish
@@ -10525,7 +10525,7 @@ recipes:
   - 包菜
   - 鸡蛋
   - 粉丝
-  file: recipes\cooking\vegetable_dish\包菜炒鸡蛋粉丝\包菜炒鸡蛋粉丝.md
+  file: recipes/cooking/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md
   source: howtocook
 - title: 印度土豆花菜
   category: vegetable_dish
@@ -10552,7 +10552,7 @@ recipes:
   - 土豆
   - 花菜
   - 洋葱
-  file: recipes\cooking\vegetable_dish\印度土豆花菜.md
+  file: recipes/cooking/vegetable_dish/印度土豆花菜.md
   source: howtocook
 - title: 印度葫芦丸子
   category: vegetable_dish
@@ -10579,7 +10579,7 @@ recipes:
   - 瓠瓜
   - 鹰嘴豆粉
   - 洋葱
-  file: recipes\cooking\vegetable_dish\印度葫芦丸子.md
+  file: recipes/cooking/vegetable_dish/印度葫芦丸子.md
   source: howtocook
 - title: 地三鲜
   category: vegetable_dish
@@ -10600,7 +10600,7 @@ recipes:
   - 茄子
   - 土豆
   - 尖椒
-  file: recipes\cooking\vegetable_dish\地三鲜\地三鲜.md
+  file: recipes/cooking/vegetable_dish/地三鲜/地三鲜.md
   source: howtocook
 - title: 家常日本豆腐
   category: vegetable_dish
@@ -10627,7 +10627,7 @@ recipes:
   - 日本豆腐
   - 青椒
   - 胡萝卜
-  file: recipes\cooking\vegetable_dish\家常日本豆腐.md
+  file: recipes/cooking/vegetable_dish/家常日本豆腐.md
   source: howtocook
 - title: 小炒藕丁
   category: vegetable_dish
@@ -10645,7 +10645,7 @@ recipes:
   - 大葱
   - 小米辣
   - 莲藕
-  file: recipes\cooking\vegetable_dish\小炒藕丁\小炒藕丁.md
+  file: recipes/cooking/vegetable_dish/小炒藕丁/小炒藕丁.md
   source: howtocook
 - title: 干锅花菜
   category: vegetable_dish
@@ -10664,7 +10664,7 @@ recipes:
   - 花菜
   - 五花肉
   - 辣椒
-  file: recipes\cooking\vegetable_dish\干锅花菜\干锅花菜.md
+  file: recipes/cooking/vegetable_dish/干锅花菜/干锅花菜.md
   source: howtocook
 - title: 手撕包菜
   category: vegetable_dish
@@ -10687,7 +10687,7 @@ recipes:
   - 包菜
   - 五花肉
   - 小米辣
-  file: recipes\cooking\vegetable_dish\手撕包菜\手撕包菜.md
+  file: recipes/cooking/vegetable_dish/手撕包菜/手撕包菜.md
   source: howtocook
 - title: 拔丝土豆
   category: vegetable_dish
@@ -10704,7 +10704,7 @@ recipes:
   - 土豆
   - 食用油
   - 淀粉
-  file: recipes\cooking\vegetable_dish\拔丝土豆\拔丝土豆.md
+  file: recipes/cooking/vegetable_dish/拔丝土豆/拔丝土豆.md
   source: howtocook
 - title: 松仁玉米
   category: vegetable_dish
@@ -10724,7 +10724,7 @@ recipes:
   - 玉米粒
   - 熟松子仁
   - 胡萝卜
-  file: recipes\cooking\vegetable_dish\松仁玉米.md
+  file: recipes/cooking/vegetable_dish/松仁玉米.md
   source: howtocook
 - title: 椒盐玉米
   category: vegetable_dish
@@ -10742,7 +10742,7 @@ recipes:
   - 玉米粒
   - 椒盐
   - 芝麻粒
-  file: recipes\cooking\vegetable_dish\椒盐玉米\椒盐玉米.md
+  file: recipes/cooking/vegetable_dish/椒盐玉米/椒盐玉米.md
   source: howtocook
 - title: 榄菜肉末四季豆
   category: vegetable_dish
@@ -10758,7 +10758,7 @@ recipes:
   - 四季豆
   - 五花肉
   - 橄榄菜
-  file: recipes\cooking\vegetable_dish\榄菜肉末四季豆\榄菜肉末四季豆.md
+  file: recipes/cooking/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md
   source: howtocook
 - title: 水油焖蔬菜
   category: vegetable_dish
@@ -10774,7 +10774,7 @@ recipes:
   - 食用油
   - 盐
   - 蚝油
-  file: recipes\cooking\vegetable_dish\水油焖蔬菜.md
+  file: recipes/cooking/vegetable_dish/水油焖蔬菜.md
   source: howtocook
 - title: 油醋爆蛋
   category: vegetable_dish
@@ -10795,7 +10795,7 @@ recipes:
   - 鸡蛋
   - 小米辣
   - 小葱
-  file: recipes\cooking\vegetable_dish\油醋爆蛋.md
+  file: recipes/cooking/vegetable_dish/油醋爆蛋.md
   source: howtocook
 - title: 洋葱炒鸡蛋
   category: vegetable_dish
@@ -10812,7 +10812,7 @@ recipes:
   - 鸡蛋
   - 洋葱
   - 食用油
-  file: recipes\cooking\vegetable_dish\洋葱炒鸡蛋\洋葱炒鸡蛋.md
+  file: recipes/cooking/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md
   source: howtocook
 - title: 清炒花菜
   category: vegetable_dish
@@ -10827,7 +10827,7 @@ recipes:
   - 花菜
   - 大蒜
   - 盐
-  file: recipes\cooking\vegetable_dish\清炒花菜.md
+  file: recipes/cooking/vegetable_dish/清炒花菜.md
   source: howtocook
 - title: 清蒸南瓜
   category: vegetable_dish
@@ -10838,7 +10838,7 @@ recipes:
   tags:
   - 素菜
   - 南瓜
-  file: recipes\cooking\vegetable_dish\清蒸南瓜.md
+  file: recipes/cooking/vegetable_dish/清蒸南瓜.md
   source: howtocook
 - title: 炒滑蛋
   category: vegetable_dish
@@ -10850,7 +10850,7 @@ recipes:
   tags:
   - 鸡蛋
   - 牛奶
-  file: recipes\cooking\vegetable_dish\炒滑蛋\炒滑蛋.md
+  file: recipes/cooking/vegetable_dish/炒滑蛋/炒滑蛋.md
   source: howtocook
 - title: 炒茄子
   category: vegetable_dish
@@ -10871,7 +10871,7 @@ recipes:
   - 茄子
   - 八角
   - 虾皮
-  file: recipes\cooking\vegetable_dish\炒茄子.md
+  file: recipes/cooking/vegetable_dish/炒茄子.md
   source: howtocook
 - title: 炒青菜
   category: vegetable_dish
@@ -10882,7 +10882,7 @@ recipes:
   tags:
   - 素菜
   - 青菜
-  file: recipes\cooking\vegetable_dish\炒青菜.md
+  file: recipes/cooking/vegetable_dish/炒青菜.md
   source: howtocook
 - title: 烤茄子
   category: vegetable_dish
@@ -10900,7 +10900,7 @@ recipes:
   - 茄子
   - 食用油
   - 酱油
-  file: recipes\cooking\vegetable_dish\烤茄子\烤茄子.md
+  file: recipes/cooking/vegetable_dish/烤茄子/烤茄子.md
   source: howtocook
 - title: 白灼菜心
   category: vegetable_dish
@@ -10915,7 +10915,7 @@ recipes:
   - 新鲜菜心
   - 生抽、蚝油、盐
   - 大蒜、小米辣
-  file: recipes\cooking\vegetable_dish\白灼菜心\白灼菜心.md
+  file: recipes/cooking/vegetable_dish/白灼菜心/白灼菜心.md
   source: howtocook
 - title: 皮蛋豆腐
   category: vegetable_dish
@@ -10937,7 +10937,7 @@ recipes:
   - 皮蛋
   - 内酯豆腐
   - 生抽
-  file: recipes\cooking\vegetable_dish\皮蛋豆腐.md
+  file: recipes/cooking/vegetable_dish/皮蛋豆腐.md
   source: howtocook
 - title: 糖拌西红柿
   category: vegetable_dish
@@ -10949,7 +10949,7 @@ recipes:
   tags:
   - 西红柿
   - 白砂糖
-  file: recipes\cooking\vegetable_dish\糖拌西红柿\糖拌西红柿.md
+  file: recipes/cooking/vegetable_dish/糖拌西红柿/糖拌西红柿.md
   source: howtocook
 - title: 素炒豆角
   category: vegetable_dish
@@ -10969,7 +10969,7 @@ recipes:
   - 豆角
   - 小米椒
   - 葱
-  file: recipes\cooking\vegetable_dish\素炒豆角.md
+  file: recipes/cooking/vegetable_dish/素炒豆角.md
   source: howtocook
 - title: 红烧冬瓜
   category: vegetable_dish
@@ -10990,7 +10990,7 @@ recipes:
   - 冬瓜
   - 食用油
   - 料酒
-  file: recipes\cooking\vegetable_dish\红烧冬瓜\红烧冬瓜.md
+  file: recipes/cooking/vegetable_dish/红烧冬瓜/红烧冬瓜.md
   source: howtocook
 - title: 红烧茄子
   category: vegetable_dish
@@ -11013,7 +11013,7 @@ recipes:
   - 大蒜
   - 大葱
   - 青辣椒
-  file: recipes\cooking\vegetable_dish\红烧茄子.md
+  file: recipes/cooking/vegetable_dish/红烧茄子.md
   source: howtocook
 - title: 脆皮豆腐
   category: vegetable_dish
@@ -11032,7 +11032,7 @@ recipes:
   - 老豆腐
   - 鸡蛋
   - 生抽
-  file: recipes\cooking\vegetable_dish\脆皮豆腐.md
+  file: recipes/cooking/vegetable_dish/脆皮豆腐.md
   source: howtocook
 - title: 芹菜拌茶树菇
   category: vegetable_dish
@@ -11049,7 +11049,7 @@ recipes:
   - 闽星茶树菇
   - 芹菜
   - 香油
-  file: recipes\cooking\vegetable_dish\芹菜拌茶树菇\芹菜拌茶树菇.md
+  file: recipes/cooking/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md
   source: howtocook
 - title: 茄子炖土豆
   category: vegetable_dish
@@ -11068,7 +11068,7 @@ recipes:
   - 茄子
   - 土豆
   - 肉
-  file: recipes\cooking\vegetable_dish\茄子炖土豆.md
+  file: recipes/cooking/vegetable_dish/茄子炖土豆.md
   source: howtocook
 - title: 莴笋叶煎饼
   category: vegetable_dish
@@ -11085,7 +11085,7 @@ recipes:
   - 莴笋叶
   - 鸡蛋
   - 食用油
-  file: recipes\cooking\vegetable_dish\莴笋叶煎饼\莴笋叶煎饼.md
+  file: recipes/cooking/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md
   source: howtocook
 - title: 菠菜炒鸡蛋
   category: vegetable_dish
@@ -11100,7 +11100,7 @@ recipes:
   - 菠菜
   - 鸡蛋
   - 食用油
-  file: recipes\cooking\vegetable_dish\菠菜炒鸡蛋\菠菜炒鸡蛋.md
+  file: recipes/cooking/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md
   source: howtocook
 - title: 葱煎豆腐
   category: vegetable_dish
@@ -11117,7 +11117,7 @@ recipes:
   - 白豆腐
   - 葱
   - 青辣椒
-  file: recipes\cooking\vegetable_dish\葱煎豆腐.md
+  file: recipes/cooking/vegetable_dish/葱煎豆腐.md
   source: howtocook
 - title: 蒜蓉空心菜
   category: vegetable_dish
@@ -11133,7 +11133,7 @@ recipes:
   - 空心菜
   - 蒜末
   - 盐
-  file: recipes\cooking\vegetable_dish\蒜蓉空心菜\蒜蓉空心菜.md
+  file: recipes/cooking/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md
   source: howtocook
 - title: 蒜蓉西兰花
   category: vegetable_dish
@@ -11150,7 +11150,7 @@ recipes:
   - 西兰花
   - 大蒜
   - 生抽
-  file: recipes\cooking\vegetable_dish\蒜蓉西兰花.md
+  file: recipes/cooking/vegetable_dish/蒜蓉西兰花.md
   source: howtocook
 - title: 蒲烧茄子
   category: vegetable_dish
@@ -11170,7 +11170,7 @@ recipes:
   - 茄子
   - 蒲烧汁
   - 蜂蜜
-  file: recipes\cooking\vegetable_dish\蒲烧茄子.md
+  file: recipes/cooking/vegetable_dish/蒲烧茄子.md
   source: howtocook
 - title: 虎皮青椒
   category: vegetable_dish
@@ -11187,7 +11187,7 @@ recipes:
   - 青椒
   - 大蒜
   - 白糖
-  file: recipes\cooking\vegetable_dish\虎皮青椒\虎皮青椒.md
+  file: recipes/cooking/vegetable_dish/虎皮青椒/虎皮青椒.md
   source: howtocook
 - title: 蚝油三鲜菇
   category: vegetable_dish
@@ -11213,7 +11213,7 @@ recipes:
   - 香菇
   - 蟹味菇
   - 白玉菇
-  file: recipes\cooking\vegetable_dish\蚝油三鲜菇\蚝油三鲜菇.md
+  file: recipes/cooking/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md
   source: howtocook
 - title: 蚝油生菜
   category: vegetable_dish
@@ -11232,7 +11232,7 @@ recipes:
   - 生菜
   - 蚝油
   - 大蒜
-  file: recipes\cooking\vegetable_dish\蚝油生菜.md
+  file: recipes/cooking/vegetable_dish/蚝油生菜.md
   source: howtocook
 - title: 西红柿炒鸡蛋
   category: vegetable_dish
@@ -11250,7 +11250,7 @@ recipes:
   - 西红柿
   - 鸡蛋
   - 食用油
-  file: recipes\cooking\vegetable_dish\西红柿炒鸡蛋.md
+  file: recipes/cooking/vegetable_dish/西红柿炒鸡蛋.md
   source: howtocook
 - title: 西红柿豆腐汤羹
   category: vegetable_dish
@@ -11271,7 +11271,7 @@ recipes:
   - 西红柿
   - 鸡蛋
   - 豆腐
-  file: recipes\cooking\vegetable_dish\西红柿豆腐汤羹\西红柿豆腐汤羹.md
+  file: recipes/cooking/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md
   source: howtocook
 - title: 西葫芦炒鸡蛋
   category: vegetable_dish
@@ -11287,7 +11287,7 @@ recipes:
   - 西葫芦
   - 鸡蛋
   - 西红柿
-  file: recipes\cooking\vegetable_dish\西葫芦炒鸡蛋\西葫芦炒鸡蛋.md
+  file: recipes/cooking/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md
   source: howtocook
 - title: 话梅煮毛豆
   category: vegetable_dish
@@ -11301,7 +11301,7 @@ recipes:
   - 毛豆
   - 话梅
   - 食用盐
-  file: recipes\cooking\vegetable_dish\话梅煮毛豆\话梅煮毛豆.md
+  file: recipes/cooking/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md
   source: howtocook
 - title: 酸辣土豆丝
   category: vegetable_dish
@@ -11322,7 +11322,7 @@ recipes:
   - 土豆
   - 大蒜
   - 青椒
-  file: recipes\cooking\vegetable_dish\酸辣土豆丝.md
+  file: recipes/cooking/vegetable_dish/酸辣土豆丝.md
   source: howtocook
 - title: 金针菇日本豆腐煲
   category: vegetable_dish
@@ -11342,7 +11342,7 @@ recipes:
   - 金针菇
   - 日本豆腐
   - 小米椒
-  file: recipes\cooking\vegetable_dish\金针菇日本豆腐煲.md
+  file: recipes/cooking/vegetable_dish/金针菇日本豆腐煲.md
   source: howtocook
 - title: 金钱蛋
   category: vegetable_dish
@@ -11365,7 +11365,7 @@ recipes:
   - 鸡蛋
   - 线椒
   - 小米辣
-  file: recipes\cooking\vegetable_dish\金钱蛋.md
+  file: recipes/cooking/vegetable_dish/金钱蛋.md
   source: howtocook
 - title: 陕北熬豆角
   category: vegetable_dish
@@ -11388,7 +11388,7 @@ recipes:
   - 豆角
   - 土豆
   - 西红柿
-  file: recipes\cooking\vegetable_dish\陕北熬豆角.md
+  file: recipes/cooking/vegetable_dish/陕北熬豆角.md
   source: howtocook
 - title: 雷椒皮蛋
   category: vegetable_dish
@@ -11411,7 +11411,7 @@ recipes:
   - 皮蛋
   - 长条青椒
   - 葱
-  file: recipes\cooking\vegetable_dish\雷椒皮蛋.md
+  file: recipes/cooking/vegetable_dish/雷椒皮蛋.md
   source: howtocook
 - title: 鸡蛋火腿炒黄瓜
   category: vegetable_dish
@@ -11429,7 +11429,7 @@ recipes:
   - 黄瓜
   - 鸡蛋
   - 火腿肠
-  file: recipes\cooking\vegetable_dish\鸡蛋火腿炒黄瓜.md
+  file: recipes/cooking/vegetable_dish/鸡蛋火腿炒黄瓜.md
   source: howtocook
 - title: 微波炉鸡蛋羹
   category: vegetable_dish
@@ -11441,7 +11441,7 @@ recipes:
   tags:
   - 鸡蛋
   - 水
-  file: recipes\cooking\vegetable_dish\鸡蛋羹\微波炉鸡蛋羹.md
+  file: recipes/cooking/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md
   source: howtocook
 - title: 蒸箱鸡蛋羹
   category: vegetable_dish
@@ -11457,7 +11457,7 @@ recipes:
   - 鸡蛋
   - 食用盐
   - 食用油
-  file: recipes\cooking\vegetable_dish\鸡蛋羹\蒸箱鸡蛋羹.md
+  file: recipes/cooking/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md
   source: howtocook
 - title: 鸡蛋羹
   category: vegetable_dish
@@ -11474,7 +11474,7 @@ recipes:
   - 鸡蛋
   - 食用盐
   - 香油
-  file: recipes\cooking\vegetable_dish\鸡蛋羹\鸡蛋羹.md
+  file: recipes/cooking/vegetable_dish/鸡蛋羹/鸡蛋羹.md
   source: howtocook
 - title: 鸡蛋花
   category: vegetable_dish
@@ -11489,7 +11489,7 @@ recipes:
   - 鸡蛋
   - 白糖
   - 食盐
-  file: recipes\cooking\vegetable_dish\鸡蛋花\鸡蛋花.md
+  file: recipes/cooking/vegetable_dish/鸡蛋花/鸡蛋花.md
   source: howtocook
 - title: 晨间焕醒：早餐西瓜汁
   category: fruit_juice
@@ -11503,7 +11503,7 @@ recipes:
   - 消暑
   - 利尿
   - 晨间
-  file: recipes\juice\fruit_juice\晨间早餐西瓜汁.md
+  file: recipes/juice/fruit_juice/晨间早餐西瓜汁.md
   source: juice-book
 - title: 百香果橙汁
   category: fruit_juice
@@ -11519,7 +11519,7 @@ recipes:
   - 橙子
   - 维C
   - 美白
-  file: recipes\juice\fruit_juice\百香果橙汁.md
+  file: recipes/juice/fruit_juice/百香果橙汁.md
   source: juice-book
 - title: 草莓汁
   category: fruit_juice
@@ -11532,7 +11532,7 @@ recipes:
   - 草莓
   - 饮品
   - 美容
-  file: recipes\juice\fruit_juice\草莓汁.md
+  file: recipes/juice/fruit_juice/草莓汁.md
   source: juice-book
 - title: 葡萄汁
   category: fruit_juice
@@ -11545,7 +11545,7 @@ recipes:
   - 葡萄
   - 花青素
   - 抗氧
-  file: recipes\juice\fruit_juice\葡萄汁.md
+  file: recipes/juice/fruit_juice/葡萄汁.md
   source: juice-book
 - title: 蜜桃汁
   category: fruit_juice
@@ -11558,7 +11558,7 @@ recipes:
   - 桃子
   - 消暑
   - 美容
-  file: recipes\juice\fruit_juice\蜜桃汁.md
+  file: recipes/juice/fruit_juice/蜜桃汁.md
   source: juice-book
 - title: 雪梨汁
   category: fruit_juice
@@ -11571,7 +11571,7 @@ recipes:
   - 梨
   - 润肺
   - 饮品
-  file: recipes\juice\fruit_juice\雪梨汁.md
+  file: recipes/juice/fruit_juice/雪梨汁.md
   source: juice-book
 - title: 鲜榨橙汁
   category: fruit_juice
@@ -11584,7 +11584,7 @@ recipes:
   - 饮品
   - 维C
   - 美白
-  file: recipes\juice\fruit_juice\鲜榨橙汁.md
+  file: recipes/juice/fruit_juice/鲜榨橙汁.md
   source: juice-book
 - title: 鲜榨芒果汁
   category: fruit_juice
@@ -11597,7 +11597,7 @@ recipes:
   - 芒果
   - 饮品
   - 维A
-  file: recipes\juice\fruit_juice\鲜榨芒果汁.md
+  file: recipes/juice/fruit_juice/鲜榨芒果汁.md
   source: juice-book
 - title: 鲜榨苹果汁
   category: fruit_juice
@@ -11610,7 +11610,7 @@ recipes:
   - 苹果
   - 饮品
   - 维C
-  file: recipes\juice\fruit_juice\鲜榨苹果汁.md
+  file: recipes/juice/fruit_juice/鲜榨苹果汁.md
   source: juice-book
 - title: 鲜榨西瓜汁
   category: fruit_juice
@@ -11622,7 +11622,7 @@ recipes:
   - 西瓜
   - 消暑
   - 饮品
-  file: recipes\juice\fruit_juice\鲜榨西瓜汁.md
+  file: recipes/juice/fruit_juice/鲜榨西瓜汁.md
   source: juice-book
 - title: 保湿水果姜汁
   category: mixed_juice
@@ -11639,7 +11639,7 @@ recipes:
   - 姜
   - 保湿
   - 减肥
-  file: recipes\juice\mixed_juice\保湿水果姜汁.md
+  file: recipes/juice/mixed_juice/保湿水果姜汁.md
   source: juice-book
 - title: 南瓜奶昔
   category: mixed_juice
@@ -11653,7 +11653,7 @@ recipes:
   - 牛奶
   - 暖胃
   - 营养
-  file: recipes\juice\mixed_juice\南瓜奶昔.md
+  file: recipes/juice/mixed_juice/南瓜奶昔.md
   source: juice-book
 - title: 幸福甜感奶油草莓奶昔
   category: mixed_juice
@@ -11667,7 +11667,7 @@ recipes:
   - 牛奶
   - 美容
   - 幸福
-  file: recipes\juice\mixed_juice\奶油草莓奶昔.md
+  file: recipes/juice/mixed_juice/奶油草莓奶昔.md
   source: juice-book
 - title: 巧克力色日常排毒汁
   category: mixed_juice
@@ -11685,7 +11685,7 @@ recipes:
   - 甜菜
   - 羽衣甘蓝
   - 排毒
-  file: recipes\juice\mixed_juice\巧克力色排毒汁.md
+  file: recipes/juice/mixed_juice/巧克力色排毒汁.md
   source: juice-book
 - title: 排毒梨姜汁
   category: mixed_juice
@@ -11702,7 +11702,7 @@ recipes:
   - 柠檬
   - 排毒
   - 晨间
-  file: recipes\juice\mixed_juice\排毒梨姜汁.md
+  file: recipes/juice/mixed_juice/排毒梨姜汁.md
   source: juice-book
 - title: 柔和桃子姜汁
   category: mixed_juice
@@ -11719,7 +11719,7 @@ recipes:
   - 姜
   - 菠菜
   - 美容
-  file: recipes\juice\mixed_juice\柔和桃子姜汁.md
+  file: recipes/juice/mixed_juice/柔和桃子姜汁.md
   source: juice-book
 - title: 树莓水芹变奏曲
   category: mixed_juice
@@ -11738,7 +11738,7 @@ recipes:
   - 甜菜
   - 羽衣甘蓝
   - 减脂
-  file: recipes\juice\mixed_juice\树莓水芹变奏曲.md
+  file: recipes/juice/mixed_juice/树莓水芹变奏曲.md
   source: juice-book
 - title: 桃子女孩奶昔（我的桃子女孩）
   category: mixed_juice
@@ -11752,7 +11752,7 @@ recipes:
   - 牛奶
   - 美容
   - 香甜
-  file: recipes\juice\mixed_juice\桃子女孩奶昔.md
+  file: recipes/juice/mixed_juice/桃子女孩奶昔.md
   source: juice-book
 - title: 水润清凉的蔬果森林
   category: mixed_juice
@@ -11771,7 +11771,7 @@ recipes:
   - 甜瓜
   - 羽衣甘蓝
   - 补水
-  file: recipes\juice\mixed_juice\水润蔬果森林.md
+  file: recipes/juice/mixed_juice/水润蔬果森林.md
   source: juice-book
 - title: 超级浆果抗氧化奶昔
   category: mixed_juice
@@ -11787,7 +11787,7 @@ recipes:
   - 草莓
   - 树莓
   - 抗氧化
-  file: recipes\juice\mixed_juice\浆果抗氧化奶昔.md
+  file: recipes/juice/mixed_juice/浆果抗氧化奶昔.md
   source: juice-book
 - title: 浓郁香蕉可可奶昔（巴娜娜可可）
   category: mixed_juice
@@ -11801,7 +11801,7 @@ recipes:
   - 可可粉
   - 牛奶
   - 能量
-  file: recipes\juice\mixed_juice\浓郁香蕉可可奶昔.md
+  file: recipes/juice/mixed_juice/浓郁香蕉可可奶昔.md
   source: juice-book
 - title: 深绿色柠檬水
   category: mixed_juice
@@ -11818,7 +11818,7 @@ recipes:
   - 苹果
   - 羽衣甘蓝
   - 清爽
-  file: recipes\juice\mixed_juice\深绿色柠檬水.md
+  file: recipes/juice/mixed_juice/深绿色柠檬水.md
   source: juice-book
 - title: 热带假日奶昔
   category: mixed_juice
@@ -11833,7 +11833,7 @@ recipes:
   - 菠萝
   - 椰子
   - 热带
-  file: recipes\juice\mixed_juice\热带假日奶昔.md
+  file: recipes/juice/mixed_juice/热带假日奶昔.md
   source: juice-book
 - title: 牛油果杏仁奶昔（我要你爱我）
   category: mixed_juice
@@ -11848,7 +11848,7 @@ recipes:
   - 杏仁奶
   - 护眼
   - 健脑
-  file: recipes\juice\mixed_juice\牛油果杏仁奶昔.md
+  file: recipes/juice/mixed_juice/牛油果杏仁奶昔.md
   source: juice-book
 - title: 猕猴桃苹果汁
   category: mixed_juice
@@ -11863,7 +11863,7 @@ recipes:
   - 苹果
   - 维C
   - 美白
-  file: recipes\juice\mixed_juice\猕猴桃苹果汁.md
+  file: recipes/juice/mixed_juice/猕猴桃苹果汁.md
   source: juice-book
 - title: 番茄胡萝卜汁
   category: mixed_juice
@@ -11878,7 +11878,7 @@ recipes:
   - 胡萝卜
   - 番茄红素
   - 抗氧
-  file: recipes\juice\mixed_juice\番茄胡萝卜汁.md
+  file: recipes/juice/mixed_juice/番茄胡萝卜汁.md
   source: juice-book
 - title: 番茄苹果黄瓜汁（轻瘦美果蔬汁）
   category: mixed_juice
@@ -11895,7 +11895,7 @@ recipes:
   - 黄瓜
   - 减脂
   - 轻体
-  file: recipes\juice\mixed_juice\番茄苹果黄瓜汁.md
+  file: recipes/juice/mixed_juice/番茄苹果黄瓜汁.md
   source: juice-book
 - title: 石榴抗氧化汁（石榴的明朗格调）
   category: mixed_juice
@@ -11909,7 +11909,7 @@ recipes:
   - 苹果
   - 抗氧化
   - 美容
-  file: recipes\juice\mixed_juice\石榴抗氧化汁.md
+  file: recipes/juice/mixed_juice/石榴抗氧化汁.md
   source: juice-book
 - title: 秋景有时
   category: mixed_juice
@@ -11924,7 +11924,7 @@ recipes:
   - 甜菜
   - 菠菜
   - 秋季
-  file: recipes\juice\mixed_juice\秋景有时.md
+  file: recipes/juice/mixed_juice/秋景有时.md
   source: juice-book
 - title: 紫罗兰覆盆子幽香
   category: mixed_juice
@@ -11939,7 +11939,7 @@ recipes:
   - 黄瓜
   - 羽衣甘蓝
   - 美容
-  file: recipes\juice\mixed_juice\紫罗兰覆盆子幽香.md
+  file: recipes/juice/mixed_juice/紫罗兰覆盆子幽香.md
   source: juice-book
 - title: 紫薯牛奶
   category: mixed_juice
@@ -11953,7 +11953,7 @@ recipes:
   - 牛奶
   - 花青素
   - 饱腹
-  file: recipes\juice\mixed_juice\紫薯牛奶.md
+  file: recipes/juice/mixed_juice/紫薯牛奶.md
   source: juice-book
 - title: 综合果蔬汁
   category: mixed_juice
@@ -11972,7 +11972,7 @@ recipes:
   - 芹菜
   - 综合
   - 排毒
-  file: recipes\juice\mixed_juice\综合果蔬汁.md
+  file: recipes/juice/mixed_juice/综合果蔬汁.md
   source: juice-book
 - title: 羽衣甘蓝西柚汁（我不是草莓牛奶）
   category: mixed_juice
@@ -11987,7 +11987,7 @@ recipes:
   - 西柚
   - 净化
   - 减脂
-  file: recipes\juice\mixed_juice\羽衣甘蓝西柚汁.md
+  file: recipes/juice/mixed_juice/羽衣甘蓝西柚汁.md
   source: juice-book
 - title: 胡萝卜苹果汁
   category: mixed_juice
@@ -12002,7 +12002,7 @@ recipes:
   - 苹果
   - 护眼
   - 维A
-  file: recipes\juice\mixed_juice\胡萝卜苹果汁.md
+  file: recipes/juice/mixed_juice/胡萝卜苹果汁.md
   source: juice-book
 - title: 能量甜麦苗菠菜汁
   category: mixed_juice
@@ -12020,7 +12020,7 @@ recipes:
   - 桃子
   - 葡萄
   - 能量
-  file: recipes\juice\mixed_juice\能量麦苗菠菜汁.md
+  file: recipes/juice/mixed_juice/能量麦苗菠菜汁.md
   source: juice-book
 - title: 芒果椰子奶昔
   category: mixed_juice
@@ -12035,7 +12035,7 @@ recipes:
   - 椰子
   - 牛奶
   - 热带
-  file: recipes\juice\mixed_juice\芒果椰子奶昔.md
+  file: recipes/juice/mixed_juice/芒果椰子奶昔.md
   source: juice-book
 - title: 芹菜苹果汁
   category: mixed_juice
@@ -12050,7 +12050,7 @@ recipes:
   - 苹果
   - 排毒
   - 减脂
-  file: recipes\juice\mixed_juice\芹菜苹果汁.md
+  file: recipes/juice/mixed_juice/芹菜苹果汁.md
   source: juice-book
 - title: 苹果胡萝卜姜汁
   category: mixed_juice
@@ -12067,7 +12067,7 @@ recipes:
   - 姜
   - 暖身
   - 免疫力
-  file: recipes\juice\mixed_juice\苹果胡萝卜姜汁.md
+  file: recipes/juice/mixed_juice/苹果胡萝卜姜汁.md
   source: juice-book
 - title: 草莓香蕉汁
   category: mixed_juice
@@ -12082,7 +12082,7 @@ recipes:
   - 香蕉
   - 饮品
   - 能量
-  file: recipes\juice\mixed_juice\草莓香蕉汁.md
+  file: recipes/juice/mixed_juice/草莓香蕉汁.md
   source: juice-book
 - title: 菠菜香蕉奶昔
   category: mixed_juice
@@ -12098,7 +12098,7 @@ recipes:
   - 牛奶
   - 补铁
   - 能量
-  file: recipes\juice\mixed_juice\菠菜香蕉奶昔.md
+  file: recipes/juice/mixed_juice/菠菜香蕉奶昔.md
   source: juice-book
 - title: 菠萝椰子汁
   category: mixed_juice
@@ -12113,7 +12113,7 @@ recipes:
   - 椰子
   - 热带
   - 消暑
-  file: recipes\juice\mixed_juice\菠萝椰子汁.md
+  file: recipes/juice/mixed_juice/菠萝椰子汁.md
   source: juice-book
 - title: 蓝莓香蕉汁
   category: mixed_juice
@@ -12128,7 +12128,7 @@ recipes:
   - 香蕉
   - 花青素
   - 护眼
-  file: recipes\juice\mixed_juice\蓝莓香蕉汁.md
+  file: recipes/juice/mixed_juice/蓝莓香蕉汁.md
   source: juice-book
 - title: 蔓越莓之吻
   category: mixed_juice
@@ -12143,7 +12143,7 @@ recipes:
   - 黄瓜
   - 羽衣甘蓝
   - 抗氧化
-  file: recipes\juice\mixed_juice\蔓越莓之吻.md
+  file: recipes/juice/mixed_juice/蔓越莓之吻.md
   source: juice-book
 - title: 西柚绿蔬交响
   category: mixed_juice
@@ -12158,7 +12158,7 @@ recipes:
   - 黄瓜
   - 菠菜
   - 减脂
-  file: recipes\juice\mixed_juice\西柚绿蔬交响.md
+  file: recipes/juice/mixed_juice/西柚绿蔬交响.md
   source: juice-book
 - title: 西瓜薄荷汁
   category: mixed_juice
@@ -12172,7 +12172,7 @@ recipes:
   - 薄荷
   - 消暑
   - 清凉
-  file: recipes\juice\mixed_juice\西瓜薄荷汁.md
+  file: recipes/juice/mixed_juice/西瓜薄荷汁.md
   source: juice-book
 - title: 醇味绿色假期
   category: mixed_juice
@@ -12191,7 +12191,7 @@ recipes:
   - 芹菜
   - 羽衣甘蓝
   - 净化
-  file: recipes\juice\mixed_juice\醇味绿色假期.md
+  file: recipes/juice/mixed_juice/醇味绿色假期.md
   source: juice-book
 - title: 香瓜西柚汁（我不是草莓牛奶）
   category: mixed_juice
@@ -12205,7 +12205,7 @@ recipes:
   - 西柚
   - 净化
   - 清肠
-  file: recipes\juice\mixed_juice\香瓜西柚汁.md
+  file: recipes/juice/mixed_juice/香瓜西柚汁.md
   source: juice-book
 - title: 麦苗强力排毒汁
   category: mixed_juice
@@ -12222,7 +12222,7 @@ recipes:
   - 柠檬
   - 排毒
   - 抗衰老
-  file: recipes\juice\mixed_juice\麦苗强力排毒汁.md
+  file: recipes/juice/mixed_juice/麦苗强力排毒汁.md
   source: juice-book
 - title: 黄瓜柠檬汁
   category: mixed_juice
@@ -12238,7 +12238,7 @@ recipes:
   - 柠檬
   - 美白
   - 补水
-  file: recipes\juice\mixed_juice\黄瓜柠檬汁.md
+  file: recipes/juice/mixed_juice/黄瓜柠檬汁.md
   source: juice-book
 - title: 基本绿蔬果汁
   category: vegetable_juice
@@ -12252,7 +12252,7 @@ recipes:
   - 绿叶菜
   - 排毒
   - 入门
-  file: recipes\juice\vegetable_juice\基本绿蔬果汁.md
+  file: recipes/juice/vegetable_juice/基本绿蔬果汁.md
   source: juice-book
 - title: 生菜汁
   category: vegetable_juice
@@ -12265,7 +12265,7 @@ recipes:
   - 生菜
   - 低卡
   - 安神
-  file: recipes\juice\vegetable_juice\生菜汁.md
+  file: recipes/juice/vegetable_juice/生菜汁.md
   source: juice-book
 - title: 番茄汁
   category: vegetable_juice
@@ -12278,7 +12278,7 @@ recipes:
   - 番茄
   - 番茄红素
   - 美白
-  file: recipes\juice\vegetable_juice\番茄汁.md
+  file: recipes/juice/vegetable_juice/番茄汁.md
   source: juice-book
 - title: 胡萝卜汁
   category: vegetable_juice
@@ -12291,7 +12291,7 @@ recipes:
   - 胡萝卜
   - 护眼
   - 维A
-  file: recipes\juice\vegetable_juice\胡萝卜汁.md
+  file: recipes/juice/vegetable_juice/胡萝卜汁.md
   source: juice-book
 - title: 芹菜汁
   category: vegetable_juice
@@ -12304,7 +12304,7 @@ recipes:
   - 芹菜
   - 降压
   - 排毒
-  file: recipes\juice\vegetable_juice\芹菜汁.md
+  file: recipes/juice/vegetable_juice/芹菜汁.md
   source: juice-book
 - title: 菠菜汁
   category: vegetable_juice
@@ -12317,7 +12317,7 @@ recipes:
   - 菠菜
   - 补铁
   - 维K
-  file: recipes\juice\vegetable_juice\菠菜汁.md
+  file: recipes/juice/vegetable_juice/菠菜汁.md
   source: juice-book
 - title: 超能羽衣甘蓝汁
   category: vegetable_juice
@@ -12332,7 +12332,7 @@ recipes:
   - 苹果
   - 芹菜
   - 净化
-  file: recipes\juice\vegetable_juice\超能羽衣甘蓝汁.md
+  file: recipes/juice/vegetable_juice/超能羽衣甘蓝汁.md
   source: juice-book
 - title: 身心调节 V8 蔬果汁
   category: vegetable_juice
@@ -12352,7 +12352,7 @@ recipes:
   - 甜菜
   - 综合
   - 抗氧化
-  file: recipes\juice\vegetable_juice\身心调节V8蔬果汁.md
+  file: recipes/juice/vegetable_juice/身心调节V8蔬果汁.md
   source: juice-book
 - title: 黄瓜汁
   category: vegetable_juice
@@ -12365,5 +12365,5 @@ recipes:
   - 黄瓜
   - 清热
   - 补水
-  file: recipes\juice\vegetable_juice\黄瓜汁.md
+  file: recipes/juice/vegetable_juice/黄瓜汁.md
   source: juice-book

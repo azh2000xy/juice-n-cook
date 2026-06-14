@@ -42,7 +42,7 @@ def parse_recipe(fm: dict, filepath: str, source: str) -> dict:
         'difficulty': difficulty,
         'ingredients': fm.get('ingredients', []),
         'tags': fm.get('tags', []),
-        'file': str(Path(filepath).relative_to(ROOT)),
+        'file': str(Path(filepath).relative_to(ROOT)).replace('\\', '/'),
         'source': source,
     }
 

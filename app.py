@@ -74,6 +74,8 @@ def expand_aliases(user_ings: list[str]) -> set:
 
 def get_steps_preview(filepath: str) -> list[str]:
     """从食谱文件中提取前 3 步操作步骤"""
+    # 统一路径分隔符
+    filepath = filepath.replace('\\', '/')
     full_path = BASE / filepath
     if not full_path.exists():
         return []
@@ -207,6 +209,7 @@ def api_recipe():
     if not filepath:
         return jsonify({"error": "missing file param"}), 400
 
+    filepath = filepath.replace('\\', '/')
     full_path = BASE / filepath
     if not full_path.exists():
         return jsonify({"error": "recipe not found"}), 404
