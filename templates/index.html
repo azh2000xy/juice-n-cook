@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>果蔬汁菜谱</title>
+<style>
+  :root {
+    --bg: #f8f6f0;
+    --card: #fff;
+    --primary: #e65100;
+    --primary-light: #fff3e0;
+    --text: #333;
+    --text-light: #888;
+    --border: #e8e4dc;
+    --green: #2e7d32;
+    --green-bg: #e8f5e9;
+    --orange: #ef6c00;
+    --orange-bg: #fff3e0;
+    --radius: 14px;
+    --shadow: 0 2px 12px rgba(0,0,0,0.06);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100dvh;
+    -webkit-font-smoothing: antialiased;
+    padding-bottom: env(safe-area-inset-bottom, 20px);
+  }
+
+  /* ── Header ── */
+  .header {
+    background: linear-gradient(135deg, #e65100 0%, #ff8f00 100%);
+    color: #fff;
+    padding: 20px 16px 22px;
+    text-align: center;
+    border-radius: 0 0 24px 24px;
+    box-shadow: 0 4px 20px rgba(230, 81, 0, 0.25);
+  }
+  .header h1 { font-size: 22px; font-weight: 700; letter-spacing: 1px; }
+  .header p { font-size: 13px; opacity: 0.85; margin-top: 4px; }
+
+  /* ── Search Box ── */
+  .search-box {
+    margin: -12px 12px 0;
+    background: var(--card);
+    border-radius: var(--radius);
+    padding: 16px;
+    box-shadow: var(--shadow);
+    position: relative;
+    z-index: 2;
+  }
+  .search-box label {
+    font-size: 13px;
+    color: var(--text-light);
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 600;
+  }
+  .search-box input[type="text"] {
+    width: 100%;
+    padding: 12px 14px;
+    border: 2px solid var(--border);
+    border-radius: 10px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.2s;
+    background: #fafaf8;
+  }
+  .search-box input:focus { border-color: var(--primary); }
+
+  .search-row {
+    display: flex;
+    gap: 8px;
+    margin-top: 10px;
+  }
+  .search-row select {
+    flex: 1;
+    padding: 12px 14px;
+    border: 2px solid var(--border);
+    border-radius: 10px;
+    font-size: 15px;
+    background: #fafaf8;
+    outline: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12'%3E%3Cpath d='M2 4l4 4 4-4' stroke='%23888' stroke-width='2' fill='none'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 12px center;
+  }
+  .search-row button {
+    flex: 1;
+    padding: 12px 16px;
+    background: var(--primary);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: opacity 0.2s;
+  }
+  .search-row button:active { opacity: 0.8; }
+
+  /* ── Type Badge ── */
+  .type-info {
+    display: flex;
+    gap: 8px;
+    margin: 14px 12px 0;
+    font-size: 13px;
+    flex-wrap: wrap;
+  }
+  .type-badge {
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-weight: 600;
+  }
+  .type-badge.juice { background: var(--green-bg); color: var(--green); }
+  .type-badge.cooking { background: var(--orange-bg); color: var(--orange); }
+  .type-badge.both { background: #f3e5f5; color: #7b1fa2; }
+
+  /* ── Results ── */
+  .results { padding: 12px; }
+  .result-count { font-size: 13px; color: var(--text-light); padding: 8px 4px; }
+
+  .recipe-card {
+    background: var(--card);
+    border-radius: var(--radius);
+    padding: 16px;
+    margin-bottom: 10px;
+    box-shadow: var(--shadow);
+    cursor: pointer;
+    transition: transform 0.15s;
+  }
+  .recipe-card:active { transform: scale(0.98); }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  .card-title {
+    font-size: 17px;
+    font-weight: 700;
+    flex: 1;
+  }
+  .card-meta {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .card-meta .method {
+    background: #f5f5f5;
+    padding: 3px 8px;
+    border-radius: 6px;
+    font-size: 12px;
+    color: #666;
+  }
+  .card-meta .stars {
+    font-size: 13px;
+    color: #f9a825;
+  }
+
+  .ing-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-top: 10px;
+    font-size: 13px;
+  }
+  .ing-tag {
+    padding: 3px 9px;
+    border-radius: 6px;
+    font-weight: 500;
+  }
+  .ing-tag.matched {
+    background: #e8f5e9;
+    color: #2e7d32;
+  }
+  .ing-tag.missing {
+    background: #fff3e0;
+    color: #e65100;
+  }
+
+  /* ── Detail Modal ── */
+  .modal-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 100;
+    overflow-y: auto;
+    padding: 20px;
+  }
+  .modal-overlay.active { display: flex; justify-content: center; align-items: flex-start; }
+
+  .modal {
+    background: #fff;
+    border-radius: var(--radius);
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+    margin: 20px 0;
+    position: relative;
+  }
+  .modal .close {
+    position: absolute;
+    top: 12px;
+    right: 14px;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: none;
+    background: #f5f5f5;
+    font-size: 18px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .modal .recipe-body {
+    font-size: 15px;
+    line-height: 1.7;
+    margin-top: 12px;
+  }
+  .modal .recipe-body h2 { font-size: 17px; margin: 16px 0 8px; }
+  .modal .recipe-body ul, .modal .recipe-body ol { padding-left: 20px; margin: 6px 0; }
+  .modal .recipe-body li { margin: 4px 0; }
+
+  /* ── Empty State ── */
+  .empty {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--text-light);
+  }
+  .empty .icon { font-size: 48px; margin-bottom: 12px; }
+  .empty p { font-size: 14px; line-height: 1.6; }
+
+  /* ── Loading ── */
+  .spinner {
+    display: none;
+    text-align: center;
+    padding: 24px;
+    color: var(--text-light);
+  }
+  .spinner.active { display: block; }
+
+  /* ── Footer ── */
+  .footer {
+    text-align: center;
+    padding: 24px 16px 32px;
+    font-size: 12px;
+    color: #bbb;
+  }
+  .footer a { color: #bbb; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>🥕 果蔬汁菜谱</h1>
+  <p>输入冰箱里的食材，智能推荐菜谱和果蔬汁</p>
+</div>
+
+<div class="search-box">
+  <label for="ingredients">🥬 你有哪些食材？</label>
+  <input type="text" id="ingredients"
+         placeholder="例如：番茄 鸡蛋 葱  或  苹果 胡萝卜"
+         autocomplete="off" autofocus>
+  <div class="search-row">
+    <select id="method">
+      <option value="">🍳 做法偏好（可选）</option>
+    </select>
+    <button onclick="doSearch()">🔍 查找</button>
+  </div>
+</div>
+
+<div class="type-info" id="typeInfo"></div>
+<div class="spinner" id="spinner">⏳ 正在匹配食谱...</div>
+<div class="results" id="results">
+  <div class="empty">
+    <div class="icon">👆</div>
+    <p>输入食材开始查找<br>支持空格或逗号分隔多个食材</p>
+    <p style="margin-top:8px;font-size:12px;color:#bbb;">🥬 蔬菜 → 菜谱 &nbsp;|&nbsp; 🍎 水果 → 果蔬汁<br>🍅 番茄/黄瓜 → 两者都推</p>
+  </div>
+</div>
+
+<div class="footer">
+  食谱来自 <a href="https://github.com/Anduin2017/HowToCook" target="_blank">HowToCook</a>
+  &amp; 《蔬果汁轻断食》<br>
+  <a href="https://github.com" target="_blank">GitHub</a>
+</div>
+
+<div class="modal-overlay" id="modalOverlay" onclick="if(event.target===this)closeModal()">
+  <div class="modal" id="modal"></div>
+</div>
+
+<script>
+// ── 初始化 ──────────────────────────────────────
+let currentResults = [];
+
+async function init() {
+  try {
+    const res = await fetch('/api/methods');
+    const methods = await res.json();
+    const sel = document.getElementById('method');
+    sel.innerHTML = '<option value="">🍳 做法偏好（全部）</option>' +
+      methods.map(m => `<option value="${m}">${m}</option>`).join('');
+
+    // 回车触发搜索
+    document.getElementById('ingredients').addEventListener('keydown', e => {
+      if (e.key === 'Enter') doSearch();
+    });
+  } catch(e) { console.error(e); }
+}
+
+// ── 搜索 ────────────────────────────────────────
+async function doSearch() {
+  const ingredients = document.getElementById('ingredients').value.trim();
+  const method = document.getElementById('method').value;
+
+  if (!ingredients) {
+    document.getElementById('ingredients').focus();
+    return;
+  }
+
+  document.getElementById('spinner').classList.add('active');
+  document.getElementById('results').innerHTML = '';
+
+  try {
+    const res = await fetch('/api/search', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({ingredients, method}),
+    });
+    const data = await res.json();
+
+    if (data.error) {
+      document.getElementById('results').innerHTML =
+        `<div class="empty"><p>${data.error}</p></div>`;
+      return;
+    }
+
+    currentResults = data.results;
+    renderTypeInfo(data);
+    renderResults(data);
+  } catch(e) {
+    document.getElementById('results').innerHTML =
+      `<div class="empty"><p>搜索失败，请检查服务器是否运行</p></div>`;
+  } finally {
+    document.getElementById('spinner').classList.remove('active');
+  }
+}
+
+function renderTypeInfo(data) {
+  const type = data.recipe_type;
+  const labels = {juice: '🧃 果蔬汁模式', cooking: '🍳 菜谱模式', both: '🥗 综合推荐'};
+  document.getElementById('typeInfo').innerHTML =
+    type ? `<span class="type-badge ${type}">${labels[type]}</span>` : '';
+}
+
+function renderResults(data) {
+  if (!data.results.length) {
+    document.getElementById('results').innerHTML =
+      `<div class="empty">
+         <div class="icon">🤷</div>
+         <p>没找到匹配的食谱</p>
+         <p style="font-size:13px;color:#bbb;">试试减少或更换食材</p>
+       </div>`;
+    return;
+  }
+
+  let html = `<div class="result-count">找到 <b>${data.total}</b> 个食谱</div>`;
+  data.results.forEach((r, i) => {
+    html += `
+    <div class="recipe-card" onclick="showDetail(${i})">
+      <div class="card-header">
+        <span class="card-title">${r.title}</span>
+        <span class="card-meta">
+          <span class="stars">${r.difficulty_stars}</span>
+          <span class="method">${r.cooking_method}</span>
+        </span>
+      </div>
+      <div class="ing-row">
+        ${r.matched.map(m => `<span class="ing-tag matched">✅ ${m}</span>`).join('')}
+        ${r.missing.map(m => `<span class="ing-tag missing">📋 ${m}</span>`).join('')}
+        ${r.missing_count > r.missing.length ? `<span class="ing-tag missing">+${r.missing_count - r.missing.length}项</span>` : ''}
+      </div>
+    </div>`;
+  });
+  document.getElementById('results').innerHTML = html;
+  window.scrollTo({top: 0, behavior: 'smooth'});
+}
+
+// ── 食谱详情弹窗 ─────────────────────────────────
+async function showDetail(idx) {
+  const r = currentResults[idx];
+  if (!r) return;
+
+  document.getElementById('modal').innerHTML = '<p style="text-align:center;padding:40px;">⏳ 加载中...</p>';
+  document.getElementById('modalOverlay').classList.add('active');
+  document.body.style.overflow = 'hidden';
+
+  try {
+    const res = await fetch(`/api/recipe?file=${encodeURIComponent(r.file)}`);
+    const data = await res.json();
+
+    let html = `<button class="close" onclick="closeModal()">✕</button>`;
+    html += `<h2 style="margin-bottom:4px;">${data.title || r.title}</h2>`;
+    html += `<div style="font-size:13px;color:#888;margin-bottom:12px;">`;
+    html += `⭐ ${data.difficulty || ''} &nbsp; 🔥 ${data.cooking_method || ''}`;
+    if (data.benefits) html += ` &nbsp; 💚 ${data.benefits}`;
+    html += `</div>`;
+
+    // 食材标签
+    if (data.ingredients && data.ingredients.length) {
+      html += `<div style="margin-bottom:12px;">`;
+      data.ingredients.forEach(ing => {
+        const isMatched = r.matched.includes(ing);
+        html += `<span class="ing-tag ${isMatched ? 'matched' : 'missing'}" style="display:inline-block;margin:2px;">${isMatched ? '✅' : '📋'} ${ing}</span>`;
+      });
+      html += `</div>`;
+    }
+
+    // 食谱正文
+    html += `<div class="recipe-body">${markdownToHtml(data.body)}</div>`;
+
+    document.getElementById('modal').innerHTML = html;
+  } catch(e) {
+    document.getElementById('modal').innerHTML =
+      `<button class="close" onclick="closeModal()">✕</button>
+       <p>加载失败：${e.message}</p>`;
+  }
+}
+
+function closeModal() {
+  document.getElementById('modalOverlay').classList.remove('active');
+  document.body.style.overflow = '';
+}
+
+function markdownToHtml(md) {
+  if (!md) return '';
+  // 简单的 Markdown → HTML
+  let html = md
+    .replace(/### (.+)/g, '<h3>$1</h3>')
+    .replace(/## (.+)/g, '<h2>$1</h2>')
+    .replace(/# (.+)/g, '<h1>$1</h1>')
+    .replace(/\*\*(.+?)\*\*/g, '<b>$1</b>')
+    .replace(/```(.+?)```/gs, '<pre><code>$1</code></pre>')
+    .replace(/`(.+?)`/g, '<code>$1</code>')
+    .replace(/^- (.+)/gm, '<li>$1</li>')
+    .replace(/(<li>.*<\/li>)/s, '<ul>$1</ul>')
+    .replace(/^(\d+)\. (.+)/gm, '<li>$2</li>')
+    .replace(/\n\n/g, '</p><p>')
+    .replace(/\n/g, '<br>');
+  return '<p>' + html + '</p>';
+}
+
+// ── 启动 ────────────────────────────────────────
+init();
+</script>
+</body>
+</html>

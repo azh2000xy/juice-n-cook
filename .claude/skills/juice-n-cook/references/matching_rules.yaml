@@ -1,0 +1,27 @@
+# 匹配打分规则
+scoring:
+  weight_overlap: 0.6        # 食材重叠率权重
+  bonus_exact: 0.2           # 完全匹配加分
+  bonus_season: 0.1          # 应季加分
+  bonus_common: 0.05         # 常见菜式加分
+
+# 阈值设定
+thresholds:
+  min_overlap_ratio: 0.25    # 最低食材重叠比例（低于此值不推荐）
+  max_results: 5             # 默认推荐数量
+  max_missing_show: 4        # 最多显示缺失食材数
+
+# 降级策略
+fallback:
+  # 无匹配时策略
+  no_match_strategy: relax   # relax: 降低 min_overlap_ratio 到 0.15 重试
+  # 空输入时策略
+  no_ingredient_strategy: popular  # popular: 推荐热门排行 / seasonal: 推荐当季
+  # 只输入一个食材时
+  single_ingredient_threshold: 0.15  # 放宽到 0.15
+
+# 排序优先级
+sort_order:
+  - score              # 匹配分
+  - difficulty         # 难度（低的优先）
+  - prep_time          # 准备时间（短的优先）

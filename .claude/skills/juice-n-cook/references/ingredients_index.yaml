@@ -1,0 +1,334 @@
+# 食材分类索引
+# category: fruit | vegetable | fruit-vegetable
+# fruit-vegetable = 双栖食材，同时可用于做菜和榨汁
+
+ingredients:
+  # ========== 水果 ==========
+  - name: 苹果
+    category: fruit
+    aliases: [苹果, 红富士, 国光]
+    season: [秋, 冬]
+
+  - name: 香蕉
+    category: fruit
+    aliases: [香蕉]
+    season: [全年]
+
+  - name: 橙子
+    category: fruit
+    aliases: [橙子, 橙, 甜橙, 脐橙]
+    season: [冬, 春]
+
+  - name: 梨
+    category: fruit
+    aliases: [梨, 雪梨, 鸭梨, 香梨]
+    season: [秋, 冬]
+
+  - name: 西瓜
+    category: fruit
+    aliases: [西瓜]
+    season: [夏]
+
+  - name: 草莓
+    category: fruit
+    aliases: [草莓]
+    season: [冬, 春]
+
+  - name: 葡萄
+    category: fruit
+    aliases: [葡萄, 提子]
+    season: [夏, 秋]
+
+  - name: 芒果
+    category: fruit
+    aliases: [芒果]
+    season: [春, 夏]
+
+  - name: 菠萝
+    category: fruit
+    aliases: [菠萝, 凤梨]
+    season: [春, 夏]
+
+  - name: 柠檬
+    category: fruit
+    aliases: [柠檬]
+    season: [全年]
+
+  - name: 猕猴桃
+    category: fruit
+    aliases: [猕猴桃, 奇异果]
+    season: [秋, 冬]
+
+  - name: 火龙果
+    category: fruit
+    aliases: [火龙果]
+    season: [夏, 秋]
+
+  - name: 蓝莓
+    category: fruit
+    aliases: [蓝莓]
+    season: [夏]
+
+  - name: 石榴
+    category: fruit
+    aliases: [石榴]
+    season: [秋]
+
+  - name: 樱桃
+    category: fruit
+    aliases: [樱桃, 车厘子]
+    season: [春, 夏]
+
+  - name: 桃子
+    category: fruit
+    aliases: [桃子, 桃, 水蜜桃, 蜜桃]
+    season: [夏]
+
+  - name: 柚子
+    category: fruit
+    aliases: [柚子, 文旦]
+    season: [秋, 冬]
+
+  - name: 哈密瓜
+    category: fruit
+    aliases: [哈密瓜, 甜瓜]
+    season: [夏, 秋]
+
+  - name: 牛油果
+    category: fruit
+    aliases: [牛油果, 鳄梨]
+    season: [全年]
+
+  - name: 百香果
+    category: fruit
+    aliases: [百香果, 西番莲]
+    season: [夏, 秋]
+
+  - name: 椰子
+    category: fruit
+    aliases: [椰子, 椰青]
+    season: [全年]
+
+  # ========== 蔬菜 ==========
+  - name: 白菜
+    category: vegetable
+    aliases: [白菜, 大白菜, 娃娃菜, 黄芽菜]
+    season: [秋, 冬, 春]
+
+  - name: 菠菜
+    category: vegetable
+    aliases: [菠菜]
+    season: [春, 秋, 冬]
+
+  - name: 土豆
+    category: vegetable
+    aliases: [土豆, 马铃薯, 洋芋]
+    season: [全年]
+
+  - name: 豆腐
+    category: vegetable
+    aliases: [豆腐, 嫩豆腐, 老豆腐, 北豆腐, 南豆腐]
+    season: [全年]
+
+  - name: 鸡蛋
+    category: vegetable
+    aliases: [鸡蛋, 蛋, 土鸡蛋]
+    season: [全年]
+
+  - name: 茄子
+    category: vegetable
+    aliases: [茄子, 落苏]
+    season: [夏, 秋]
+
+  - name: 豆角
+    category: vegetable
+    aliases: [豆角, 豇豆, 四季豆, 芸豆]
+    season: [夏, 秋]
+
+  - name: 西兰花
+    category: vegetable
+    aliases: [西兰花, 花椰菜, 青花菜]
+    season: [秋, 冬, 春]
+
+  - name: 芹菜
+    category: vegetable
+    aliases: [芹菜, 西芹, 旱芹]
+    season: [全年]
+
+  - name: 韭菜
+    category: vegetable
+    aliases: [韭菜]
+    season: [春, 秋]
+
+  - name: 洋葱
+    category: vegetable
+    aliases: [洋葱, 洋葱头]
+    season: [全年]
+
+  - name: 蒜
+    category: vegetable
+    aliases: [蒜, 大蒜, 蒜头, 蒜瓣]
+    season: [全年]
+
+  - name: 姜
+    category: vegetable
+    aliases: [姜, 生姜, 老姜, 嫩姜]
+    season: [全年]
+
+  - name: 葱
+    category: vegetable
+    aliases: [葱, 大葱, 小葱, 香葱, 葱花]
+    season: [全年]
+
+  - name: 辣椒
+    category: vegetable
+    aliases: [辣椒, 尖椒, 小米辣, 干辣椒, 剁椒]
+    season: [夏, 秋]
+
+  - name: 蘑菇
+    category: vegetable
+    aliases: [蘑菇, 香菇, 平菇, 金针菇, 杏鲍菇, 口蘑]
+    season: [全年]
+
+  - name: 木耳
+    category: vegetable
+    aliases: [木耳, 黑木耳, 云耳]
+    season: [全年]
+
+  - name: 莲藕
+    category: vegetable
+    aliases: [莲藕, 藕, 藕片]
+    season: [秋, 冬]
+
+  - name: 山药
+    category: vegetable
+    aliases: [山药, 淮山, 铁棍山药]
+    season: [秋, 冬]
+
+  - name: 冬瓜
+    category: vegetable
+    aliases: [冬瓜]
+    season: [夏, 秋]
+
+  - name: 苦瓜
+    category: vegetable
+    aliases: [苦瓜, 凉瓜]
+    season: [夏]
+
+  - name: 白萝卜
+    category: vegetable
+    aliases: [白萝卜, 萝卜]
+    season: [秋, 冬]
+
+  - name: 豆芽
+    category: vegetable
+    aliases: [豆芽, 绿豆芽, 黄豆芽]
+    season: [全年]
+
+  - name: 生菜
+    category: vegetable
+    aliases: [生菜, 叶生菜, 结球生菜]
+    season: [全年]
+
+  - name: 油菜
+    category: vegetable
+    aliases: [油菜, 上海青, 小油菜, 青菜]
+    season: [全年]
+
+  # ========== 双栖食材（fruit-vegetable）==========
+  - name: 番茄
+    category: fruit-vegetable
+    aliases: [番茄, 西红柿, 洋柿子]
+    season: [夏, 秋]
+
+  - name: 黄瓜
+    category: fruit-vegetable
+    aliases: [黄瓜, 青瓜, 胡瓜]
+    season: [夏, 秋]
+
+  - name: 南瓜
+    category: fruit-vegetable
+    aliases: [南瓜, 倭瓜, 金瓜]
+    season: [秋, 冬]
+
+  - name: 胡萝卜
+    category: fruit-vegetable
+    aliases: [胡萝卜, 红萝卜, 甘笋]
+    season: [秋, 冬, 春]
+
+  - name: 青椒
+    category: fruit-vegetable
+    aliases: [青椒, 甜椒, 菜椒, 柿子椒]
+    season: [夏, 秋]
+
+  - name: 玉米
+    category: fruit-vegetable
+    aliases: [玉米, 苞米, 玉米粒, 玉米棒]
+    season: [夏, 秋]
+
+  - name: 红薯
+    category: fruit-vegetable
+    aliases: [红薯, 地瓜, 番薯, 甘薯]
+    season: [秋, 冬]
+
+  - name: 紫薯
+    category: fruit-vegetable
+    aliases: [紫薯, 紫甘薯]
+    season: [秋, 冬]
+
+  - name: 西葫芦
+    category: fruit-vegetable
+    aliases: [西葫芦, 角瓜, 小瓜]
+    season: [夏, 秋]
+
+  # ========== 肉类/水产制品的分类标记为 vegetable（做菜用）==========
+  # 这些不会用于榨汁，统一归为 vegetable（触发 cooking 推荐）
+  - name: 猪肉
+    category: vegetable
+    aliases: [猪肉, 五花肉, 里脊肉, 瘦肉, 猪瘦肉, 猪五花, 猪里脊肉, 猪里脊, 猪肉末, 猪肉片, 猪肉馅, 猪通脊肉, 去皮猪肉, 带皮猪五花肉, 梅头猪肉]
+    season: [全年]
+
+  - name: 猪蹄
+    category: vegetable
+    aliases: [猪蹄, 咸猪蹄, 猪脚, 猪手, 咸猪脚, 腊猪蹄, 红烧猪蹄]
+    season: [全年]
+
+  - name: 鸡肉
+    category: vegetable
+    aliases: [鸡肉, 鸡胸肉, 鸡腿肉, 鸡翅, 鸡]
+    season: [全年]
+
+  - name: 牛肉
+    category: vegetable
+    aliases: [牛肉, 牛腩, 牛腱, 牛排]
+    season: [全年]
+
+  - name: 羊肉
+    category: vegetable
+    aliases: [羊肉, 羊排, 羊腿]
+    season: [秋, 冬]
+
+  - name: 鱼
+    category: vegetable
+    aliases: [鱼, 鲤鱼, 鲫鱼, 草鱼, 鲈鱼, 带鱼, 三文鱼, 鱼肉]
+    season: [全年]
+
+  - name: 虾
+    category: vegetable
+    aliases: [虾, 虾仁, 大虾, 基围虾, 明虾]
+    season: [全年]
+
+  - name: 大米
+    category: vegetable
+    aliases: [大米, 米, 米饭, 白米饭]
+    season: [全年]
+
+  - name: 面粉
+    category: vegetable
+    aliases: [面粉, 中筋面粉, 低筋面粉, 高筋面粉, 小麦粉]
+    season: [全年]
+
+  - name: 面条
+    category: vegetable
+    aliases: [面条, 挂面, 拉面, 手擀面]
+    season: [全年]
