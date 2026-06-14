@@ -111,6 +111,34 @@
   }
   .search-row button:active { opacity: 0.8; }
 
+  /* ── Match Mode Toggle ── */
+  .match-toggle {
+    display: flex;
+    margin-top: 10px;
+    background: #f0ede5;
+    border-radius: 10px;
+    padding: 3px;
+    gap: 3px;
+  }
+  .match-toggle button {
+    flex: 1;
+    padding: 9px 8px;
+    border: none;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    background: transparent;
+    color: var(--text-light);
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+  .match-toggle button.active {
+    background: #fff;
+    color: var(--primary);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+
   /* ── Type Badge ── */
   .type-info {
     display: flex;
@@ -298,6 +326,10 @@
   <input type="text" id="ingredients"
          placeholder="例如：番茄 鸡蛋 葱  或  苹果 胡萝卜"
          autocomplete="off" autofocus>
+  <div class="match-toggle" id="matchToggle">
+    <button class="active" onclick="setMatchMode('strict', this)">🎯 尽量少补食材</button>
+    <button onclick="setMatchMode('loose', this)">🔍 包括该食材即可</button>
+  </div>
   <div class="search-row">
     <select id="method">
       <option value="">🍳 做法偏好（可选）</option>
@@ -329,6 +361,13 @@
 <script>
 // ── 初始化 ──────────────────────────────────────
 let currentResults = [];
+let currentMatchMode = 'strict';
+
+function setMatchMode(mode, btn) {
+  currentMatchMode = mode;
+  document.querySelectorAll('.match-toggle button').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+}
 
 async function init() {
   try {
@@ -362,7 +401,7 @@ async function doSearch() {
     const res = await fetch('/api/search', {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({ingredients, method}),
+      body: JSON.stringify({ingredients, method, match_mode: currentMatchMode}),
     });
     const data = await res.json();
 

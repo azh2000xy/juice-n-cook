@@ -73,17 +73,29 @@ def expand_aliases(user_ings: list[str]) -> set:
 
 
 def search(user_ings: list[str], recipe_type: str = "both",
-           method_filter: str = None) -> list[dict]:
-    """搜索匹配食谱"""
+           method_filter: str = None, match_mode: str = "strict") -> list[dict]:
+    """搜索匹配食谱
+
+    match_mode:
+      - "strict": 尽量少补食材 — score = 匹配/总食材（复杂菜谱门槛高）
+      - "loose":  包括该食材即可 — 只要有交集就列入，按匹配数排序
+    """
     results = []
     # 扩展别名：猪肉 → 五花肉, 猪瘦肉, 里脊肉...
     user_set = expand_aliases(user_ings)
     original_set = set(name.strip() for name in user_ings)
 
     for r in RECIPES:
-        r_ings = set(r.get("ingredients", []))
-        overlap = user_set & r_ings
-        if not overlap:
+        r_ings = r.get("ingredients", [])
+        # 子串匹配：用户搜"鲍鱼"能匹配到"净鲜鲍鱼250克""水发鲍鱼"等
+        matched_ings = []
+        for ing in r_ings:
+            for u in user_set:
+                if u in ing:
+                    matched_ings.append(ing)
+                    break
+
+        if not matched_ings:
             continue
 
         # 类型过滤
@@ -99,13 +111,23 @@ def search(user_ings: list[str], recipe_type: str = "both",
             if r_method != method_filter:
                 continue
 
-        # 打分
-        score = len(overlap) / len(r_ings) if r_ings else 0
-        if score < 0.08:  # 极低阈值，确保单食材也能匹配
-            continue
+        # 打分（两种模式）
+        n_matched = len(matched_ings)
+        if match_mode == "loose":
+            # "包括该食材即可" — 按命中数排，不惩罚复杂菜谱
+            score = n_matched
+        else:
+            # "尽量少补食材" — 缺失越少分越高
+            score = n_matched / len(r_ings) if r_ings else 0
+            if score < 0.08:  # 极低阈值，确保单食材也能匹配
+                continue
 
-        missing = list(r_ings - user_set)
-        matched = list(overlap & r_ings)  # 用户实际能提供的（含别名扩展）
+        # 找出用户实际匹配到的搜索词（去重）
+        matched_terms = []
+        for u in user_set:
+            if any(u in ing for ing in matched_ings):
+                matched_terms.append(u)
+        missing = [ing for ing in r_ings if ing not in matched_ings]
         results.append({
             "title": r.get("title", ""),
             "category": r.get("category", ""),
@@ -113,7 +135,7 @@ def search(user_ings: list[str], recipe_type: str = "both",
             "difficulty": r.get("difficulty", 3),
             "difficulty_stars": "★" * r.get("difficulty", 3),
             "ingredients": r.get("ingredients", []),
-            "matched": matched,
+            "matched": matched_terms,
             "missing": missing[:THRESHOLDS.get("max_missing_show", 6)],
             "missing_count": len(missing),
             "steps": r.get("steps", []),
@@ -150,6 +172,7 @@ def api_search():
     data = request.get_json(force=True)
     user_input = data.get("ingredients", "")
     method = data.get("method", "")
+    match_mode = data.get("match_mode", "strict")  # "strict" | "loose"
 
     if not user_input.strip():
         return jsonify({"error": "请输入食材"}), 400
@@ -163,7 +186,7 @@ def api_search():
     recipe_type = determine_type(fruits, veggies, method)
 
     # Step 3: 匹配
-    results = search(user_ings, recipe_type, method if method else None)
+    results = search(user_ings, recipe_type, method if method else None, match_mode)
 
     return jsonify({
         "recipe_type": recipe_type,

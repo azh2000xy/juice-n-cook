@@ -5,12 +5,13 @@
 | 指标 | 数据 |
 |------|------|
 | 菜谱 | 5,851 道（HowToCook 365 + 3000例提取 38 + Counterfactual 100 + EPUB菜谱大全 5,348） |
-| 果蔬汁 | 58 道（30手创 + 28 OCR提取） |
-| **总计** | **5,909 道** |
-| 独立食材 | 18,421 个 |
+| 果蔬汁 | 178 道（30手创 + 28 OCR提取 + 120 EPUB果蔬汁断食法） |
+| **总计** | **6,029 道** |
+| 独立食材 | 18,451 个 |
 | 格式 | 全部统一 YAML frontmatter + Markdown |
 | Web App | https://juice-n-cook.onrender.com |
 | GitHub | https://github.com/azh2000xy/juice-n-cook |
+| 匹配模式 | 双模式 — 🎯尽量少补食材 / 🔍包括该食材即可 |
 
 ## 项目结构
 
@@ -33,7 +34,7 @@ D:\D\果蔬汁菜谱\
 │   │   ├── drink/          饮品
 │   │   ├── condiment/      调料
 │   │   └── semi-finished/  半成品
-│   └── juice/     58道
+│   └── juice/     178道
 │       ├── fruit_juice/     纯果汁
 │       ├── vegetable_juice/ 蔬菜汁
 │       └── mixed_juice/     混合果蔬汁
@@ -67,9 +68,11 @@ D:\D\果蔬汁菜谱\
 | 来源 | 已提取 | 总量 | 提取率 | 缺口原因 |
 |------|------|------|------|------|
 | HowToCook | 365 | 365 | 100% | — |
+| EPUB 果蔬汁断食法 | 120 | ~150 | ~80% | EPUB中部分配方与已有重复 |
 | EPUB 菜谱大全 (6744道) | 5,348 | 6,744 | 79% | 内部重复 1,201 道，解析失败 86 道 |
 | Counterfactual Recipe（北大） | 100 | ~2,500 | 4% | 深度挖掘：50菜×2最优变体 |
 | 蔬果汁轻断食 PDF | 58 | ~80 | ~72% | OCR 损失 20% |
+| 果蔬汁断食法 EPUB | 120 | ~150 | ~80% | 子串匹配+去重 24 道 |
 | 超人气家常菜3000例 PDF | 38 | ~500+ | ~7% | OCR 极差 |
 
 ### 缺口填补情况
@@ -165,7 +168,7 @@ git push → Render 自动部署（约2分钟）
 
 ## 核心设计决策
 
-1. **统一YAML frontmatter**：全部512道菜谱统一使用YAML frontmatter + Markdown格式
+1. **统一YAML frontmatter**：全部6,029道菜谱统一使用YAML frontmatter + Markdown格式
 2. **食材别名扩展**：用户输入"咸猪蹄"→匹配索引中的"猪蹄"（通过ingredients_index.yaml别名）
 3. **步骤预计算**：build_index.py提取前3步存入索引，搜索API不读文件
 4. **双栖食材**：番茄/黄瓜/胡萝卜等标记为fruit-vegetable，同时推荐菜谱+果蔬汁
