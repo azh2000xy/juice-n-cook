@@ -80,8 +80,11 @@ def build_index():
             print(f"  SKIP (no frontmatter): {md_file.name}")
             continue
 
-        # 判断来源
-        if 'cooking' in md_file.parts:
+        # 判断来源：优先从 YAML frontmatter 读取，目录路径作为回退
+        source = fm.get('source', '')
+        if source:
+            pass  # 已从 frontmatter 中获取
+        elif 'cooking' in md_file.parts:
             source = 'howtocook'
         elif 'juice' in md_file.parts:
             source = 'juice-book'
@@ -113,13 +116,13 @@ def build_index():
         yaml.dump(index, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
 
     # 摘要
-    cooking_count = sum(1 for r in recipes if r['source'] == 'howtocook')
-    juice_count = sum(1 for r in recipes if r['source'] == 'juice-book')
+    from collections import Counter
+    source_counts = Counter(r['source'] for r in recipes)
 
     print(f"Index built successfully!")
     print(f"  Total recipes: {len(recipes)}")
-    print(f"    - Cooking: {cooking_count}")
-    print(f"    - Juice:   {juice_count}")
+    for src, cnt in source_counts.most_common():
+        print(f"    - {src}: {cnt}")
     print(f"  Unique ingredients: {len(index['by_ingredient'])}")
     print(f"  Categories: {list(index['by_category'].keys())}")
     print(f"  Output: {OUTPUT_PATH}")
